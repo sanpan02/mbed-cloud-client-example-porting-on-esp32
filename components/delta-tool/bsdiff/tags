@@ -1,0 +1,46 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BSDIFF_H	bsdiff.h	30;"	d
+I	bsdiff.c	/^    int64_t *I;$/;"	m	struct:bsdiff_request	file:
+MAX_FRAME_SIZE_DEFAULT	bsdiff.c	42;"	d	file:
+MAX_NEXT_SIZE	bspatch_main.c	40;"	d	file:
+MIN	bsdiff.c	41;"	d	file:
+PATCH_TRACING	bspatch_main.c	/^int PATCH_TRACING = 0;$/;"	v
+batch_read_size	bspatch_main.c	/^int64_t batch_read_size;$/;"	v
+bs_patch	bspatch_main.c	/^struct bspatch_stream bs_patch;$/;"	v	typeref:struct:bspatch_stream
+bsdiff	bsdiff.c	/^int bsdiff(const uint8_t* old, int64_t oldsize, const uint8_t* new, int64_t newsize, struct bsdiff_stream* stream,$/;"	f
+bsdiff_internal	bsdiff.c	/^static int bsdiff_internal(const struct bsdiff_request req, int64_t* max_deCompressBuffer_size,$/;"	f	file:
+bsdiff_request	bsdiff.c	/^struct bsdiff_request {$/;"	s	file:
+bsdiff_stream	bsdiff.h	/^struct bsdiff_stream {$/;"	s
+buffer	bsdiff.c	/^    uint8_t *buffer;$/;"	m	struct:bsdiff_request	file:
+file_write	bsdiff.c	/^static int file_write(struct bsdiff_stream* stream, const void* buffer,$/;"	f	file:
+free	bsdiff.h	/^    void (*free)(void* ptr);$/;"	m	struct:bsdiff_stream
+log	bsdiff.c	45;"	d	file:
+log	bsdiff.c	47;"	d	file:
+main	bsdiff.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	bspatch_main.c	/^int main(int argc, char * argv[]) {$/;"	f
+malloc	bsdiff.h	/^    void* (*malloc)(size_t size);$/;"	m	struct:bsdiff_stream
+matchlen	bsdiff.c	/^static int64_t matchlen(const uint8_t *old, int64_t oldsize, const uint8_t *new, int64_t newsize)$/;"	f	file:
+new	bsdiff.c	/^    const uint8_t* new;$/;"	m	struct:bsdiff_request	file:
+newsize	bsdiff.c	/^    int64_t newsize;$/;"	m	struct:bsdiff_request	file:
+nextEventToPostToBsPatch	bspatch_main.c	/^static int nextEventToPostToBsPatch = 0;$/;"	v	file:
+offtout	bsdiff.c	/^static void offtout(int64_t x, uint8_t *buf)$/;"	f	file:
+old	bsdiff.c	/^    const uint8_t* old;$/;"	m	struct:bsdiff_request	file:
+oldsize	bsdiff.c	/^    int64_t oldsize;$/;"	m	struct:bsdiff_request	file:
+opaque	bsdiff.h	/^    void* opaque;$/;"	m	struct:bsdiff_stream
+qsufsort	bsdiff.c	/^static void qsufsort(int64_t *I, int64_t *V, const uint8_t *old, int64_t oldsize)$/;"	f	file:
+readCounter	bspatch_main.c	/^static int readCounter = 0;$/;"	v	file:
+read_old	bspatch_main.c	/^static int read_old(const struct bspatch_stream* stream, void* buffer,$/;"	f	file:
+read_patch	bspatch_main.c	/^static int read_patch(const struct bspatch_stream* stream, void* buffer,$/;"	f	file:
+search	bsdiff.c	/^static int64_t search(const int64_t *I, const uint8_t *old, int64_t oldsize, const uint8_t *new, int64_t newsize,$/;"	f	file:
+seek_old	bspatch_main.c	/^static int seek_old(const struct bspatch_stream* stream, int64_t seek_diff) {$/;"	f	file:
+split	bsdiff.c	/^static void split(int64_t *I, int64_t *V, int64_t start, int64_t len, int64_t h)$/;"	f	file:
+stream	bsdiff.c	/^    struct bsdiff_stream* stream;$/;"	m	struct:bsdiff_request	typeref:struct:bsdiff_request::bsdiff_stream	file:
+virtualDataAmount	bspatch_main.c	/^static int virtualDataAmount = 0;$/;"	v	file:
+write	bsdiff.h	/^    int (*write)(struct bsdiff_stream* stream, const void* buffer,$/;"	m	struct:bsdiff_stream
+write_new	bspatch_main.c	/^static int write_new(const struct bspatch_stream* stream, void* buffer,$/;"	f	file:
+writedeCompressBuffer	bsdiff.c	/^static int writedeCompressBuffer(struct bsdiff_stream* stream, const void* buffer, int64_t length,$/;"	f	file:
