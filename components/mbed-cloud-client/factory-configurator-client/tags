@@ -1,0 +1,1498 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AREA_STATE_EMPTY	mbed-client-esfs/source/sotp/sotp.c	/^    AREA_STATE_EMPTY,$/;"	e	enum:__anon25	file:
+AREA_STATE_NONE	mbed-client-esfs/source/sotp/sotp.c	/^    AREA_STATE_NONE = 0,$/;"	e	enum:__anon25	file:
+AREA_STATE_VALID	mbed-client-esfs/source/sotp/sotp.c	/^    AREA_STATE_VALID,$/;"	e	enum:__anon25	file:
+ARRAY_LENGTH	storage/source/storage_items_pelion_sst.c	48;"	d	file:
+ASSERT_IN_PC_ENV	utils/utils/pv_error_handling.h	56;"	d
+AUTO_GEN_REVISION_HEADER	Makefile	/^AUTO_GEN_REVISION_HEADER := no$/;"	m
+AUTO_XMD2H	Makefile	/^AUTO_XMD2H ?= no$/;"	m
+CONTEXT_NULL	fcc-bundle-handler/source/fcc_bundle_handler.c	33;"	d	file:
+CONTEXT_NULL	fcc-bundle-handler/source/fcc_bundle_handler.c	36;"	d	file:
+CONTEXT_NULL_COMMA	fcc-bundle-handler/source/fcc_bundle_handler.c	34;"	d	file:
+CONTEXT_NULL_COMMA	fcc-bundle-handler/source/fcc_bundle_handler.c	37;"	d	file:
+CSR_MAX_NUMBER_OF_CSRS	fcc-bundle-handler/source/include/fcc_bundle_utils.h	31;"	d
+CS_CERT_ID_ATTR	crypto-service/crypto-service/cs_der_certs.h	/^    CS_CERT_ID_ATTR,$/;"	e	enum:cs_certificate_attribute_type_
+CS_CN_ATTRIBUTE_TYPE	crypto-service/crypto-service/cs_der_certs.h	/^    CS_CN_ATTRIBUTE_TYPE,$/;"	e	enum:cs_certificate_attribute_type_
+CS_ISSUER_ATTRIBUTE_TYPE	crypto-service/crypto-service/cs_der_certs.h	/^    CS_ISSUER_ATTRIBUTE_TYPE,$/;"	e	enum:cs_certificate_attribute_type_
+CS_MAX_ATTRIBUTE_TYPE	crypto-service/crypto-service/cs_der_certs.h	/^    CS_MAX_ATTRIBUTE_TYPE$/;"	e	enum:cs_certificate_attribute_type_
+CS_OU_ATTRIBUTE_TYPE	crypto-service/crypto-service/cs_der_certs.h	/^    CS_OU_ATTRIBUTE_TYPE,$/;"	e	enum:cs_certificate_attribute_type_
+CS_SHA256	crypto-service/crypto-service/cs_hash.h	/^    CS_SHA256,\/\/not supported : MD2, MD5, SHA, SHA512, SHA384,SHA512$/;"	e	enum:__anon27
+CS_SUBJECT_ATTRIBUTE_TYPE	crypto-service/crypto-service/cs_der_certs.h	/^    CS_SUBJECT_ATTRIBUTE_TYPE,$/;"	e	enum:cs_certificate_attribute_type_
+CS_VALID_FROM_ATTRIBUTE_TYPE	crypto-service/crypto-service/cs_der_certs.h	/^    CS_VALID_FROM_ATTRIBUTE_TYPE,$/;"	e	enum:cs_certificate_attribute_type_
+CS_VALID_TO_ATTRIBUTE_TYPE	crypto-service/crypto-service/cs_der_certs.h	/^    CS_VALID_TO_ATTRIBUTE_TYPE,$/;"	e	enum:cs_certificate_attribute_type_
+DELETE_ITEM_FLAG	mbed-client-esfs/source/sotp/sotp_int.h	49;"	d
+ESFS_AES_BLOCK_SIZE_BYTES	mbed-client-esfs/source/esfs.c	60;"	d	file:
+ESFS_AES_BUF_SIZE_BYTES	mbed-client-esfs/source/esfs.c	70;"	d	file:
+ESFS_AES_COUNTER_INDEX_IN_IV	mbed-client-esfs/source/esfs.c	62;"	d	file:
+ESFS_AES_COUNTER_SIZE_BYTES	mbed-client-esfs/source/esfs.c	63;"	d	file:
+ESFS_AES_IV_SIZE_BYTES	mbed-client-esfs/source/esfs.c	61;"	d	file:
+ESFS_AES_KEY_SIZE_BITS	mbed-client-esfs/source/esfs.c	65;"	d	file:
+ESFS_AES_KEY_SIZE_BYTES	mbed-client-esfs/source/esfs.c	64;"	d	file:
+ESFS_AES_NONCE_SIZE_BYTES	mbed-client-esfs/source/include/esfs.h	24;"	d
+ESFS_BACKUP_DIRECTORY	mbed-client-esfs/source/esfs.c	50;"	d	file:
+ESFS_BITS_IN_BYTE	mbed-client-esfs/source/esfs.c	59;"	d	file:
+ESFS_BUFFER_TOO_SMALL	mbed-client-esfs/source/include/esfs.h	/^    ESFS_BUFFER_TOO_SMALL = 3,$/;"	e	enum:__anon12
+ESFS_CMAC_DOES_NOT_MATCH	mbed-client-esfs/source/include/esfs.h	/^    ESFS_CMAC_DOES_NOT_MATCH = 11,$/;"	e	enum:__anon12
+ESFS_CMAC_SIZE_IN_BYTES	mbed-client-esfs/source/include/esfs.h	38;"	d
+ESFS_ENCRYPTED	mbed-client-esfs/source/include/esfs.h	/^    ESFS_ENCRYPTED = 0x0100,$/;"	e	enum:__anon13
+ESFS_ERROR	mbed-client-esfs/source/include/esfs.h	/^    ESFS_ERROR = 4 ,$/;"	e	enum:__anon12
+ESFS_ERROR_MAXVAL	mbed-client-esfs/source/include/esfs.h	/^    ESFS_ERROR_MAXVAL = 0xFFFF$/;"	e	enum:__anon12
+ESFS_EXISTS	mbed-client-esfs/source/include/esfs.h	/^    ESFS_EXISTS = 5,$/;"	e	enum:__anon12
+ESFS_EXTENDED_ACL	mbed-client-esfs/source/include/esfs.h	/^    ESFS_EXTENDED_ACL = 0x0400,$/;"	e	enum:__anon13
+ESFS_FACTORY_VAL	mbed-client-esfs/source/include/esfs.h	/^    ESFS_FACTORY_VAL = 0x0200,$/;"	e	enum:__anon13
+ESFS_FILE_COPY_CHUNK_SIZE	mbed-client-esfs/source/esfs.c	75;"	d	file:
+ESFS_FILE_FORMAT_VERSION	mbed-client-esfs/source/esfs.c	73;"	d	file:
+ESFS_FILE_NAME_LENGTH	mbed-client-esfs/source/include/esfs.h	30;"	d
+ESFS_FILE_OPEN_FOR_READ	mbed-client-esfs/source/include/esfs.h	/^    ESFS_FILE_OPEN_FOR_READ = 8,$/;"	e	enum:__anon12
+ESFS_FILE_OPEN_FOR_WRITE	mbed-client-esfs/source/include/esfs.h	/^    ESFS_FILE_OPEN_FOR_WRITE = 9,$/;"	e	enum:__anon12
+ESFS_HASH_CONFLICT	mbed-client-esfs/source/include/esfs.h	/^    ESFS_HASH_CONFLICT = 7,$/;"	e	enum:__anon12
+ESFS_INTERNAL_ERROR	mbed-client-esfs/source/include/esfs.h	/^    ESFS_INTERNAL_ERROR = 2,$/;"	e	enum:__anon12
+ESFS_INVALID_FILE_VERSION	mbed-client-esfs/source/include/esfs.h	/^    ESFS_INVALID_FILE_VERSION = 10,$/;"	e	enum:__anon12
+ESFS_INVALID_PARAMETER	mbed-client-esfs/source/include/esfs.h	/^    ESFS_INVALID_PARAMETER = 1,$/;"	e	enum:__anon12
+ESFS_MAXVAL	mbed-client-esfs/source/include/esfs.h	/^    ESFS_MAXVAL = 0xFFFF$/;"	e	enum:__anon13
+ESFS_MAX_NAME_LENGTH	mbed-client-esfs/source/include/esfs.h	33;"	d
+ESFS_MAX_TYPE_LENGTH_VALUES	mbed-client-esfs/source/include/esfs.h	28;"	d
+ESFS_NOT_EXISTS	mbed-client-esfs/source/include/esfs.h	/^    ESFS_NOT_EXISTS = 6,$/;"	e	enum:__anon12
+ESFS_OTHER_DELETE	mbed-client-esfs/source/include/esfs.h	/^    ESFS_OTHER_DELETE = 0x0040,$/;"	e	enum:__anon13
+ESFS_OTHER_EXECUTE	mbed-client-esfs/source/include/esfs.h	/^    ESFS_OTHER_EXECUTE = 0x0080,$/;"	e	enum:__anon13
+ESFS_OTHER_READ	mbed-client-esfs/source/include/esfs.h	/^    ESFS_OTHER_READ = 0x0010,$/;"	e	enum:__anon13
+ESFS_OTHER_WRITE	mbed-client-esfs/source/include/esfs.h	/^    ESFS_OTHER_WRITE = 0x0020,$/;"	e	enum:__anon13
+ESFS_PERFORMANCE_END	mbed-client-esfs/source/include/esfs_performance.h	/^        ESFS_PERFORMANCE_END$/;"	e	enum:esfs_performance_type
+ESFS_PERFORMANCE_START	mbed-client-esfs/source/include/esfs_performance.h	/^        ESFS_PERFORMANCE_START,$/;"	e	enum:esfs_performance_type
+ESFS_QUALIFIED_FILE_NAME_LENGTH	mbed-client-esfs/source/include/esfs.h	36;"	d
+ESFS_READ	mbed-client-esfs/source/include/esfs.h	/^    ESFS_READ = 1,    \/\/ This is the same as the standard "O_RDONLY"$/;"	e	enum:__anon14
+ESFS_READ_CHUNK_SIZE_IN_BYTES	mbed-client-esfs/source/esfs.c	57;"	d	file:
+ESFS_SEEK_CUR	mbed-client-esfs/source/include/esfs.h	/^    ESFS_SEEK_CUR = PAL_FS_OFFSET_SEEKCUR,    \/\/ Ofset will be relative to the last position read.$/;"	e	enum:__anon19
+ESFS_SEEK_END	mbed-client-esfs/source/include/esfs.h	/^    ESFS_SEEK_END = PAL_FS_OFFSET_SEEKEND     \/\/ Offset will be relative to the end of the file and must be zero or a negative number.$/;"	e	enum:__anon19
+ESFS_SEEK_SET	mbed-client-esfs/source/include/esfs.h	/^    ESFS_SEEK_SET = PAL_FS_OFFSET_SEEKSET,    \/\/ Offset will be relative to the beginning of the file.$/;"	e	enum:__anon19
+ESFS_SOURCE_INCLUDE_ESFS_PERFORMANCE_H_	mbed-client-esfs/source/include/esfs_performance.h	18;"	d
+ESFS_SUCCESS	mbed-client-esfs/source/include/esfs.h	/^    ESFS_SUCCESS = 0,$/;"	e	enum:__anon12
+ESFS_USER_DELETE	mbed-client-esfs/source/include/esfs.h	/^    ESFS_USER_DELETE = 0x0004,$/;"	e	enum:__anon13
+ESFS_USER_EXECUTE	mbed-client-esfs/source/include/esfs.h	/^    ESFS_USER_EXECUTE = 0x0008,$/;"	e	enum:__anon13
+ESFS_USER_READ	mbed-client-esfs/source/include/esfs.h	/^    ESFS_USER_READ = 0x0001,$/;"	e	enum:__anon13
+ESFS_USER_WRITE	mbed-client-esfs/source/include/esfs.h	/^    ESFS_USER_WRITE = 0x0002,$/;"	e	enum:__anon13
+ESFS_WORKING_DIRECTORY	mbed-client-esfs/source/esfs.c	46;"	d	file:
+ESFS_WRITE	mbed-client-esfs/source/include/esfs.h	/^    ESFS_WRITE = 2    \/\/ This is the same as the standard "O_WRONLY & O_APPEND"$/;"	e	enum:__anon14
+FACTORY_RESET_DIR	mbed-client-esfs/source/esfs.c	53;"	d	file:
+FACTORY_RESET_FILE	mbed-client-esfs/source/esfs.c	54;"	d	file:
+FCC_10_YEARS_IN_SECONDS	factory-configurator-client/source/fcc_verification.c	34;"	d	file:
+FCC_BUNDLE_DATA_PARAMETER_ACL	factory-configurator-client/source/include/fcc_bundle_fields.h	39;"	d
+FCC_BUNDLE_DATA_PARAMETER_ARRAY	factory-configurator-client/source/include/fcc_bundle_fields.h	40;"	d
+FCC_BUNDLE_DATA_PARAMETER_DATA	factory-configurator-client/source/include/fcc_bundle_fields.h	38;"	d
+FCC_BUNDLE_DATA_PARAMETER_FORMAT	factory-configurator-client/source/include/fcc_bundle_fields.h	37;"	d
+FCC_BUNDLE_DATA_PARAMETER_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	35;"	d
+FCC_BUNDLE_DATA_PARAMETER_PRIVATE_KEY_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	41;"	d
+FCC_BUNDLE_DATA_PARAMETER_TYPE	factory-configurator-client/source/include/fcc_bundle_fields.h	36;"	d
+FCC_BUNDLE_DER_DATA_FORMAT_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	55;"	d
+FCC_BUNDLE_PEM_DATA_FORMAT_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	56;"	d
+FCC_BUNDLE_SCHEME_GROUP_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	82;"	d
+FCC_CA_IDENTIFICATION_SIZE	storage/storage/storage_items.h	38;"	d
+FCC_CERTIFICATE_CHAIN_GROUP_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	78;"	d
+FCC_CERTIFICATE_GROUP_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	70;"	d
+FCC_CONFIG_PARAM_GROUP_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	74;"	d
+FCC_CSRREQ_INBOUND_EXTENSIONS_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	125;"	d
+FCC_CSRREQ_INBOUND_EXTENSION_EXTENDEDKEYUSAGE_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	159;"	d
+FCC_CSRREQ_INBOUND_EXTENSION_KEYUSAGE_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	154;"	d
+FCC_CSRREQ_INBOUND_EXTENSION_TRUSTLEVEL_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	149;"	d
+FCC_CSRREQ_INBOUND_MESSAGEDIGEST_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	135;"	d
+FCC_CSRREQ_INBOUND_PRIVATE_KEY_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	120;"	d
+FCC_CSRREQ_INBOUND_SM_DEVICE_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	183;"	d
+FCC_CSRREQ_INBOUND_SM_SECURE_ELEMENT_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	178;"	d
+FCC_CSRREQ_INBOUND_STORAGE_MEDIUM_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	140;"	d
+FCC_CSRREQ_INBOUND_STORAGE_MEDIUM_PRIVATE_KEY_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	168;"	d
+FCC_CSRREQ_INBOUND_STORAGE_MEDIUM_PUBLIC_KEY_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	173;"	d
+FCC_CSRREQ_INBOUND_SUBJECT_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	130;"	d
+FCC_CSR_OUTBOUND_GROUP_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	208;"	d
+FCC_CSR_OUTBOUND_MAP_DATA	factory-configurator-client/source/include/fcc_bundle_fields.h	223;"	d
+FCC_CSR_OUTBOUND_MAP_PRIVATE_KEY_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	218;"	d
+FCC_CSR_REQUESTS_GROUP_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	111;"	d
+FCC_DEVICE_SERIAL_NUMBER_CONFIG_PARAM_TYPE	factory-configurator-client/source/include/fcc_verification.h	/^    FCC_DEVICE_SERIAL_NUMBER_CONFIG_PARAM_TYPE,$/;"	e	enum:__anon5
+FCC_DEVICE_TYPE_CONFIG_PARAM_TYPE	factory-configurator-client/source/include/fcc_verification.h	/^    FCC_DEVICE_TYPE_CONFIG_PARAM_TYPE,$/;"	e	enum:__anon5
+FCC_ECC_PRIVATE_KEY_TYPE_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	46;"	d
+FCC_ECC_PUBLIC_KEY_TYPE_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	47;"	d
+FCC_END_TIMER	utils/utils/fcc_time_profiling.h	65;"	d
+FCC_END_TIMER	utils/utils/fcc_time_profiling.h	73;"	d
+FCC_ENTROPY_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	90;"	d
+FCC_ENTROPY_SIZE	storage/storage/storage_items.h	36;"	d
+FCC_ERROR_INFO_GROUP_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	193;"	d
+FCC_FACTORY_DISABLE_FLAG_SIZE	storage/storage/storage_items.h	41;"	d
+FCC_FACTORY_DISABLE_GROUP_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	102;"	d
+FCC_FCU_SESSION_ID_GROUP_TYPE_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	107;"	d
+FCC_HARDWARE_VERSION_CONFIG_PARAM_TYPE	factory-configurator-client/source/include/fcc_verification.h	/^    FCC_HARDWARE_VERSION_CONFIG_PARAM_TYPE,$/;"	e	enum:__anon5
+FCC_INIT_TIMER	utils/utils/fcc_time_profiling.h	52;"	d
+FCC_INIT_TIMER	utils/utils/fcc_time_profiling.h	71;"	d
+FCC_KEEP_ALIVE_SESSION_GROUP_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	86;"	d
+FCC_KEY_GROUP_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	66;"	d
+FCC_MANUFACTURER_NAME_CONFIG_PARAM_TYPE	factory-configurator-client/source/include/fcc_verification.h	/^    FCC_MANUFACTURER_NAME_CONFIG_PARAM_TYPE,$/;"	e	enum:__anon5
+FCC_MAX_CONFIG_PARAM_TYPE	factory-configurator-client/source/include/fcc_verification.h	/^    FCC_MAX_CONFIG_PARAM_TYPE$/;"	e	enum:__anon5
+FCC_MAX_KEYS_IN_MAP	fcc-bundle-handler/source/fcc_bundle_handler.c	50;"	d	file:
+FCC_MAX_STATUS	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_MAX_STATUS = 0x7fffffff$/;"	e	enum:__anon4
+FCC_MEMORY_TOTAL_SIZE_CONFIG_PARAM_TYPE	factory-configurator-client/source/include/fcc_verification.h	/^    FCC_MEMORY_TOTAL_SIZE_CONFIG_PARAM_TYPE,$/;"	e	enum:__anon5
+FCC_MODEL_NUMBER_CONFIG_PARAM_TYPE	factory-configurator-client/source/include/fcc_verification.h	/^    FCC_MODEL_NUMBER_CONFIG_PARAM_TYPE,$/;"	e	enum:__anon5
+FCC_RETURN_STATUS_GROUP_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	198;"	d
+FCC_ROT_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	94;"	d
+FCC_ROT_SIZE	storage/storage/storage_items.h	37;"	d
+FCC_RSA_PRIVATE_KEY_TYPE_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	48;"	d
+FCC_RSA_PUBLIC_KEY_TYPE_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	49;"	d
+FCC_SET_START_TIMER	utils/utils/fcc_time_profiling.h	56;"	d
+FCC_SET_START_TIMER	utils/utils/fcc_time_profiling.h	72;"	d
+FCC_SIZE_OF_VERSION_FIELD	fcc-bundle-handler/source/fcc_bundle_handler.c	43;"	d	file:
+FCC_STATUS_BOOTSTRAP_MODE_ERROR	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_BOOTSTRAP_MODE_ERROR,       \/\/!< Wrong value of bootstrapUse mode.$/;"	e	enum:__anon4
+FCC_STATUS_BUNDLE_ERROR	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_BUNDLE_ERROR,               \/\/!< Protocol layer general error.$/;"	e	enum:__anon4
+FCC_STATUS_BUNDLE_INVALID_GROUP	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_BUNDLE_INVALID_GROUP,       \/\/!< Protocol layer detected invalid group in a message.$/;"	e	enum:__anon4
+FCC_STATUS_BUNDLE_INVALID_KEEP_ALIVE_SESSION_STATUS	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_BUNDLE_INVALID_KEEP_ALIVE_SESSION_STATUS,\/\/!< The message status is invalid.$/;"	e	enum:__anon4
+FCC_STATUS_BUNDLE_INVALID_SCHEME	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_BUNDLE_INVALID_SCHEME,      \/\/!< The scheme version of a message in the protocol layer is wrong.$/;"	e	enum:__anon4
+FCC_STATUS_BUNDLE_RESPONSE_ERROR	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_BUNDLE_RESPONSE_ERROR,      \/\/!< Protocol layer failed to create response buffer.$/;"	e	enum:__anon4
+FCC_STATUS_BUNDLE_UNSUPPORTED_GROUP	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_BUNDLE_UNSUPPORTED_GROUP,   \/\/!< Protocol layer detected unsupported group was found in a message.$/;"	e	enum:__anon4
+FCC_STATUS_CA_ERROR	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_CA_ERROR,                   \/\/!< CA Certificate already exist in storage (currently only bootstrap CA)$/;"	e	enum:__anon4
+FCC_STATUS_CERTIFICATE_PUBLIC_KEY_CORRELATION_ERROR	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_CERTIFICATE_PUBLIC_KEY_CORRELATION_ERROR, \/\/!< Certificate's public key failed do not matches to corresponding private key        $/;"	e	enum:__anon4
+FCC_STATUS_EMPTY_ITEM	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_EMPTY_ITEM,                 \/\/!< Current item's size is 0$/;"	e	enum:__anon4
+FCC_STATUS_ENTROPY_ERROR	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_ENTROPY_ERROR,              \/\/!< Entropy already exist in storage$/;"	e	enum:__anon4
+FCC_STATUS_ERROR	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_ERROR,                      \/\/!< Operation ended with an unspecified error.$/;"	e	enum:__anon4
+FCC_STATUS_EXPIRED_CERTIFICATE	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_EXPIRED_CERTIFICATE,        \/\/!< Certificate is expired.$/;"	e	enum:__anon4
+FCC_STATUS_FACTORY_DISABLED_ERROR	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_FACTORY_DISABLED_ERROR,     \/\/!< FCC flow was disabled - denial of service error.$/;"	e	enum:__anon4
+FCC_STATUS_FIRST_TO_CLAIM_NOT_ALLOWED	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_FIRST_TO_CLAIM_NOT_ALLOWED, \/\/!< Can't use first to claim without bootstrap or with account ID$/;"	e	enum:__anon4
+FCC_STATUS_INTERNAL_ITEM_ALREADY_EXIST	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_INTERNAL_ITEM_ALREADY_EXIST,\/\/!< Current item already exists in storage.$/;"	e	enum:__anon4
+FCC_STATUS_INVALID_CA_CERT_SIGNATURE	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_INVALID_CA_CERT_SIGNATURE,  \/\/!< Invalid ca signature.$/;"	e	enum:__anon4
+FCC_STATUS_INVALID_CERTIFICATE	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_INVALID_CERTIFICATE,        \/\/!< Invalid certificate found.$/;"	e	enum:__anon4
+FCC_STATUS_INVALID_CERT_ATTRIBUTE	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_INVALID_CERT_ATTRIBUTE,     \/\/!< Operation failed to get an attribute.$/;"	e	enum:__anon4
+FCC_STATUS_INVALID_LWM2M_CN_ATTR	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_INVALID_LWM2M_CN_ATTR,      \/\/!< Invalid CN field of certificate.$/;"	e	enum:__anon4
+FCC_STATUS_INVALID_PARAMETER	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_INVALID_PARAMETER,          \/\/!< A parameter provided to the function was invalid.$/;"	e	enum:__anon4
+FCC_STATUS_ITEM_NOT_EXIST	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_ITEM_NOT_EXIST,             \/\/!< Current item wasn't found in the storage$/;"	e	enum:__anon4
+FCC_STATUS_KCM_CRYPTO_ERROR	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_KCM_CRYPTO_ERROR,           \/\/!< KCM returned error upon cryptographic check of an certificate or key.$/;"	e	enum:__anon4
+FCC_STATUS_KCM_ERROR	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_KCM_ERROR,                  \/\/!< KCM basic functionality failed.$/;"	e	enum:__anon4
+FCC_STATUS_KCM_FILE_EXIST_ERROR	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_KCM_FILE_EXIST_ERROR,       \/\/!< KCM tried to create existing storage item.$/;"	e	enum:__anon4
+FCC_STATUS_KCM_STORAGE_ERROR	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_KCM_STORAGE_ERROR,          \/\/!< KCM failed to read, write or get size of item from\/to storage.$/;"	e	enum:__anon4
+FCC_STATUS_MEMORY_OUT	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_MEMORY_OUT,                 \/\/!< An out-of-memory condition occurred.$/;"	e	enum:__anon4
+FCC_STATUS_NOT_INITIALIZED	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_NOT_INITIALIZED,            \/\/!< FCC failed or did not initialized.$/;"	e	enum:__anon4
+FCC_STATUS_NOT_SUPPORTED	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_NOT_SUPPORTED,             \/\/!< Unsupported feature for current configuration$/;"	e	enum:__anon4
+FCC_STATUS_OUTPUT_INFO_ERROR	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_OUTPUT_INFO_ERROR,          \/\/!< The process failed in output info creation.$/;"	e	enum:__anon4
+FCC_STATUS_ROT_ERROR	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_ROT_ERROR,                  \/\/!< ROT already exist in storage$/;"	e	enum:__anon4
+FCC_STATUS_STORE_ERROR	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_STORE_ERROR,                \/\/!< Internal storage error.$/;"	e	enum:__anon4
+FCC_STATUS_SUCCESS	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_SUCCESS  = 0,                    \/\/!< Operation completed successfully.$/;"	e	enum:__anon4
+FCC_STATUS_TOO_MANY_CSR_REQUESTS	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_TOO_MANY_CSR_REQUESTS,     \/\/!< The message contained more than CSR_MAX_NUMBER_OF_CSRS CSR requests$/;"	e	enum:__anon4
+FCC_STATUS_URI_WRONG_FORMAT	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_URI_WRONG_FORMAT,           \/\/!< Current URI is different than expected.$/;"	e	enum:__anon4
+FCC_STATUS_UTC_OFFSET_WRONG_FORMAT	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_UTC_OFFSET_WRONG_FORMAT,    \/\/!< Current UTC is wrong.$/;"	e	enum:__anon4
+FCC_STATUS_WARNING_CREATE_ERROR	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_WARNING_CREATE_ERROR,       \/\/!< The process failed in output info creation.$/;"	e	enum:__anon4
+FCC_STATUS_WRONG_ITEM_DATA_SIZE	factory-configurator-client/factory-configurator-client/fcc_status.h	/^        FCC_STATUS_WRONG_ITEM_DATA_SIZE,       \/\/!< Current item's size is different then expected$/;"	e	enum:__anon4
+FCC_SYMMETRIC_KEY_TYPE_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	50;"	d
+FCC_TIME_SIZE	storage/storage/storage_items.h	39;"	d
+FCC_UUID5_SIZE_IN_BYTES	factory-configurator-client/source/include/fcc_verification.h	36;"	d
+FCC_VERIFY_DEVICE_IS_READY_GROUP_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	98;"	d
+FCC_WARNING_INFO_GROUP_NAME	factory-configurator-client/source/include/fcc_bundle_fields.h	203;"	d
+FILE_NAME_BASE	mbed-client-esfs/source/sotp/sotp_no_sotp.c	31;"	d	file:
+FILE_NAME_SIZE	mbed-client-esfs/source/sotp/sotp_no_sotp.c	32;"	d	file:
+FTCD_AF_UNSPEC	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	/^    FTCD_AF_UNSPEC = 0,\/\/!< Unspecified IP protocol.$/;"	e	enum:__anon3
+FTCD_COMM_FAILED_TO_CALCULATE_MESSAGE_SIGNATURE	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    FTCD_COMM_FAILED_TO_CALCULATE_MESSAGE_SIGNATURE,$/;"	e	enum:__anon1
+FTCD_COMM_FAILED_TO_PROCESS_DATA	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    FTCD_COMM_FAILED_TO_PROCESS_DATA,$/;"	e	enum:__anon1
+FTCD_COMM_FAILED_TO_PROCESS_MESSAGE	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    FTCD_COMM_FAILED_TO_PROCESS_MESSAGE,$/;"	e	enum:__anon1
+FTCD_COMM_FAILED_TO_READ_MESSAGE_BYTES	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    FTCD_COMM_FAILED_TO_READ_MESSAGE_BYTES,$/;"	e	enum:__anon1
+FTCD_COMM_FAILED_TO_READ_MESSAGE_SIGNATURE	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    FTCD_COMM_FAILED_TO_READ_MESSAGE_SIGNATURE,$/;"	e	enum:__anon1
+FTCD_COMM_FAILED_TO_READ_MESSAGE_SIZE	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    FTCD_COMM_FAILED_TO_READ_MESSAGE_SIZE,$/;"	e	enum:__anon1
+FTCD_COMM_FAILED_TO_SEND_VALID_RESPONSE	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    FTCD_COMM_FAILED_TO_SEND_VALID_RESPONSE,$/;"	e	enum:__anon1
+FTCD_COMM_INCONSISTENT_MESSAGE_SIGNATURE	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    FTCD_COMM_INCONSISTENT_MESSAGE_SIGNATURE,$/;"	e	enum:__anon1
+FTCD_COMM_INTERNAL_ERROR	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    FTCD_COMM_INTERNAL_ERROR,$/;"	e	enum:__anon1
+FTCD_COMM_INVALID_PARAMETER	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    FTCD_COMM_INVALID_PARAMETER,$/;"	e	enum:__anon1
+FTCD_COMM_MEMORY_OUT	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    FTCD_COMM_MEMORY_OUT,$/;"	e	enum:__anon1
+FTCD_COMM_NETWORK_CONNECTION_CLOSED	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    FTCD_COMM_NETWORK_CONNECTION_CLOSED, \/\/ Socket connection was closed by the client$/;"	e	enum:__anon1
+FTCD_COMM_NETWORK_CONNECTION_ERROR	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    FTCD_COMM_NETWORK_CONNECTION_ERROR, \/\/socket error$/;"	e	enum:__anon1
+FTCD_COMM_NETWORK_TIMEOUT	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    FTCD_COMM_NETWORK_TIMEOUT,          \/\/socket timeout error$/;"	e	enum:__anon1
+FTCD_COMM_NET_ENDIANNESS_BIG	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    FTCD_COMM_NET_ENDIANNESS_BIG,$/;"	e	enum:__anon2
+FTCD_COMM_NET_ENDIANNESS_LITTLE	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    FTCD_COMM_NET_ENDIANNESS_LITTLE,$/;"	e	enum:__anon2
+FTCD_COMM_STATUS_ERROR	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    FTCD_COMM_STATUS_ERROR, \/\/generic error$/;"	e	enum:__anon1
+FTCD_COMM_STATUS_MAX_ERROR	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    FTCD_COMM_STATUS_MAX_ERROR = 0xFFFFFFFF$/;"	e	enum:__anon1
+FTCD_COMM_STATUS_SUCCESS	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    FTCD_COMM_STATUS_SUCCESS,$/;"	e	enum:__anon1
+FTCD_IPV4	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	/^    FTCD_IPV4 = 2,     \/\/!< Internet IP Protocol.$/;"	e	enum:__anon3
+FTCD_MSG_HEADER_TOKEN_FCC	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	35;"	d
+FTCD_MSG_HEADER_TOKEN_SDA	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	36;"	d
+FTCD_MSG_HEADER_TOKEN_SIZE_BYTES	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	37;"	d
+FTCD_SEM_TIMEOUT	ftcd-comm-socket/source/ftcd_comm_socket.cpp	35;"	d	file:
+FtcdCommBase	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^class FtcdCommBase {$/;"	c
+FtcdCommBase	ftcd-comm-base/source/ftcd_comm_base.cpp	/^FtcdCommBase::FtcdCommBase(ftcd_comm_network_endianness_e network_endianness, const uint8_t *header_token, bool use_signature)$/;"	f	class:FtcdCommBase
+FtcdCommSerial	ftcd-comm-serial/ftcd-comm-serial/ftcd_comm_serial.h	/^class FtcdCommSerial : public FtcdCommBase {$/;"	c
+FtcdCommSerial	ftcd-comm-serial/source/ftcd_comm_serial.cpp	/^FtcdCommSerial::FtcdCommSerial(ftcd_comm_network_endianness_e network_endianness, const uint8_t *header_token, bool use_signature)$/;"	f	class:FtcdCommSerial
+FtcdCommSocket	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	/^class FtcdCommSocket : public FtcdCommBase {$/;"	c
+FtcdCommSocket	ftcd-comm-socket/source/ftcd_comm_socket.cpp	/^FtcdCommSocket::FtcdCommSocket(const void *interfaceHandler, ftcd_socket_domain_e domain, const uint16_t port_num, ftcd_comm_network_endianness_e network_endianness, const uint8_t *header_token, bool use_signature, int32_t timeout)$/;"	f	class:FtcdCommSocket
+FtcdCommSocket	ftcd-comm-socket/source/ftcd_comm_socket.cpp	/^FtcdCommSocket::FtcdCommSocket(const void *interfaceHandler, ftcd_socket_domain_e domain, const uint16_t port_num, ftcd_comm_network_endianness_e network_endianness, int32_t timeout)$/;"	f	class:FtcdCommSocket
+HALT_ON_RECOVERABLE_ERRORS	utils/utils/pv_error_handling.h	44;"	d
+HALT_ON_RECOVERABLE_ERRORS	utils/utils/pv_error_handling.h	47;"	d
+HALT_ON_UNRECOVERABLE_ERRORS	utils/utils/pv_error_handling.h	45;"	d
+HALT_ON_UNRECOVERABLE_ERRORS	utils/utils/pv_error_handling.h	48;"	d
+HEADER_FLAG_MASK	mbed-client-esfs/source/sotp/sotp_int.h	50;"	d
+INFINITE_SOCKET_TIMEOUT	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	24;"	d
+INITIAL_CRC	mbed-client-esfs/source/sotp/sotp.c	44;"	d	file:
+IS_TOP_LEVEL	Makefile	/^IS_TOP_LEVEL := no$/;"	m
+IntToBase64Char	mbed-client-esfs/source/esfs_file_name.c	/^static char IntToBase64Char(uint8_t intVal)$/;"	f	file:
+KCM_CERTIFICATE_ITEM	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_CERTIFICATE_ITEM,          \/\/!< KCM certificate item type. Supported x509 certificates in der format.$/;"	e	enum:__anon31
+KCM_CONFIG_ITEM	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_CONFIG_ITEM,               \/\/!< KCM configuration parameter item type.$/;"	e	enum:__anon31
+KCM_CRYPTO_STATUS_CERT_EXPIRED	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_CERT_EXPIRED,                           \/\/!< Certificate validity is expired.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_CERT_FUTURE	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_CERT_FUTURE,                            \/\/!< Certificate validity starts in future.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_CERT_MD_ALG	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_CERT_MD_ALG,                            \/\/!< Certificate with bad MD algorithm.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_CERT_NOT_TRUSTED	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_CERT_NOT_TRUSTED,                       \/\/!< Certificate is not trusted.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_CERT_PUB_KEY	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_CERT_PUB_KEY,                           \/\/!< Certificate with bad public key data (size or curve).$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_CERT_PUB_KEY_TYPE	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_CERT_PUB_KEY_TYPE,                      \/\/!< Certificate with unsupported public key PK type.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_ECP_INVALID_KEY	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_ECP_INVALID_KEY,                        \/\/!< Operation failed due to invalid ECP key.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_ENTROPY_MISSING	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_ENTROPY_MISSING,                        \/\/!< Operation failed due to entropy missing.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_FAILED_TO_WRITE_CSR	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_FAILED_TO_WRITE_CSR,                    \/\/!< Operation failed to write CSR to DER buffer.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_FAILED_TO_WRITE_PRIVATE_KEY	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_FAILED_TO_WRITE_PRIVATE_KEY,            \/\/!< Operation failed to write private key to DER buffer.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_FAILED_TO_WRITE_PUBLIC_KEY	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_FAILED_TO_WRITE_PUBLIC_KEY,             \/\/!< Operation failed to write public key to DER buffer.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_FAILED_TO_WRITE_SIGNATURE	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_FAILED_TO_WRITE_SIGNATURE,              \/\/!< Operation failed to calculate signature.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_INVALID_MD_TYPE	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_INVALID_MD_TYPE,                        \/\/!< Operation failed in check of ecc md type.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_INVALID_NAME_FORMAT	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_INVALID_NAME_FORMAT,                    \/\/!< Operation failed due to invalid name format.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_INVALID_OID	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_INVALID_OID,                            \/\/!< Operation failed due to invalid OID.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_INVALID_PK_PRIVKEY	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_INVALID_PK_PRIVKEY,                     \/\/!< Operation failed due to invalid pk private key.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_INVALID_PK_PUBKEY	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_INVALID_PK_PUBKEY,                      \/\/!< Operation failed due to invalid pk public key.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_INVALID_X509_ATTR	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_INVALID_X509_ATTR,                      \/\/!< Certificate with bad x509 attribute$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_PARSING_DER_CERT	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_PARSING_DER_CERT,                       \/\/!< Operation failed to parse der certificate.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_PARSING_DER_PRIVATE_KEY	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_PARSING_DER_PRIVATE_KEY,                \/\/!< Operation failed to parse private der key.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_PARSING_DER_PUBLIC_KEY	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_PARSING_DER_PUBLIC_KEY,                 \/\/!< Operation failed to parse public der key.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_PK_KEY_INVALID_FORMAT	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_PK_KEY_INVALID_FORMAT,                  \/\/!< Operation failed due to invalid pk key format.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_PK_KEY_INVALID_VERSION	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_PK_KEY_INVALID_VERSION,                 \/\/!< Operation failed due to invalid pk version of key.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_PK_PASSWORD_REQUIRED	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_PK_PASSWORD_REQUIRED,                   \/\/!< Operation failed due to missing password.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_PK_UNKNOWN_PK_ALG	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_PK_UNKNOWN_PK_ALG,                      \/\/!< Operation failed due to unknown pk algorithm,$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_PRIVATE_KEY_VERIFICATION_FAILED	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_PRIVATE_KEY_VERIFICATION_FAILED,        \/\/!< Operation failed to verify private key.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_PUBLIC_KEY_VERIFICATION_FAILED	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_PUBLIC_KEY_VERIFICATION_FAILED,         \/\/!< Operation failed to verify public key.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_SET_EXTENSION_FAILED	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_SET_EXTENSION_FAILED,                   \/\/!< Copying the extension from certificate to CSR failed.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_UNSUPPORTED_CURVE	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_UNSUPPORTED_CURVE,                      \/\/!< Unsupported curve.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_UNSUPPORTED_HASH_MODE	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_UNSUPPORTED_HASH_MODE,                  \/\/!< Operation was called with unsupported hash mode.$/;"	e	enum:__anon30
+KCM_CRYPTO_STATUS_VERIFY_SIGNATURE_FAILED	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_CRYPTO_STATUS_VERIFY_SIGNATURE_FAILED,                \/\/!< Operation failed to check the signature.$/;"	e	enum:__anon30
+KCM_CSR_EXT_KU_ANY	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_CSR_EXT_KU_ANY =              (1 << 0),$/;"	e	enum:__anon34
+KCM_CSR_EXT_KU_CLIENT_AUTH	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_CSR_EXT_KU_CLIENT_AUTH =      (1 << 2), \/\/!< SSL \/ TLS Web Client Authentication.$/;"	e	enum:__anon34
+KCM_CSR_EXT_KU_CODE_SIGNING	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_CSR_EXT_KU_CODE_SIGNING =     (1 << 3), \/\/!< Code signing.$/;"	e	enum:__anon34
+KCM_CSR_EXT_KU_EMAIL_PROTECTION	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_CSR_EXT_KU_EMAIL_PROTECTION = (1 << 4), \/\/!< E - mail Protection(S \/ MIME).$/;"	e	enum:__anon34
+KCM_CSR_EXT_KU_NONE	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_CSR_EXT_KU_NONE =             0,$/;"	e	enum:__anon34
+KCM_CSR_EXT_KU_OCSP_SIGNING	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_CSR_EXT_KU_OCSP_SIGNING =     (1 << 9)  \/\/!< OCSP Signing.$/;"	e	enum:__anon34
+KCM_CSR_EXT_KU_SERVER_AUTH	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_CSR_EXT_KU_SERVER_AUTH =      (1 << 1), \/\/!< SSL \/ TLS Web Server Authentication.$/;"	e	enum:__anon34
+KCM_CSR_EXT_KU_TIME_STAMPING	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_CSR_EXT_KU_TIME_STAMPING =    (1 << 8), \/\/!< Trusted Time stamping.$/;"	e	enum:__anon34
+KCM_CSR_KU_DIGITAL_SIGNATURE	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_CSR_KU_DIGITAL_SIGNATURE = 0x1, \/\/!< Digital signature key usage extension bit.$/;"	e	enum:__anon33
+KCM_CSR_KU_KEY_AGREEMENT	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_CSR_KU_KEY_AGREEMENT = 0x8      \/\/!< Key agreement key usage extension bit.$/;"	e	enum:__anon33
+KCM_CSR_KU_KEY_CERT_SIGN	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_CSR_KU_KEY_CERT_SIGN = 0x4,     \/\/!< Certificate signing key usage extension bit.$/;"	e	enum:__anon33
+KCM_CSR_KU_NONE	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_CSR_KU_NONE = 0x0,$/;"	e	enum:__anon33
+KCM_CSR_KU_NON_REPUDIATION	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_CSR_KU_NON_REPUDIATION = 0x2,   \/\/!< Non repudiation key usage extension bit.$/;"	e	enum:__anon33
+KCM_ECDSA_SECP256R1_MAX_SIGNATURE_DER_SIZE_IN_BYTES	crypto-service/crypto-service/cs_der_keys_and_csrs.h	40;"	d
+KCM_EC_SECP256R1_MAX_PRIV_KEY_DER_SIZE	crypto-service/crypto-service/cs_der_keys_and_csrs.h	37;"	d
+KCM_EC_SECP256R1_MAX_PRIV_KEY_RAW_SIZE	crypto-service/crypto-service/cs_der_keys_and_csrs.h	36;"	d
+KCM_EC_SECP256R1_MAX_PUB_KEY_DER_SIZE	crypto-service/crypto-service/cs_der_keys_and_csrs.h	39;"	d
+KCM_EC_SECP256R1_MAX_PUB_KEY_RAW_SIZE	crypto-service/crypto-service/cs_der_keys_and_csrs.h	38;"	d
+KCM_EC_SECP256R1_SHARED_SECRET_SIZE	key-config-manager/key-config-manager/kcm_defs.h	160;"	d
+KCM_EC_SECP256R1_SIGNATURE_RAW_SIZE	key-config-manager/key-config-manager/kcm_defs.h	155;"	d
+KCM_FILE_PREFIX_CERTIFICATE	storage/source/include/storage_internal.h	42;"	d
+KCM_FILE_PREFIX_CERTIFICATE	storage/source/include/storage_internal.h	55;"	d
+KCM_FILE_PREFIX_CERT_CHAIN_0	storage/source/include/storage_internal.h	43;"	d
+KCM_FILE_PREFIX_CERT_CHAIN_X	storage/source/include/storage_internal.h	44;"	d
+KCM_FILE_PREFIX_CERT_CHAIN_X_OFFSET	storage/source/include/storage_internal.h	45;"	d
+KCM_FILE_PREFIX_CONFIG_PARAM	storage/source/include/storage_internal.h	29;"	d
+KCM_FILE_PREFIX_FIRST_CHAIN_CERTIFICATE	storage/source/include/storage_internal.h	56;"	d
+KCM_FILE_PREFIX_PRIVATE_KEY	storage/source/include/storage_internal.h	26;"	d
+KCM_FILE_PREFIX_PUBLIC_KEY	storage/source/include/storage_internal.h	27;"	d
+KCM_FILE_PREFIX_SYMMETRIC_KEY	storage/source/include/storage_internal.h	28;"	d
+KCM_ITEM_EXTRA_INFO_INIT	key-config-manager/key-config-manager/key_config_manager.h	198;"	d
+KCM_LAST_ITEM	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_LAST_ITEM                  \/\/!< KCM not defined item type.$/;"	e	enum:__anon31
+KCM_LOCATION_PSA	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_LOCATION_PSA = 1,             \/\/!< PSA default store as set at pre-build time$/;"	e	enum:__anon36
+KCM_LOCATION_SECURE_ELEMENT	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_LOCATION_SECURE_ELEMENT = 2,  \/\/!< Secure Element store$/;"	e	enum:__anon36
+KCM_MAX_FILENAME_SIZE	key-config-manager/key-config-manager/kcm_defs.h	140;"	d
+KCM_MAX_NUMBER_OF_CERTITICATES_IN_CHAIN	key-config-manager/key-config-manager/kcm_defs.h	145;"	d
+KCM_MAX_STATUS	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_MAX_STATUS,$/;"	e	enum:__anon30
+KCM_MD_NONE	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_MD_NONE = 0x0,$/;"	e	enum:__anon32
+KCM_MD_SHA256	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_MD_SHA256 = 0x1               \/\/!< KCM SHA256 message digest.$/;"	e	enum:__anon32
+KCM_PRIVATE_KEY_ITEM	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_PRIVATE_KEY_ITEM,          \/\/!< KCM private key item type. KCM Supports ECC keys with curves defined in palGroupIndex_t(pal_Crypto.h)$/;"	e	enum:__anon31
+KCM_PUBLIC_KEY_ITEM	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_PUBLIC_KEY_ITEM,           \/\/!< KCM public key item type.  KCM Supports ECC keys with curves defined in palGroupIndex_t(pal_Crypto.h)$/;"	e	enum:__anon31
+KCM_RENEWAL_FILE_PREFIX_CERTIFICATE	storage/source/include/storage_internal.h	46;"	d
+KCM_RENEWAL_FILE_PREFIX_CERTIFICATE	storage/source/include/storage_internal.h	61;"	d
+KCM_RENEWAL_FILE_PREFIX_CERT_CHAIN_0	storage/source/include/storage_internal.h	47;"	d
+KCM_RENEWAL_FILE_PREFIX_CERT_CHAIN_X	storage/source/include/storage_internal.h	48;"	d
+KCM_RENEWAL_FILE_PREFIX_CERT_CHAIN_X_OFFSET	storage/source/include/storage_internal.h	49;"	d
+KCM_RENEWAL_FILE_PREFIX_CONFIG_PARAM	storage/source/include/storage_internal.h	37;"	d
+KCM_RENEWAL_FILE_PREFIX_CONFIG_PARAM	storage/source/include/storage_internal.h	62;"	d
+KCM_RENEWAL_FILE_PREFIX_FIRST_CHAIN_CERTIFICATE	storage/source/include/storage_internal.h	63;"	d
+KCM_RENEWAL_FILE_PREFIX_PRIVATE_KEY	storage/source/include/storage_internal.h	34;"	d
+KCM_RENEWAL_FILE_PREFIX_PUBLIC_KEY	storage/source/include/storage_internal.h	35;"	d
+KCM_RENEWAL_FILE_PREFIX_SYMMETRIC_KEY	storage/source/include/storage_internal.h	36;"	d
+KCM_SCHEME_EC_SECP256R1	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_SCHEME_EC_SECP256R1,       \/\/!< KCM ECC cryptographic scheme, 256-bits NIST curve.$/;"	e	enum:__anon35
+KCM_SCHEME_NONE	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_SCHEME_NONE,$/;"	e	enum:__anon35
+KCM_SHA256_SIZE	key-config-manager/key-config-manager/kcm_defs.h	150;"	d
+KCM_STATUS_CERTIFICATE_CHAIN_VERIFICATION_FAILED	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_CERTIFICATE_CHAIN_VERIFICATION_FAILED,         \/\/!< At least one of the certificates fails to verify its predecessor.$/;"	e	enum:__anon30
+KCM_STATUS_CLOSE_INCOMPLETE_CHAIN	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_CLOSE_INCOMPLETE_CHAIN,                        \/\/!< Closing KCM chain with less certificates than declared in create$/;"	e	enum:__anon30
+KCM_STATUS_CORRUPTED_CHAIN_FILE	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_CORRUPTED_CHAIN_FILE,                          \/\/!< KCM attempted to open an invalid chain file$/;"	e	enum:__anon30
+KCM_STATUS_ERROR	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_ERROR,                                         \/\/!< Operation ended with an unspecified error.$/;"	e	enum:__anon30
+KCM_STATUS_ESFS_ERROR	key-config-manager/key-config-manager/kcm_status.h	93;"	d
+KCM_STATUS_FILE_CORRUPTED	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_FILE_CORRUPTED,                                \/\/!< File data corrupted, the file can not be read$/;"	e	enum:__anon30
+KCM_STATUS_FILE_EXIST	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_FILE_EXIST,                                    \/\/!< Trying to store an item that is already in the storage.$/;"	e	enum:__anon30
+KCM_STATUS_FILE_NAME_CORRUPTED	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_FILE_NAME_CORRUPTED,                           \/\/!< File name corrupted, the file can not be read$/;"	e	enum:__anon30
+KCM_STATUS_FILE_NAME_INVALID	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_FILE_NAME_INVALID,                             \/\/!< File name contains an invalid character (Must only include the following characters: '0-9', 'A'-'Z','a'-'z', '.', '-', '_').$/;"	e	enum:__anon30
+KCM_STATUS_FILE_NAME_TOO_LONG	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_FILE_NAME_TOO_LONG,                            \/\/!< Provided a file name that is longer than permitted. $/;"	e	enum:__anon30
+KCM_STATUS_INSUFFICIENT_BUFFER	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_INSUFFICIENT_BUFFER,                           \/\/!< The provided buffer size was insufficient for the required output.$/;"	e	enum:__anon30
+KCM_STATUS_INVALID_FILE_ACCESS_MODE	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_INVALID_FILE_ACCESS_MODE,                      \/\/!< Invalid file access mode$/;"	e	enum:__anon30
+KCM_STATUS_INVALID_FILE_VERSION	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_INVALID_FILE_VERSION,                          \/\/!< Invalid file version, the file can not be read$/;"	e	enum:__anon30
+KCM_STATUS_INVALID_NUM_OF_CERT_IN_CHAIN	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_INVALID_NUM_OF_CERT_IN_CHAIN,                  \/\/!< Operation failed due to invalid number of certificates.$/;"	e	enum:__anon30
+KCM_STATUS_INVALID_PARAMETER	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_INVALID_PARAMETER,                             \/\/!< A parameter provided to the function was invalid.$/;"	e	enum:__anon30
+KCM_STATUS_ITEM_IS_EMPTY	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_ITEM_IS_EMPTY,                                 \/\/!< The data of current item is empty.$/;"	e	enum:__anon30
+KCM_STATUS_ITEM_NOT_FOUND	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_ITEM_NOT_FOUND,                                \/\/!< The item was not found in the storage.$/;"	e	enum:__anon30
+KCM_STATUS_KEY_EXIST	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_KEY_EXIST,                                     \/\/!< Trying to generate a key for a CSR, but the requesested output key name already exists in the storage.$/;"	e	enum:__anon30
+KCM_STATUS_META_DATA_NOT_FOUND	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_META_DATA_NOT_FOUND,                           \/\/!< The meta data was not found in the file.$/;"	e	enum:__anon30
+KCM_STATUS_META_DATA_SIZE_ERROR	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_META_DATA_SIZE_ERROR,                          \/\/!< The meta data found but the size is different then expected.$/;"	e	enum:__anon30
+KCM_STATUS_NOT_INITIALIZED	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_NOT_INITIALIZED,                               \/\/!< KCM did not initialized.$/;"	e	enum:__anon30
+KCM_STATUS_NOT_PERMITTED	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_NOT_PERMITTED,                                 \/\/!< Trying to access an item without proper permissions.$/;"	e	enum:__anon30
+KCM_STATUS_OUT_OF_MEMORY	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_OUT_OF_MEMORY,                                 \/\/!< An out-of-memory condition occurred.$/;"	e	enum:__anon30
+KCM_STATUS_RBP_ERROR	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_RBP_ERROR,                                     \/\/!< Roll back protected data operation failed.$/;"	e	enum:__anon30
+KCM_STATUS_SELF_GENERATED_CERTIFICATE_VERIFICATION_ERROR	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_SELF_GENERATED_CERTIFICATE_VERIFICATION_ERROR, \/\/!< Verification of self-generated certificate against stored private key failed.$/;"	e	enum:__anon30
+KCM_STATUS_STORAGE_ERROR	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_STORAGE_ERROR,                                 \/\/!< File error occurred.$/;"	e	enum:__anon30
+KCM_STATUS_SUCCESS	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_SUCCESS,                                       \/\/!< Operation completed successfully.$/;"	e	enum:__anon30
+KCM_STATUS_UNKNOWN_STORAGE_ERROR	key-config-manager/key-config-manager/kcm_status.h	/^    KCM_STATUS_UNKNOWN_STORAGE_ERROR,                         \/\/!< KCM can not translate current storage error$/;"	e	enum:__anon30
+KCM_SYMMETRIC_KEY_ITEM	key-config-manager/key-config-manager/kcm_defs.h	/^        KCM_SYMMETRIC_KEY_ITEM,        \/\/!< KCM symmetric key item type.$/;"	e	enum:__anon31
+KEY_SLOT_ALLOCATOR_H	key-config-manager/source/include/key_slot_allocator.h	20;"	d
+KEY_SLOT_ALLOCATOR_INTERNAL_H	key-config-manager/source/include/key_slot_allocator_internal.h	19;"	d
+KSA_ACTIVE_PSA_ID_TYPE	key-config-manager/source/include/key_slot_allocator.h	/^    KSA_ACTIVE_PSA_ID_TYPE,$/;"	e	enum:ksa_id_type_
+KSA_BUFFER_FILE_NAME	key-config-manager/source/key_slot_allocator.c	65;"	d	file:
+KSA_CERTIFICATE_ITEM	key-config-manager/source/include/key_slot_allocator.h	/^    KSA_CERTIFICATE_ITEM,$/;"	e	enum:__anon37
+KSA_CERT_TABLE_ID_RESERVED_TYPE	key-config-manager/source/key_slot_allocator.c	/^    KSA_CERT_TABLE_ID_RESERVED_TYPE,                 \/\/KSA certificates (with chains) table uid $/;"	e	enum:__anon39	file:
+KSA_CE_PSA_ID_TYPE	key-config-manager/source/include/key_slot_allocator.h	/^    KSA_CE_PSA_ID_TYPE,$/;"	e	enum:ksa_id_type_
+KSA_CFG_PARAMS_TABLE_ID_RESERVED_TYPE	key-config-manager/source/key_slot_allocator.c	/^    KSA_CFG_PARAMS_TABLE_ID_RESERVED_TYPE,           \/\/KSA config params table uid $/;"	e	enum:__anon39	file:
+KSA_CONFIG_ITEM	key-config-manager/source/include/key_slot_allocator.h	/^    KSA_CONFIG_ITEM,$/;"	e	enum:__anon37
+KSA_FACTORY_PSA_ID_TYPE	key-config-manager/source/include/key_slot_allocator.h	/^    KSA_FACTORY_PSA_ID_TYPE,$/;"	e	enum:ksa_id_type_
+KSA_INITIAL_TABLE_ENTRIES	key-config-manager/source/include/key_slot_allocator.h	60;"	d
+KSA_INVALID_SLOT_NUMBER	key-config-manager/source/include/key_slot_allocator.h	70;"	d
+KSA_ITEM_NAME_HASH_SIZE_IN_BYTES	key-config-manager/source/key_slot_allocator.c	69;"	d	file:
+KSA_KEY_ITEM	key-config-manager/source/include/key_slot_allocator.h	/^    KSA_KEY_ITEM,$/;"	e	enum:__anon37
+KSA_KEY_TABLE_ID_RESERVED_TYPE	key-config-manager/source/key_slot_allocator.c	/^    KSA_KEY_TABLE_ID_RESERVED_TYPE,                  \/\/KSA keys table uid $/;"	e	enum:__anon39	file:
+KSA_LAST_ITEM	key-config-manager/source/include/key_slot_allocator.h	/^    KSA_LAST_ITEM$/;"	e	enum:__anon37
+KSA_LOCATION_MASK	key-config-manager/source/key_slot_allocator.c	41;"	d	file:
+KSA_MAX_ID_RESERVED_TYPE	key-config-manager/source/key_slot_allocator.c	/^    KSA_MAX_ID_RESERVED_TYPE$/;"	e	enum:__anon39	file:
+KSA_MAX_PSA_ID_TYPE	key-config-manager/source/include/key_slot_allocator.h	/^    KSA_MAX_PSA_ID_TYPE$/;"	e	enum:ksa_id_type_
+KSA_MAX_PSA_ID_VALUE	key-config-manager/source/include/key_slot_allocator.h	52;"	d
+KSA_MAX_TYPE_LOCATION	key-config-manager/source/include/key_slot_allocator.h	/^    KSA_MAX_TYPE_LOCATION,$/;"	e	enum:__anon38
+KSA_NON_PSA_TYPE_LOCATION	key-config-manager/source/include/key_slot_allocator.h	/^    KSA_NON_PSA_TYPE_LOCATION,$/;"	e	enum:__anon38
+KSA_PSA_TYPE_LOCATION	key-config-manager/source/include/key_slot_allocator.h	/^    KSA_PSA_TYPE_LOCATION,$/;"	e	enum:__anon38
+KSA_PS_LAST_FREE_CRYPTO_ID_RESERVED_TYPE	key-config-manager/source/key_slot_allocator.c	/^    KSA_PS_LAST_FREE_CRYPTO_ID_RESERVED_TYPE = PSA_PS_MIN_RESERVED_VALUE,$/;"	e	enum:__anon39	file:
+KSA_RBP_ITEM	key-config-manager/source/include/key_slot_allocator.h	/^    KSA_RBP_ITEM,$/;"	e	enum:__anon37
+KSA_RBP_TABLE_ID_RESERVED_TYPE	key-config-manager/source/key_slot_allocator.c	/^    KSA_RBP_TABLE_ID_RESERVED_TYPE,                  \/\/KSA Rollback Protected items uid $/;"	e	enum:__anon39	file:
+KSA_SECURE_ELEMENT_TYPE_LOCATION	key-config-manager/source/include/key_slot_allocator.h	/^    KSA_SECURE_ELEMENT_TYPE_LOCATION,$/;"	e	enum:__anon38
+KSA_TABLE_VERSION	key-config-manager/source/key_slot_allocator.c	44;"	d	file:
+KSA_TABLE_VERSION_NUM	key-config-manager/source/include/key_slot_allocator.h	56;"	d
+KSA_VERSION_ID_VAL_RESERVED_TYPE	key-config-manager/source/key_slot_allocator.c	/^    KSA_VERSION_ID_VAL_RESERVED_TYPE,                \/\/KSA version table uid$/;"	e	enum:__anon39	file:
+LINE_SIZE	mbed-client-esfs/source/sotp/sotp_log.c	28;"	d	file:
+LOCAL_API_DEPENDS	Makefile	/^LOCAL_API_DEPENDS := \\$/;"	m
+LOCAL_NAME	Makefile	/^LOCAL_NAME := ${MBED_CLOUD_SERVICE}\/mbed-cloud-client\/factory-configurator-client$/;"	m
+MASTER_RECORD_SIZE	mbed-client-esfs/source/sotp/sotp_int.h	60;"	d
+MAX_ENTRIES	mbed-client-esfs/source/sotp/sotp_log.c	37;"	d	file:
+MAX_FULL_PATH_SIZE	mbed-client-esfs/source/esfs.c	77;"	d	file:
+MAX_NUMBER_OF_THREADS	mbed-client-esfs/source/sotp/sotp_log.c	48;"	d	file:
+MAX_RESPONSE_WITHOUT_CSRS	fcc-bundle-handler/source/fcc_bundle_handler.c	56;"	d	file:
+MAX_RESPONSE_WITH_CSRS	fcc-bundle-handler/source/fcc_bundle_handler.c	57;"	d	file:
+MAX_SOTP_BUFFER_SIZE	storage/storage/storage_items.h	78;"	d
+MBED_STATS_FILE_NAME	utils/utils/mbed_stats_helper.c	31;"	d	file:
+MBED_STATS_HELPER_H	utils/utils/mbed_stats_helper.h	20;"	d
+MEDITATE_TIME_MS	mbed-client-esfs/source/sotp/sotp.c	34;"	d	file:
+MEDITATE_TIME_MS	mbed-client-esfs/source/sotp/sotp_shared_lock.c	36;"	d	file:
+MS_BETWEEN_SOCKET_SEND_RETRIES	ftcd-comm-socket/source/ftcd_comm_socket.cpp	415;"	d	file:
+NUM_OF_PENDING_CONNECTIONS	ftcd-comm-socket/source/ftcd_comm_socket.cpp	29;"	d	file:
+NUM_OF_TRIES_TO_GET_INTERFACE_INFO	ftcd-comm-socket/source/ftcd_comm_socket.cpp	30;"	d	file:
+NUM_WRITE_RETRIES	mbed-client-esfs/source/sotp/sotp.c	36;"	d	file:
+PERFORMANCE_ARRAY_SIZE	mbed-client-esfs/source/include/esfs_performance.h	25;"	d
+PR_DEBUG	mbed-client-esfs/source/sotp/sotp_int.h	34;"	d
+PR_DEBUG	mbed-client-esfs/source/sotp/sotp_int.h	39;"	d
+PR_DEBUG	mbed-client-esfs/source/sotp/sotp_shared_lock.c	34;"	d	file:
+PR_ERR	mbed-client-esfs/source/sotp/sotp_int.h	32;"	d
+PR_ERR	mbed-client-esfs/source/sotp/sotp_int.h	37;"	d
+PR_ERR	mbed-client-esfs/source/sotp/sotp_shared_lock.c	32;"	d	file:
+PR_INFO	mbed-client-esfs/source/sotp/sotp_int.h	33;"	d
+PR_INFO	mbed-client-esfs/source/sotp/sotp_int.h	38;"	d
+PR_INFO	mbed-client-esfs/source/sotp/sotp_shared_lock.c	33;"	d	file:
+PSA_CRYPTO_CERTIFICATE_FLAG	psa-driver/psa-driver/psa_driver.h	107;"	d
+PSA_CRYPTO_INVALID_KEY_HANDLE	psa-driver/psa-driver/psa_driver.h	54;"	d
+PSA_CRYPTO_LOCATION_MASK_FLAG	psa-driver/psa-driver/psa_driver.h	116;"	d
+PSA_CRYPTO_MAX_ID_VALUE	psa-driver/psa-driver/psa_driver.h	30;"	d
+PSA_CRYPTO_MIN_ID_VALUE	psa-driver/psa-driver/psa_driver.h	28;"	d
+PSA_CRYPTO_NUM_OF_ID_ENTRIES	psa-driver/psa-driver/psa_driver.h	29;"	d
+PSA_CRYPTO_PRIVATE_KEY_FLAG	psa-driver/psa-driver/psa_driver.h	99;"	d
+PSA_CRYPTO_PSA_LOCATION_FLAG	psa-driver/psa-driver/psa_driver.h	93;"	d
+PSA_CRYPTO_PUBLIC_KEY_FLAG	psa-driver/psa-driver/psa_driver.h	103;"	d
+PSA_CRYPTO_SECURE_ELEMENT_LOCATION_FLAG	psa-driver/psa-driver/psa_driver.h	89;"	d
+PSA_CRYPTO_TYPE_MASK_FLAG	psa-driver/psa-driver/psa_driver.h	112;"	d
+PSA_DRV_FUNC_DELETE	psa-driver/psa-driver/psa_driver_dispatcher.h	/^        PSA_DRV_FUNC_DELETE = 3,$/;"	e	enum:__anon40
+PSA_DRV_FUNC_LAST	psa-driver/psa-driver/psa_driver_dispatcher.h	/^        PSA_DRV_FUNC_LAST$/;"	e	enum:__anon40
+PSA_DRV_FUNC_READ	psa-driver/psa-driver/psa_driver_dispatcher.h	/^        PSA_DRV_FUNC_READ = 0,$/;"	e	enum:__anon40
+PSA_DRV_FUNC_READ_SIZE	psa-driver/psa-driver/psa_driver_dispatcher.h	/^        PSA_DRV_FUNC_READ_SIZE = 1,$/;"	e	enum:__anon40
+PSA_DRV_FUNC_WRITE	psa-driver/psa-driver/psa_driver_dispatcher.h	/^        PSA_DRV_FUNC_WRITE = 2,$/;"	e	enum:__anon40
+PSA_DRV_TYPE_CRYPTO	psa-driver/psa-driver/psa_driver_dispatcher.h	/^        PSA_DRV_TYPE_CRYPTO = 0,$/;"	e	enum:__anon41
+PSA_DRV_TYPE_LAST	psa-driver/psa-driver/psa_driver_dispatcher.h	/^        PSA_DRV_TYPE_LAST$/;"	e	enum:__anon41
+PSA_DRV_TYPE_PS	psa-driver/psa-driver/psa_driver_dispatcher.h	/^        PSA_DRV_TYPE_PS = 1,$/;"	e	enum:__anon41
+PSA_INVALID_ID_NUMBER	psa-driver/psa-driver/psa_driver.h	51;"	d
+PSA_PS_CONFIDENTIALITY_FLAG	psa-driver/psa-driver/psa_driver.h	69;"	d
+PSA_PS_LAST_USED_CRYPTO_ID	psa-driver/psa-driver/psa_driver.h	47;"	d
+PSA_PS_MAX_ID_VALUE	psa-driver/psa-driver/psa_driver.h	44;"	d
+PSA_PS_MAX_RESERVED_VALUE	psa-driver/psa-driver/psa_driver.h	39;"	d
+PSA_PS_MIN_ID_VALUE	psa-driver/psa-driver/psa_driver.h	42;"	d
+PSA_PS_MIN_RESERVED_VALUE	psa-driver/psa-driver/psa_driver.h	37;"	d
+PSA_PS_NUM_OF_FREE_ID_ENTRIES	psa-driver/psa-driver/psa_driver.h	43;"	d
+PSA_PS_NUM_OF_RESERVED_ID_ENTRIES	psa-driver/psa-driver/psa_driver.h	38;"	d
+PSA_PS_PROTECTED_STORAGE_FLAGS_MASK	psa-driver/psa-driver/psa_driver.h	79;"	d
+PSA_PS_REPLAY_PROTECTION_FLAG	psa-driver/psa-driver/psa_driver.h	75;"	d
+PSA_PS_WRITE_ONCE_FLAG	psa-driver/psa-driver/psa_driver.h	64;"	d
+PV_ARRAY_LENGTH	utils/utils/pv_macros.h	51;"	d
+PV_ASSERT_CONCAT	utils/utils/pv_macros.h	46;"	d
+PV_ASSERT_CONCAT_	utils/utils/pv_macros.h	45;"	d
+PV_CASSERT	utils/utils/pv_macros.h	47;"	d
+PV_DEBUG_USE	utils/utils/pv_macros.h	40;"	d
+PV_IGNORE_PARAM_PTR	utils/utils/pv_macros.h	29;"	d
+PV_IGNORE_PARAM_VAL	utils/utils/pv_macros.h	32;"	d
+PV_IS_ALIGNED	utils/utils/pv_macros.h	66;"	d
+PV_IS_ALIGNED	utils/utils/pv_macros.h	69;"	d
+PV_NUMBER_LIMIT	utils/utils/pv_macros.h	54;"	d
+PV_SIZEOF_MEMBER	utils/utils/pv_macros.h	60;"	d
+PV_UNUSED_PARAM	utils/utils/pv_macros.h	35;"	d
+RANDOM_PORT_MAX	ftcd-comm-socket/source/ftcd_comm_socket.cpp	33;"	d	file:
+RANDOM_PORT_MIN	ftcd-comm-socket/source/ftcd_comm_socket.cpp	32;"	d	file:
+SA_PV_CRITICAL_RECOVERABLE_GOTO_IF	utils/utils/pv_error_handling.h	275;"	d
+SA_PV_CRITICAL_RECOVERABLE_RETURN_IF	utils/utils/pv_error_handling.h	236;"	d
+SA_PV_DATA_RECOVERABLE_GOTO_IF	utils/utils/pv_error_handling.h	287;"	d
+SA_PV_DATA_RECOVERABLE_RETURN_IF	utils/utils/pv_error_handling.h	247;"	d
+SA_PV_ERR_RECOVERABLE_GOTO_IF	utils/utils/pv_error_handling.h	259;"	d
+SA_PV_ERR_RECOVERABLE_GOTO_IF	utils/utils/pv_error_handling.h	262;"	d
+SA_PV_ERR_RECOVERABLE_GOTO_IF	utils/utils/pv_error_handling.h	266;"	d
+SA_PV_ERR_RECOVERABLE_RETURN	utils/utils/pv_error_handling.h	226;"	d
+SA_PV_ERR_RECOVERABLE_RETURN_IF	utils/utils/pv_error_handling.h	216;"	d
+SA_PV_ERR_RECOVERABLE_RETURN_IF	utils/utils/pv_error_handling.h	219;"	d
+SA_PV_ERR_RECOVERABLE_RETURN_IF	utils/utils/pv_error_handling.h	223;"	d
+SA_PV_ERR_UNRECOVERABLE_GOTO_IF	utils/utils/pv_error_handling.h	171;"	d
+SA_PV_ERR_UNRECOVERABLE_GOTO_IF	utils/utils/pv_error_handling.h	174;"	d
+SA_PV_ERR_UNRECOVERABLE_GOTO_IF	utils/utils/pv_error_handling.h	182;"	d
+SA_PV_ERR_UNRECOVERABLE_GOTO_IF	utils/utils/pv_error_handling.h	185;"	d
+SA_PV_ERR_UNRECOVERABLE_GOTO_IF	utils/utils/pv_error_handling.h	194;"	d
+SA_PV_ERR_UNRECOVERABLE_GOTO_IF	utils/utils/pv_error_handling.h	197;"	d
+SA_PV_ERR_UNRECOVERABLE_RETURN_IF	utils/utils/pv_error_handling.h	137;"	d
+SA_PV_ERR_UNRECOVERABLE_RETURN_IF	utils/utils/pv_error_handling.h	140;"	d
+SA_PV_ERR_UNRECOVERABLE_RETURN_IF	utils/utils/pv_error_handling.h	145;"	d
+SA_PV_ERR_UNRECOVERABLE_RETURN_IF	utils/utils/pv_error_handling.h	148;"	d
+SA_PV_ERR_UNRECOVERABLE_RETURN_IF	utils/utils/pv_error_handling.h	154;"	d
+SA_PV_ERR_UNRECOVERABLE_RETURN_IF	utils/utils/pv_error_handling.h	157;"	d
+SA_PV_INFO_RECOVERABLE_GOTO_IF	utils/utils/pv_error_handling.h	281;"	d
+SA_PV_INFO_RECOVERABLE_RETURN_IF	utils/utils/pv_error_handling.h	242;"	d
+SA_PV_IS_PREV_ERROR_OCCURED	utils/utils/pv_error_handling.h	70;"	d
+SA_PV_IS_PREV_ERROR_OCCURED	utils/utils/pv_error_handling.h	72;"	d
+SA_PV_LOG_BYTE_BUFF_CRITICAL	logger/logger/pv_log.h	63;"	d
+SA_PV_LOG_BYTE_BUFF_DATA	logger/logger/pv_log.h	151;"	d
+SA_PV_LOG_BYTE_BUFF_DATA	logger/logger/pv_log.h	159;"	d
+SA_PV_LOG_BYTE_BUFF_ERR	logger/logger/pv_log.h	71;"	d
+SA_PV_LOG_BYTE_BUFF_ERR	logger/logger/pv_log.h	78;"	d
+SA_PV_LOG_BYTE_BUFF_INFO	logger/logger/pv_log.h	106;"	d
+SA_PV_LOG_BYTE_BUFF_INFO	logger/logger/pv_log.h	114;"	d
+SA_PV_LOG_BYTE_BUFF_TRACE	logger/logger/pv_log.h	128;"	d
+SA_PV_LOG_BYTE_BUFF_TRACE	logger/logger/pv_log.h	137;"	d
+SA_PV_LOG_BYTE_BUFF_WARN	logger/logger/pv_log.h	85;"	d
+SA_PV_LOG_BYTE_BUFF_WARN	logger/logger/pv_log.h	91;"	d
+SA_PV_LOG_CRITICAL	logger/logger/pv_log.h	61;"	d
+SA_PV_LOG_CRITICAL_FUNC_EXIT	logger/logger/pv_log.h	65;"	d
+SA_PV_LOG_DATA	logger/logger/pv_log.h	141;"	d
+SA_PV_LOG_DATA	logger/logger/pv_log.h	154;"	d
+SA_PV_LOG_DATA_FUNC_ENTER	logger/logger/pv_log.h	143;"	d
+SA_PV_LOG_DATA_FUNC_ENTER	logger/logger/pv_log.h	155;"	d
+SA_PV_LOG_DATA_FUNC_ENTER_NO_ARGS	logger/logger/pv_log.h	145;"	d
+SA_PV_LOG_DATA_FUNC_ENTER_NO_ARGS	logger/logger/pv_log.h	156;"	d
+SA_PV_LOG_DATA_FUNC_EXIT	logger/logger/pv_log.h	147;"	d
+SA_PV_LOG_DATA_FUNC_EXIT	logger/logger/pv_log.h	157;"	d
+SA_PV_LOG_DATA_FUNC_EXIT_NO_ARGS	logger/logger/pv_log.h	149;"	d
+SA_PV_LOG_DATA_FUNC_EXIT_NO_ARGS	logger/logger/pv_log.h	158;"	d
+SA_PV_LOG_ERR	logger/logger/pv_log.h	69;"	d
+SA_PV_LOG_ERR	logger/logger/pv_log.h	77;"	d
+SA_PV_LOG_ERR_FUNC_EXIT	logger/logger/pv_log.h	73;"	d
+SA_PV_LOG_ERR_FUNC_EXIT	logger/logger/pv_log.h	79;"	d
+SA_PV_LOG_INFO	logger/logger/pv_log.h	109;"	d
+SA_PV_LOG_INFO	logger/logger/pv_log.h	96;"	d
+SA_PV_LOG_INFO_FUNC_ENTER	logger/logger/pv_log.h	110;"	d
+SA_PV_LOG_INFO_FUNC_ENTER	logger/logger/pv_log.h	98;"	d
+SA_PV_LOG_INFO_FUNC_ENTER_NO_ARGS	logger/logger/pv_log.h	100;"	d
+SA_PV_LOG_INFO_FUNC_ENTER_NO_ARGS	logger/logger/pv_log.h	111;"	d
+SA_PV_LOG_INFO_FUNC_EXIT	logger/logger/pv_log.h	102;"	d
+SA_PV_LOG_INFO_FUNC_EXIT	logger/logger/pv_log.h	112;"	d
+SA_PV_LOG_INFO_FUNC_EXIT_NO_ARGS	logger/logger/pv_log.h	104;"	d
+SA_PV_LOG_INFO_FUNC_EXIT_NO_ARGS	logger/logger/pv_log.h	113;"	d
+SA_PV_LOG_TRACE	logger/logger/pv_log.h	118;"	d
+SA_PV_LOG_TRACE	logger/logger/pv_log.h	132;"	d
+SA_PV_LOG_TRACE_FUNC_ENTER	logger/logger/pv_log.h	120;"	d
+SA_PV_LOG_TRACE_FUNC_ENTER	logger/logger/pv_log.h	133;"	d
+SA_PV_LOG_TRACE_FUNC_ENTER_NO_ARGS	logger/logger/pv_log.h	122;"	d
+SA_PV_LOG_TRACE_FUNC_ENTER_NO_ARGS	logger/logger/pv_log.h	134;"	d
+SA_PV_LOG_TRACE_FUNC_EXIT	logger/logger/pv_log.h	124;"	d
+SA_PV_LOG_TRACE_FUNC_EXIT	logger/logger/pv_log.h	135;"	d
+SA_PV_LOG_TRACE_FUNC_EXIT_NO_ARGS	logger/logger/pv_log.h	126;"	d
+SA_PV_LOG_TRACE_FUNC_EXIT_NO_ARGS	logger/logger/pv_log.h	136;"	d
+SA_PV_LOG_WARN	logger/logger/pv_log.h	83;"	d
+SA_PV_LOG_WARN	logger/logger/pv_log.h	90;"	d
+SA_PV_LOG_WARN_FUNC_EXIT	logger/logger/pv_log.h	87;"	d
+SA_PV_LOG_WARN_FUNC_EXIT	logger/logger/pv_log.h	92;"	d
+SA_PV_TRACE_RECOVERABLE_GOTO_IF	utils/utils/pv_error_handling.h	284;"	d
+SA_PV_TRACE_RECOVERABLE_RETURN_IF	utils/utils/pv_error_handling.h	245;"	d
+SA_PV_WARN_RECOVERABLE_GOTO_IF	utils/utils/pv_error_handling.h	278;"	d
+SA_PV_WARN_RECOVERABLE_RETURN_IF	utils/utils/pv_error_handling.h	239;"	d
+SOCKET_CONNECTION_ACCEPTED	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	/^        SOCKET_CONNECTION_ACCEPTED$/;"	e	enum:FtcdCommSocket::connection_state_e
+SOCKET_WAIT_FOR_CONNECTION	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	/^        SOCKET_WAIT_FOR_CONNECTION,$/;"	e	enum:FtcdCommSocket::connection_state_e
+SOTP_ALREADY_EXISTS	mbed-client-esfs/source/include/sotp.h	/^    SOTP_ALREADY_EXISTS         = 10,$/;"	e	enum:__anon10
+SOTP_BAD_VALUE	mbed-client-esfs/source/include/sotp.h	/^    SOTP_BAD_VALUE              = 5,$/;"	e	enum:__anon10
+SOTP_BLANK_FLASH_VAL	mbed-client-esfs/source/include/sotp.h	75;"	d
+SOTP_BUFF_NOT_ALIGNED	mbed-client-esfs/source/include/sotp.h	/^    SOTP_BUFF_NOT_ALIGNED       = 9,$/;"	e	enum:__anon10
+SOTP_BUFF_TOO_SMALL	mbed-client-esfs/source/include/sotp.h	/^    SOTP_BUFF_TOO_SMALL         = 6,$/;"	e	enum:__anon10
+SOTP_DATA_CORRUPT	mbed-client-esfs/source/include/sotp.h	/^    SOTP_DATA_CORRUPT           = 4,$/;"	e	enum:__anon10
+SOTP_ERROR_MAXVAL	mbed-client-esfs/source/include/sotp.h	/^    SOTP_ERROR_MAXVAL           = 0xFFFF$/;"	e	enum:__anon10
+SOTP_FLASH_AREA_TOO_SMALL	mbed-client-esfs/source/include/sotp.h	/^    SOTP_FLASH_AREA_TOO_SMALL   = 7,$/;"	e	enum:__anon10
+SOTP_FORMAT_REV	mbed-client-esfs/source/sotp/sotp.c	32;"	d	file:
+SOTP_LAST_TYPE	mbed-client-esfs/source/include/sotp.h	/^    SOTP_LAST_TYPE = 15, \/\/ Keep as long as we have less than this$/;"	e	enum:__anon11
+SOTP_LOG_APPEND	mbed-client-esfs/source/sotp/sotp_log.h	42;"	d
+SOTP_LOG_APPEND	mbed-client-esfs/source/sotp/sotp_log.h	48;"	d
+SOTP_LOG_CREATE	mbed-client-esfs/source/sotp/sotp_log.h	41;"	d
+SOTP_LOG_CREATE	mbed-client-esfs/source/sotp/sotp_log.h	47;"	d
+SOTP_LOG_FINALIZE	mbed-client-esfs/source/sotp/sotp_log.h	43;"	d
+SOTP_LOG_FINALIZE	mbed-client-esfs/source/sotp/sotp_log.h	49;"	d
+SOTP_LOG_INIT	mbed-client-esfs/source/sotp/sotp_log.h	45;"	d
+SOTP_LOG_INIT	mbed-client-esfs/source/sotp/sotp_log.h	51;"	d
+SOTP_LOG_PRINT_LOG	mbed-client-esfs/source/sotp/sotp_log.h	44;"	d
+SOTP_LOG_PRINT_LOG	mbed-client-esfs/source/sotp/sotp_log.h	50;"	d
+SOTP_MASTER_RECORD_TYPE	mbed-client-esfs/source/sotp/sotp_int.h	51;"	d
+SOTP_MAX_TYPES	mbed-client-esfs/source/include/sotp.h	/^    SOTP_MAX_TYPES$/;"	e	enum:__anon11
+SOTP_MEM_ALLOC_ERROR	mbed-client-esfs/source/include/sotp.h	/^    SOTP_MEM_ALLOC_ERROR        = 11,$/;"	e	enum:__anon10
+SOTP_NOT_FOUND	mbed-client-esfs/source/include/sotp.h	/^    SOTP_NOT_FOUND              = 3,$/;"	e	enum:__anon10
+SOTP_NO_TYPE	mbed-client-esfs/source/sotp/sotp_int.h	52;"	d
+SOTP_NUMBER_OF_TYPES	storage/source/storage_items_pelion_sst.c	49;"	d	file:
+SOTP_NUM_AREAS	mbed-client-esfs/source/include/sotp.h	57;"	d
+SOTP_OS_ERROR	mbed-client-esfs/source/include/sotp.h	/^    SOTP_OS_ERROR               = 8,$/;"	e	enum:__anon10
+SOTP_PROBE_ONLY	mbed-client-esfs/source/include/sotp.h	38;"	d
+SOTP_READ_ERROR	mbed-client-esfs/source/include/sotp.h	/^    SOTP_READ_ERROR             = 1,$/;"	e	enum:__anon10
+SOTP_SHL_ERROR_MAXVAL	mbed-client-esfs/source/sotp/sotp_shared_lock.h	/^    SOTP_SHL_ERROR_MAXVAL       = 0xFFFF$/;"	e	enum:__anon24
+SOTP_SHL_INVALID_ARG	mbed-client-esfs/source/sotp/sotp_shared_lock.h	/^    SOTP_SHL_INVALID_ARG        = 1,$/;"	e	enum:__anon24
+SOTP_SHL_MISUSE	mbed-client-esfs/source/sotp/sotp_shared_lock.h	/^    SOTP_SHL_MISUSE             = 5,$/;"	e	enum:__anon24
+SOTP_SHL_NO_MEM	mbed-client-esfs/source/sotp/sotp_shared_lock.h	/^    SOTP_SHL_NO_MEM             = 3,$/;"	e	enum:__anon24
+SOTP_SHL_NULL_PTR	mbed-client-esfs/source/sotp/sotp_shared_lock.h	/^    SOTP_SHL_NULL_PTR           = 2,$/;"	e	enum:__anon24
+SOTP_SHL_PAL_ERR	mbed-client-esfs/source/sotp/sotp_shared_lock.h	/^    SOTP_SHL_PAL_ERR            = 4,$/;"	e	enum:__anon24
+SOTP_SHL_SUCCESS	mbed-client-esfs/source/sotp/sotp_shared_lock.h	/^    SOTP_SHL_SUCCESS            = 0,$/;"	e	enum:__anon24
+SOTP_SUCCESS	mbed-client-esfs/source/include/sotp.h	/^    SOTP_SUCCESS                = 0,$/;"	e	enum:__anon10
+SOTP_TYPE_EXECUTION_MODE	mbed-client-esfs/source/include/sotp.h	/^    SOTP_TYPE_EXECUTION_MODE,$/;"	e	enum:__anon11
+SOTP_TYPE_FACTORY_DONE	mbed-client-esfs/source/include/sotp.h	/^    SOTP_TYPE_FACTORY_DONE = 0,$/;"	e	enum:__anon11
+SOTP_TYPE_LAST_TIME_BACK	mbed-client-esfs/source/include/sotp.h	/^    SOTP_TYPE_LAST_TIME_BACK,$/;"	e	enum:__anon11
+SOTP_TYPE_MIN_FW_VERSION	mbed-client-esfs/source/include/sotp.h	/^    SOTP_TYPE_MIN_FW_VERSION,$/;"	e	enum:__anon11
+SOTP_TYPE_OEM_TRANSFER_MODE_ENABLED	mbed-client-esfs/source/include/sotp.h	/^    SOTP_TYPE_OEM_TRANSFER_MODE_ENABLED,$/;"	e	enum:__anon11
+SOTP_TYPE_RANDOM_SEED	mbed-client-esfs/source/include/sotp.h	/^    SOTP_TYPE_RANDOM_SEED,$/;"	e	enum:__anon11
+SOTP_TYPE_ROT	mbed-client-esfs/source/include/sotp.h	/^    SOTP_TYPE_ROT,$/;"	e	enum:__anon11
+SOTP_TYPE_SAVED_TIME	mbed-client-esfs/source/include/sotp.h	/^    SOTP_TYPE_SAVED_TIME,$/;"	e	enum:__anon11
+SOTP_TYPE_TRUSTED_TIME_SRV_ID	mbed-client-esfs/source/include/sotp.h	/^    SOTP_TYPE_TRUSTED_TIME_SRV_ID,$/;"	e	enum:__anon11
+SOTP_WRITE_ERROR	mbed-client-esfs/source/include/sotp.h	/^    SOTP_WRITE_ERROR            = 2,$/;"	e	enum:__anon10
+STATIC	mbed-client-esfs/source/sotp/sotp_int.h	31;"	d
+STATIC	mbed-client-esfs/source/sotp/sotp_int.h	36;"	d
+STORAGE_BACKUP	storage/source/include/storage_internal.h	73;"	d
+STORAGE_BACKUP_ACRONYM	storage/source/include/storage_internal.h	71;"	d
+STORAGE_CHAIN_CERTIFICATE_END_OFFSET_IN_NAME	storage/source/storage_common.c	40;"	d	file:
+STORAGE_CHAIN_CERTIFICATE_END_OFFSET_IN_NAME	storage/source/storage_psa.c	44;"	d	file:
+STORAGE_CHAIN_CERTIFICATE_END_SIGN_OFFSET_IN_PREFIX	storage/source/storage_common.c	39;"	d	file:
+STORAGE_CHAIN_CERTIFICATE_END_SIGN_OFFSET_IN_PREFIX	storage/source/storage_psa.c	43;"	d	file:
+STORAGE_CHAIN_CERTIFICATE_INDEX_OFFSET_IN_PREFIX	storage/source/storage_common.c	38;"	d	file:
+STORAGE_CHAIN_CERTIFICATE_INDEX_OFFSET_IN_PREFIX	storage/source/storage_psa.c	42;"	d	file:
+STORAGE_CHAIN_OP_TYPE_CREATE	storage/source/include/storage_internal.h	/^    STORAGE_CHAIN_OP_TYPE_CREATE = 1,$/;"	e	enum:__anon8
+STORAGE_CHAIN_OP_TYPE_MAX	storage/source/include/storage_internal.h	/^    STORAGE_CHAIN_OP_TYPE_MAX$/;"	e	enum:__anon8
+STORAGE_CHAIN_OP_TYPE_OPEN	storage/source/include/storage_internal.h	/^    STORAGE_CHAIN_OP_TYPE_OPEN,$/;"	e	enum:__anon8
+STORAGE_FACTORY_RESET_IN_PROGRESS_ITEM	storage/source/include/storage_internal.h	65;"	d
+STORAGE_FILENAME_MAX_SIZE	storage/source/include/storage_items_pelion_sst.h	30;"	d
+STORAGE_ITEM_PREFIX_CE	storage/storage/storage_items.h	/^        STORAGE_ITEM_PREFIX_CE,              \/\/!< CE item prefix - prefix 'b' is added$/;"	e	enum:__anon6
+STORAGE_ITEM_PREFIX_KCM	storage/storage/storage_items.h	/^        STORAGE_ITEM_PREFIX_KCM,             \/\/!< KCM item prefix$/;"	e	enum:__anon6
+STORAGE_ITEM_PREFIX_MAX	storage/storage/storage_items.h	/^        STORAGE_ITEM_PREFIX_MAX              \/\/!< Prefix isn't defined$/;"	e	enum:__anon6
+STORAGE_ITEM_TYPE_PREFIX_MAX_LENGTH	storage/source/include/storage_internal.h	84;"	d
+STORAGE_LAST_ITEM	storage/storage/storage_items.h	/^        STORAGE_LAST_ITEM$/;"	e	enum:__anon7
+STORAGE_MAX_COMPLETE_ITEM_NAME_LENGTH	storage/source/include/storage_internal.h	85;"	d
+STORAGE_PELION_PREFIX	storage/source/include/storage_internal.h	68;"	d
+STORAGE_PSA_CONFIDENTIALITY_BIT	storage/source/storage_psa.c	38;"	d	file:
+STORAGE_PSA_REPLAY_PROTECTION_BIT	storage/source/storage_psa.c	39;"	d	file:
+STORAGE_PSA_WRITE_ONCE_BIT	storage/source/storage_psa.c	37;"	d	file:
+STORAGE_RBP_EXECUTION_MODE_NAME	storage/storage/storage_items.h	85;"	d
+STORAGE_RBP_FACTORY_DONE_NAME	storage/storage/storage_items.h	79;"	d
+STORAGE_RBP_ITEM	storage/storage/storage_items.h	/^        STORAGE_RBP_ITEM = KCM_LAST_ITEM + 1,   \/\/STORAGE rollback protected item$/;"	e	enum:__anon7
+STORAGE_RBP_LAST_TIME_BACK_NAME	storage/storage/storage_items.h	82;"	d
+STORAGE_RBP_MIN_FW_VERSION_NAME	storage/storage/storage_items.h	87;"	d
+STORAGE_RBP_OEM_TRANSFER_MODE_ENABLED_NAME	storage/storage/storage_items.h	86;"	d
+STORAGE_RBP_RANDOM_SEED_NAME	storage/storage/storage_items.h	80;"	d
+STORAGE_RBP_ROT_NAME	storage/storage/storage_items.h	83;"	d
+STORAGE_RBP_SAVED_TIME_NAME	storage/storage/storage_items.h	81;"	d
+STORAGE_RBP_TRUSTED_TIME_SRV_ID_NAME	storage/storage/storage_items.h	84;"	d
+STORAGE_TYPE_PREFIX_MAX_LENGTH	storage/source/include/storage_internal.h	50;"	d
+STORAGE_TYPE_PREFIX_MAX_LENGTH	storage/source/include/storage_internal.h	74;"	d
+STORAGE_WORKING	storage/source/include/storage_internal.h	72;"	d
+STORAGE_WORKING_ACRONYM	storage/source/include/storage_internal.h	70;"	d
+STORE_ESFS_MD_TYPE_CHAIN_LEN	storage/source/include/storage_items_pelion_sst.h	/^        STORE_ESFS_MD_TYPE_CHAIN_LEN,$/;"	e	enum:__anon9
+STORE_ESFS_MD_TYPE_MAX	storage/source/include/storage_items_pelion_sst.h	/^        STORE_ESFS_MD_TYPE_MAX \/\/ can't be bigger than ESFS_MAX_TYPE_LENGTH_VALUES$/;"	e	enum:__anon9
+SYS_CONF_SOTP	mbed-client-esfs/source/include/sotp.h	29;"	d
+SYS_CONF_SOTP	mbed-client-esfs/source/include/sotp.h	33;"	d
+SYS_CONF_SOTP_DISABLED	mbed-client-esfs/source/include/sotp.h	23;"	d
+SYS_CONF_SOTP_ENABLED	mbed-client-esfs/source/include/sotp.h	24;"	d
+SYS_CONF_SOTP_LIMITED	mbed-client-esfs/source/include/sotp.h	25;"	d
+TICKS_PER_MICROSEC	mbed-client-esfs/source/esfs_performance.c	26;"	d	file:
+TITLE_MAX	mbed-client-esfs/source/include/esfs_performance.h	24;"	d
+TRACE_GROUP	ftcd-comm-base/source/ftcd_comm_base.cpp	26;"	d	file:
+TRACE_GROUP	ftcd-comm-serial/source/ftcd_comm_serial.cpp	34;"	d	file:
+TRACE_GROUP	ftcd-comm-socket/source/ftcd_comm_socket.cpp	31;"	d	file:
+TRACE_GROUP	mbed-client-esfs/source/esfs.c	40;"	d	file:
+TRACE_GROUP	mbed-client-esfs/source/esfs_performance.c	25;"	d	file:
+TRACE_GROUP	mbed-client-esfs/source/sotp/sotp_int.h	28;"	d
+TRACE_GROUP	mbed-client-esfs/source/sotp/sotp_shared_lock.c	30;"	d	file:
+TRACE_GROUP	utils/utils/fcc_time_profiling.h	44;"	d
+URI_AID_PREFIX1	factory-configurator-client/source/fcc_verification.c	36;"	d	file:
+URI_AID_PREFIX2	factory-configurator-client/source/fcc_verification.c	37;"	d	file:
+USE_DIFFERENT_SOURCE_LAYOUT	Makefile	/^USE_DIFFERENT_SOURCE_LAYOUT := yes$/;"	m
+USE_DIFFERENT_SOURCE_LAYOUT_ARM	Makefile	/^USE_DIFFERENT_SOURCE_LAYOUT_ARM := yes$/;"	m
+_SA_PV_BYTE_BUFF_LOG	logger/logger/pv_log.h	168;"	d
+_SA_PV_ERR_ASSERT_UPON_ERROR	utils/utils/pv_error_handling.h	77;"	d
+_SA_PV_ERR_ASSERT_UPON_ERROR_GOTO	utils/utils/pv_error_handling.h	86;"	d
+_SA_PV_ERR_OCCURED_AND_GOTO_UPON_ERROR	utils/utils/pv_error_handling.h	110;"	d
+_SA_PV_ERR_OCCURED_AND_RETURN_UPON_ERROR	utils/utils/pv_error_handling.h	96;"	d
+_SA_PV_GOTO_UPON_ERROR	utils/utils/pv_error_handling.h	119;"	d
+_SA_PV_LOG	logger/logger/pv_log.h	163;"	d
+_SA_PV_LOG_FUNC_ENTER	logger/logger/pv_log.h	50;"	d
+_SA_PV_LOG_FUNC_EXIT	logger/logger/pv_log.h	58;"	d
+_SA_PV_RETURN_UPON_ERROR	utils/utils/pv_error_handling.h	104;"	d
+__COMMON_UTILS_H__	utils/utils/common_utils.h	18;"	d
+__CS_DER_CERTS_H__	crypto-service/crypto-service/cs_der_certs.h	18;"	d
+__CS_DER_KEYS_H__	crypto-service/crypto-service/cs_der_keys_and_csrs.h	18;"	d
+__CS_HASH_H__	crypto-service/crypto-service/cs_hash.h	18;"	d
+__CS_UTILS_H__	crypto-service/source/include/cs_utils.h	18;"	d
+__ESFS_FILE_NAME_H	mbed-client-esfs/source/include/esfs_file_name.h	17;"	d
+__ESFS_H	mbed-client-esfs/source/include/esfs.h	17;"	d
+__FACTORY_CONFIGURATOR_CLIENT_H__	factory-configurator-client/factory-configurator-client/factory_configurator_client.h	18;"	d
+__FCC_BUNDLE_FIELDS_H__	factory-configurator-client/source/include/fcc_bundle_fields.h	18;"	d
+__FCC_BUNDLE_HANDLER_H__	fcc-bundle-handler/fcc-bundle-handler/fcc_bundle_handler.h	18;"	d
+__FCC_BUNDLE_UTILS_H__	fcc-bundle-handler/source/include/fcc_bundle_utils.h	17;"	d
+__FCC_DEFS_H__	factory-configurator-client/factory-configurator-client/fcc_defs.h	18;"	d
+__FCC_MALLOC_H__	utils/utils/fcc_malloc.h	18;"	d
+__FCC_OUTPUT_INFO_HANDLER_DEFINES_H__	fcc-output-info-handler/fcc-output-info-handler/fcc_output_info_handler_defines.h	18;"	d
+__FCC_OUTPUT_INFO_HANDLER_H__	fcc-output-info-handler/fcc-output-info-handler/fcc_output_info_handler.h	18;"	d
+__FCC_STATS_H__	utils/utils/fcc_stats.h	18;"	d
+__FCC_STATUS_H__	factory-configurator-client/factory-configurator-client/fcc_status.h	18;"	d
+__FCC_TIME_PROFILING_H__	utils/utils/fcc_time_profiling.h	18;"	d
+__FCC_UTILS_H__	factory-configurator-client/source/include/fcc_utils.h	18;"	d
+__FCC_VERIFICATION_H__	factory-configurator-client/source/include/fcc_verification.h	18;"	d
+__FTCD_COMM_BASE_H__	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	18;"	d
+__FTCD_COMM_SERIAL_H__	ftcd-comm-serial/ftcd-comm-serial/ftcd_comm_serial.h	18;"	d
+__FTCD_COMM_SOCKET_H__	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	18;"	d
+__KCM_DEFS_H__	key-config-manager/key-config-manager/kcm_defs.h	18;"	d
+__KCM_STATUS_H__	key-config-manager/key-config-manager/kcm_status.h	18;"	d
+__KEYS_CONFIG_MANAGER_H__	key-config-manager/key-config-manager/key_config_manager.h	18;"	d
+__MBED_TRACE_HELPER_H__	mbed-trace-helper/mbed-trace-helper/mbed-trace-helper.h	19;"	d
+__PSA_DRIVER_DISPATCHER_H__	psa-driver/psa-driver/psa_driver_dispatcher.h	20;"	d
+__PSA_DRIVER_H__	psa-driver/psa-driver/psa_driver.h	19;"	d
+__PV_ENDIAN_H__	utils/utils/pv_endian.h	18;"	d
+__PV_ERROR_HANDLING_H__	utils/utils/pv_error_handling.h	18;"	d
+__PV_LOG_H__	logger/logger/pv_log.h	20;"	d
+__PV_LOG_H__INSIDE	logger/logger/pv_log.h	170;"	d
+__PV_LOG_H__INSIDE	logger/logger/pv_log.h	26;"	d
+__PV_MACROS_H__	utils/utils/pv_macros.h	18;"	d
+__SA_PV_FILE__	logger/logger/pv_log.h	34;"	d
+__SOTP_H	mbed-client-esfs/source/include/sotp.h	18;"	d
+__SOTP_INT_H	mbed-client-esfs/source/sotp/sotp_int.h	19;"	d
+__SOTP_LOG_H	mbed-client-esfs/source/sotp/sotp_log.h	19;"	d
+__SOTP_SHARED_LOCK_H	mbed-client-esfs/source/sotp/sotp_shared_lock.h	20;"	d
+__STDC_FORMAT_MACROS	ftcd-comm-serial/source/ftcd_comm_serial.cpp	20;"	d	file:
+__STDC_FORMAT_MACROS	ftcd-comm-socket/source/ftcd_comm_socket.cpp	20;"	d	file:
+__STORAGE_INTERNAL_H__	storage/source/include/storage_internal.h	18;"	d
+__STORAGE_ITEMS_H__	storage/storage/storage_items.h	17;"	d
+__STORAGE_ITEMS_PELION_SST_H__	storage/source/include/storage_items_pelion_sst.h	18;"	d
+__STORAGE_KEYS_H__	storage/storage/storage_keys.h	18;"	d
+_accept	ftcd-comm-socket/source/ftcd_comm_socket.cpp	/^palStatus_t FtcdCommSocket::_accept(palSocket_t socket, palSocketAddress_t* address, palSocketLength_t* addressLen, palSocket_t* acceptedSocket)$/;"	f	class:FtcdCommSocket
+_async_sem	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	/^    palSemaphoreID_t _async_sem;$/;"	m	class:FtcdCommSocket
+_client_socket	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	/^    palSocket_t _client_socket;$/;"	m	class:FtcdCommSocket
+_connection_state	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	/^    connection_state_e _connection_state;$/;"	m	class:FtcdCommSocket
+_cs_key_pair_context	crypto-service/crypto-service/cs_der_keys_and_csrs.h	/^typedef struct _cs_key_pair_context {$/;"	s
+_current_domain_type	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	/^    ftcd_socket_domain_e _current_domain_type;$/;"	m	class:FtcdCommSocket
+_header_token	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    uint8_t *_header_token;$/;"	m	class:FtcdCommBase
+_interface_handler	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	/^    const void *_interface_handler;$/;"	m	class:FtcdCommSocket
+_interface_index	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	/^    uint32_t _interface_index;$/;"	m	class:FtcdCommSocket
+_ksa_item_entry	key-config-manager/source/key_slot_allocator.c	/^typedef struct _ksa_item_entry {$/;"	s	file:
+_listen	ftcd-comm-socket/source/ftcd_comm_socket.cpp	/^bool FtcdCommSocket::_listen(void)$/;"	f	class:FtcdCommSocket
+_lock	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	/^    palSemaphoreID_t _lock;$/;"	m	class:FtcdCommSocket
+_net_interface_info	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	/^    palNetInterfaceInfo *_net_interface_info;$/;"	m	class:FtcdCommSocket
+_network_endianness	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    ftcd_comm_network_endianness_e _network_endianness;$/;"	m	class:FtcdCommBase
+_port	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	/^    uint16_t _port;$/;"	m	class:FtcdCommSocket
+_rcv_timeout	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	/^    int32_t _rcv_timeout;$/;"	m	class:FtcdCommSocket
+_read_from_socket	ftcd-comm-socket/source/ftcd_comm_socket.cpp	/^ftcd_comm_status_e FtcdCommSocket::_read_from_socket(void * data_out, int data_out_size)$/;"	f	class:FtcdCommSocket
+_recv	ftcd-comm-socket/source/ftcd_comm_socket.cpp	/^palStatus_t FtcdCommSocket::_recv(palSocket_t socket, void* buf, size_t len, size_t* recievedDataSize)$/;"	f	class:FtcdCommSocket
+_required_domain_type	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	/^    ftcd_socket_domain_e _required_domain_type;$/;"	m	class:FtcdCommSocket
+_send	ftcd-comm-socket/source/ftcd_comm_socket.cpp	/^palStatus_t FtcdCommSocket::_send(palSocket_t socket, const void* buf, size_t len, size_t* sentDataSize)$/;"	f	class:FtcdCommSocket
+_send_response	ftcd-comm-base/source/ftcd_comm_base.cpp	/^ftcd_comm_status_e FtcdCommBase::_send_response(const uint8_t *response_message, uint32_t response_message_size, bool send_status_code, ftcd_comm_status_e status_code)$/;"	f	class:FtcdCommBase
+_serial_read	ftcd-comm-serial/source/ftcd_comm_serial.cpp	/^size_t FtcdCommSerial::_serial_read(char *buffOut, size_t buffSize)$/;"	f	class:FtcdCommSerial
+_serial_write	ftcd-comm-serial/source/ftcd_comm_serial.cpp	/^size_t FtcdCommSerial::_serial_write(const char *buff, size_t buffSize)$/;"	f	class:FtcdCommSerial
+_server_socket	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	/^    palSocket_t _server_socket;$/;"	m	class:FtcdCommSocket
+_socket_event_ready_cb	ftcd-comm-socket/source/ftcd_comm_socket.cpp	/^void FtcdCommSocket::_socket_event_ready_cb(void *socket_obj)$/;"	f	class:FtcdCommSocket
+_use_signature	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    bool _use_signature;$/;"	m	class:FtcdCommBase
+_use_token	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^    bool _use_token;$/;"	m	class:FtcdCommBase
+_wait_for_socket_event	ftcd-comm-socket/source/ftcd_comm_socket.cpp	/^palStatus_t FtcdCommSocket::_wait_for_socket_event()$/;"	f	class:FtcdCommSocket
+action_id	mbed-client-esfs/source/sotp/sotp_log.c	/^    uint32_t action_id;$/;"	m	struct:__anon22	file:
+action_id_ctr	mbed-client-esfs/source/sotp/sotp_log.c	/^static uint32_t action_id_ctr  __attribute__((aligned(8)));$/;"	v	file:
+active_area	mbed-client-esfs/source/sotp/sotp.c	/^STATIC uint8_t active_area;$/;"	v
+active_area_version	mbed-client-esfs/source/sotp/sotp.c	/^STATIC uint16_t active_area_version;$/;"	v
+active_item_id	key-config-manager/source/key_slot_allocator.c	/^    uint16_t  active_item_id;    \/\/ Active item ID - the actual item's ID that should be used for psa operations. Can be 0, if the item is factory and was deleted from storage. $/;"	m	struct:_ksa_item_entry	file:
+add_performance_mark	mbed-client-esfs/source/esfs_performance.c	/^void add_performance_mark(const char * title, esfs_performance_type_e type)$/;"	f
+add_performance_mark	mbed-client-esfs/source/include/esfs_performance.h	51;"	d
+aes_ctx	mbed-client-esfs/source/include/esfs.h	/^    palAesHandle_t aes_ctx;$/;"	m	struct:__anon18
+alloc_cnt	utils/source/fcc_stats.c	/^    uint32_t alloc_cnt;         \/* Current number of allocations. *\/$/;"	m	struct:__anon28	file:
+alloc_fail_cnt	utils/source/fcc_stats.c	/^    uint32_t alloc_fail_cnt;    \/* Number of failed allocations. *\/$/;"	m	struct:__anon28	file:
+alloc_info_t	utils/source/fcc_stats.c	/^} alloc_info_t;$/;"	t	typeref:struct:__anon29	file:
+area_state_e	mbed-client-esfs/source/sotp/sotp.c	/^} area_state_e;$/;"	t	typeref:enum:__anon25	file:
+blob_name_length	mbed-client-esfs/source/include/esfs.h	/^    uint16_t blob_name_length;$/;"	m	struct:__anon18
+build_complete_backup_item_name	storage/source/storage_common.c	/^kcm_status_e build_complete_backup_item_name($/;"	f
+build_complete_item_name	storage/source/storage_items_pelion_sst.c	/^static kcm_status_e build_complete_item_name(const uint8_t *item_name,$/;"	f	file:
+build_key_pair_working_complete_names	storage/source/storage_psa.c	/^static kcm_status_e build_key_pair_working_complete_names($/;"	f	file:
+calc_empty_space	mbed-client-esfs/source/sotp/sotp.c	/^STATIC palStatus_t calc_empty_space(uint8_t area, uint32_t *offset)$/;"	f
+calculate_item_name_hash	key-config-manager/source/key_slot_allocator.c	/^static kcm_status_e calculate_item_name_hash(const uint8_t *item_name, size_t item_name_size, uint8_t* item_name_hash)$/;"	f	file:
+calculate_time	utils/source/fcc_time_profiling.c	/^void calculate_time(const char *label, size_t size, uint64_t ticks)$/;"	f
+certificate_index	storage/source/include/storage_internal.h	/^    uint32_t certificate_index;$/;"	m	struct:kcm_chain_cert_name_info_
+certificates_info	storage/source/include/storage_internal.h	/^    size_t  certificates_info[KCM_MAX_NUMBER_OF_CERTITICATES_IN_CHAIN]; \/\/!< Array of the sizes of the certificates in chain$/;"	m	struct:storage_cert_chain_context_
+chain_delete	storage/source/storage_items_pal_sst.c	/^void chain_delete(storage_cert_chain_context_s *chain_context, storage_item_prefix_type_e item_prefix_type)$/;"	f
+chain_delete	storage/source/storage_items_pelion_sst.c	/^void chain_delete(storage_cert_chain_context_s *chain_context, storage_item_prefix_type_e item_prefix_type)$/;"	f
+chain_delete	storage/source/storage_psa.c	/^void chain_delete(storage_cert_chain_context_s *chain_context, storage_item_prefix_type_e item_prefix_type)$/;"	f
+chain_name	storage/source/include/storage_internal.h	/^    uint8_t chain_name[STORAGE_MAX_COMPLETE_ITEM_NAME_LENGTH];\/\/!< The name of certificate chain.$/;"	m	struct:storage_cert_chain_context_
+chain_name_len	storage/source/include/storage_internal.h	/^    size_t  chain_name_len;                                 \/\/!< The size of certificate chain name.$/;"	m	struct:storage_cert_chain_context_
+check_certificate_existance	storage/source/storage_items_pal_sst.c	/^kcm_status_e check_certificate_existance(const uint8_t *kcm_chain_name, size_t kcm_chain_name_len, storage_item_prefix_type_e item_prefix_type)$/;"	f
+check_certificate_existance	storage/source/storage_psa.c	/^kcm_status_e check_certificate_existance(const uint8_t *kcm_chain_name, size_t kcm_chain_name_len, storage_item_prefix_type_e item_prefix_type)$/;"	f
+check_item_location	storage/source/storage_psa.c	/^static kcm_status_e check_item_location(kcm_item_location_e item_location)$/;"	f	file:
+check_scheme_version	fcc-bundle-handler/source/fcc_bundle_handler.c	/^static bool check_scheme_version(CborValue *tcbor_top_map)$/;"	f	file:
+check_utc_offset	factory-configurator-client/source/fcc_verification.c	/^static fcc_status_e check_utc_offset(void)$/;"	f	file:
+check_utc_offset_data	factory-configurator-client/source/fcc_verification.c	/^static bool check_utc_offset_data(char *utc_offset_data, size_t utc_data_size)$/;"	f	file:
+cmac	mbed-client-esfs/source/include/esfs.h	/^    uint8_t cmac[ESFS_CMAC_SIZE_IN_BYTES]; \/\/ Saved on open\/create; compared with on read$/;"	m	struct:__anon18
+compare_cn_with_endpoint	factory-configurator-client/source/fcc_verification.c	/^static fcc_status_e compare_cn_with_endpoint(palX509Handle_t x509_cert)$/;"	f	file:
+compare_ou_with_aid_server	factory-configurator-client/source/fcc_verification.c	/^static fcc_status_e compare_ou_with_aid_server(palX509Handle_t x509_cert)$/;"	f	file:
+config_param_name	factory-configurator-client/source/include/fcc_verification.h	/^    const char *config_param_name;$/;"	m	struct:fcc_config_param_lookup_record_
+config_param_type	factory-configurator-client/source/include/fcc_verification.h	/^    fcc_config_param_type_e config_param_type;$/;"	m	struct:fcc_config_param_lookup_record_
+connection_state_e	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	/^    enum connection_state_e {$/;"	g	class:FtcdCommSocket
+copy_all_warning_to_buffer	fcc-output-info-handler/source/fcc_output_info_handler.c	/^static bool copy_all_warning_to_buffer(char *out_warning_string, size_t size_of_out_warning_string)$/;"	f	file:
+copy_record	mbed-client-esfs/source/sotp/sotp.c	/^STATIC sotp_result_e copy_record(uint8_t from_area, uint32_t from_offset, uint32_t to_offset,$/;"	f
+crc32	mbed-client-esfs/source/sotp/sotp.c	/^STATIC uint32_t crc32(uint32_t init_crc, uint32_t data_len, uint8_t *data_buf)$/;"	f
+create_complete_item_name	storage/source/storage_common.c	/^static kcm_status_e create_complete_item_name($/;"	f	file:
+create_psa_storage_flags	psa-driver/source/psa_driver_ps.c	/^static kcm_status_e create_psa_storage_flags(uint32_t extra_flags, psa_storage_create_flags_t* psa_storage_flags)$/;"	f	file:
+cs_add_to_chain_x509_cert	crypto-service/source/cs_der_certs.c	/^kcm_status_e cs_add_to_chain_x509_cert(const uint8_t *cert, size_t cert_length, palX509Handle_t x509_chain_handle)$/;"	f
+cs_asymmetric_sign	crypto-service/source/cs_der_keys_and_csrs.c	/^kcm_status_e cs_asymmetric_sign(kcm_key_handle_t kcm_prv_key_handle, const uint8_t *hash_digest,$/;"	f
+cs_asymmetric_verify	crypto-service/source/cs_der_keys_and_csrs.c	/^kcm_status_e  cs_asymmetric_verify(kcm_key_handle_t kcm_public_key_handle, const uint8_t *hash_digest,$/;"	f
+cs_attr_get_data_size_x509_cert	crypto-service/source/cs_der_certs.c	/^kcm_status_e  cs_attr_get_data_size_x509_cert(palX509Handle_t x509_cert,$/;"	f
+cs_attr_get_data_x509_cert	crypto-service/source/cs_der_certs.c	/^kcm_status_e  cs_attr_get_data_x509_cert(palX509Handle_t x509_cert,$/;"	f
+cs_cert_name	crypto-service/crypto-service/cs_der_keys_and_csrs.h	/^    char *cs_cert_name;$/;"	m	struct:cs_renewal_names_
+cs_certificate_attribute_type_	crypto-service/crypto-service/cs_der_certs.h	/^typedef enum cs_certificate_attribute_type_ {$/;"	g
+cs_certificate_attribute_type_e	crypto-service/crypto-service/cs_der_certs.h	/^} cs_certificate_attribute_type_e;$/;"	t	typeref:enum:cs_certificate_attribute_type_
+cs_check_cert_with_priv_handle	crypto-service/source/cs_utils.c	/^kcm_status_e cs_check_cert_with_priv_handle(palX509Handle_t x509_cert, kcm_key_handle_t priv_key_h)$/;"	f
+cs_check_der_x509_format	crypto-service/source/cs_der_certs.c	/^kcm_status_e cs_check_der_x509_format(const uint8_t *cert, size_t cert_length)$/;"	f
+cs_child_cert_params_get	crypto-service/source/cs_der_certs.c	/^kcm_status_e cs_child_cert_params_get(palX509Handle_t x509_cert, cs_child_cert_params_s *params_out)$/;"	f
+cs_child_cert_params_s	crypto-service/crypto-service/cs_der_certs.h	/^typedef storage_chain_prev_cert_params_s cs_child_cert_params_s;$/;"	t
+cs_close_handle_x509_cert	crypto-service/source/cs_der_certs.c	/^kcm_status_e cs_close_handle_x509_cert(palX509Handle_t *x509_cert_handle)$/;"	f
+cs_create_handle_from_der_x509_cert	crypto-service/source/cs_der_certs.c	/^kcm_status_e cs_create_handle_from_der_x509_cert(const uint8_t *cert, size_t cert_length, palX509Handle_t *x509_cert_handle)$/;"	f
+cs_csr_generate	crypto-service/source/cs_der_keys_and_csrs.c	/^kcm_status_e cs_csr_generate(const kcm_key_handle_t priv_key_handle, const kcm_csr_params_s *csr_params, uint8_t *csr_buff_out,$/;"	f
+cs_der_priv_key_verify	crypto-service/source/cs_der_keys_and_csrs.c	/^kcm_status_e cs_der_priv_key_verify(const uint8_t *key, size_t key_length)$/;"	f
+cs_der_public_key_verify	crypto-service/source/cs_der_keys_and_csrs.c	/^kcm_status_e cs_der_public_key_verify(const uint8_t *der_key, size_t der_key_length)$/;"	f
+cs_ecdh_key_agreement	crypto-service/source/cs_der_keys_and_csrs.c	/^kcm_status_e cs_ecdh_key_agreement(kcm_key_handle_t kcm_private_key_handle, const uint8_t *peer_public_key,$/;"	f
+cs_ecdsa_sign	crypto-service/source/cs_der_keys_and_csrs.c	/^kcm_status_e cs_ecdsa_sign(const uint8_t *der_priv_key, size_t der_priv_key_length, const uint8_t *hash_dgst, size_t hash_dgst_len, uint8_t *out_sign, size_t  signature_data_max_size, size_t * signature_data_act_size_out)$/;"	f
+cs_ecdsa_verify	crypto-service/source/cs_der_keys_and_csrs.c	/^kcm_status_e cs_ecdsa_verify(const uint8_t *der_pub_key, size_t der_pub_key_len, const uint8_t *hash_dgst, size_t hash_dgst_len, const uint8_t *sign, size_t  signature_size)$/;"	f
+cs_error_handler	crypto-service/source/cs_utils.c	/^kcm_status_e cs_error_handler(palStatus_t pal_status)$/;"	f
+cs_free_pal_key_handle	crypto-service/source/cs_der_keys_and_csrs.c	/^static kcm_status_e cs_free_pal_key_handle(palCurveHandle_t *grp, palECKeyHandle_t *key_handle)$/;"	f	file:
+cs_generate_csr_from_certificate	crypto-service/source/cs_der_keys_and_csrs.c	/^static kcm_status_e cs_generate_csr_from_certificate(const uint8_t *certificate,$/;"	f	file:
+cs_generate_keys_and_create_csr_from_certificate	crypto-service/source/cs_der_keys_and_csrs.c	/^kcm_status_e cs_generate_keys_and_create_csr_from_certificate(const uint8_t *certificate,$/;"	f
+cs_get_x509_cert_attribute_type	crypto-service/source/cs_der_certs.c	/^static kcm_status_e cs_get_x509_cert_attribute_type(cs_certificate_attribute_type_e cs_attribute_type, palX509Attr_t *attribute_type)$/;"	f	file:
+cs_hash	crypto-service/source/cs_hash.c	/^kcm_status_e cs_hash(cs_hash_mode_e mode, const uint8_t *data, size_t data_size, uint8_t *digest, size_t digest_size)$/;"	f
+cs_hash_mode_e	crypto-service/crypto-service/cs_hash.h	/^} cs_hash_mode_e;$/;"	t	typeref:enum:__anon27
+cs_init_and_set_pal_key_handle	crypto-service/source/cs_der_keys_and_csrs.c	/^static kcm_status_e cs_init_and_set_pal_key_handle(const uint8_t *key_data, size_t key_data_size, palKeyToCheck_t key_type, palCurveHandle_t *grp, palECKeyHandle_t *key_handle)$/;"	f	file:
+cs_is_self_signed_x509_cert	crypto-service/source/cs_der_certs.c	/^kcm_status_e cs_is_self_signed_x509_cert(palX509Handle_t x509_cert, bool *is_self_signed)$/;"	f
+cs_key_handle_t	crypto-service/crypto-service/cs_der_keys_and_csrs.h	/^    typedef uintptr_t cs_key_handle_t;$/;"	t
+cs_key_pair_context_s	crypto-service/crypto-service/cs_der_keys_and_csrs.h	/^} cs_key_pair_context_s;$/;"	t	typeref:struct:_cs_key_pair_context
+cs_key_pair_free	crypto-service/source/cs_der_keys_and_csrs.c	/^kcm_status_e cs_key_pair_free(cs_key_handle_t *key_h)$/;"	f
+cs_key_pair_generate	crypto-service/source/cs_der_keys_and_csrs.c	/^kcm_status_e cs_key_pair_generate(kcm_crypto_key_scheme_e curve_name, cs_key_handle_t key_h)$/;"	f
+cs_key_pair_new	crypto-service/source/cs_der_keys_and_csrs.c	/^kcm_status_e cs_key_pair_new(cs_key_handle_t *key_h, bool write_public_key)$/;"	f
+cs_priv_key_get_der_to_raw	crypto-service/source/cs_der_keys_and_csrs.c	/^kcm_status_e cs_priv_key_get_der_to_raw(const uint8_t *der_key, size_t der_key_length, uint8_t *raw_key_data_out, size_t raw_key_data_max_size, size_t *raw_key_data_act_size_out)$/;"	f
+cs_priv_key_name	crypto-service/crypto-service/cs_der_keys_and_csrs.h	/^    char *cs_priv_key_name;$/;"	m	struct:cs_renewal_names_
+cs_pub_key_get_der_to_raw	crypto-service/source/cs_der_keys_and_csrs.c	/^kcm_status_e cs_pub_key_get_der_to_raw(const uint8_t *der_key, size_t der_key_length, uint8_t *raw_key_data_out, size_t raw_key_data_max_size, size_t *raw_key_data_act_size_out)$/;"	f
+cs_pub_key_get_raw_to_der	crypto-service/source/cs_der_keys_and_csrs.c	/^kcm_status_e cs_pub_key_get_raw_to_der(const uint8_t *raw_key, size_t raw_key_length, uint8_t *der_key_data_out, size_t der_key_data_max_size, size_t *der_key_data_act_size_out)$/;"	f
+cs_pub_key_name	crypto-service/crypto-service/cs_der_keys_and_csrs.h	/^    char *cs_pub_key_name;\/\/optional$/;"	m	struct:cs_renewal_names_
+cs_renewal_names_	crypto-service/crypto-service/cs_der_keys_and_csrs.h	/^typedef struct cs_renewal_names_ {$/;"	s
+cs_renewal_names_s	crypto-service/crypto-service/cs_der_keys_and_csrs.h	/^} cs_renewal_names_s;$/;"	t	typeref:struct:cs_renewal_names_
+cs_verify_items_correlation	crypto-service/source/cs_der_keys_and_csrs.c	/^kcm_status_e cs_verify_items_correlation(cs_key_handle_t crypto_handle, const uint8_t *certificate_data, size_t certificate_data_len)$/;"	f
+cs_verify_key_pair	crypto-service/source/cs_der_keys_and_csrs.c	/^kcm_status_e cs_verify_key_pair(const uint8_t *priv_key_data, size_t priv_key_data_size, const uint8_t *pub_key_data, size_t pub_key_data_size)$/;"	f
+cs_verify_x509_cert	crypto-service/source/cs_der_certs.c	/^kcm_status_e cs_verify_x509_cert(palX509Handle_t x509_cert,palX509Handle_t x509_cert_chain)$/;"	f
+cs_x509_cert_verify_der_signature	crypto-service/source/cs_der_certs.c	/^kcm_status_e  cs_x509_cert_verify_der_signature(palX509Handle_t x509_cert, const unsigned char *hash, size_t hash_size, const unsigned char *signature, size_t signature_size)$/;"	f
+csr_generate	crypto-service/source/cs_der_keys_and_csrs.c	/^static kcm_status_e csr_generate(palECKeyHandle_t priv_key_handle, const kcm_csr_params_s *csr_params,$/;"	f	file:
+ctr	mbed-client-esfs/source/sotp/sotp_shared_lock.c	/^    int32_t      ctr;$/;"	m	struct:__anon26	file:
+curr_entry_ind	mbed-client-esfs/source/sotp/sotp_log.c	/^    uint32_t curr_entry_ind;$/;"	m	struct:__anon23	file:
+current_cert_index	storage/source/include/storage_internal.h	/^    uint32_t current_cert_index;                            \/\/!< Current certificate iterator.$/;"	m	struct:storage_cert_chain_context_
+current_kcm_ctx	storage/source/include/storage_internal.h	/^    store_esfs_file_ctx_s current_kcm_ctx;                  \/\/!< Current KCM operation context.$/;"	m	struct:storage_cert_chain_context_
+current_read_pos	mbed-client-esfs/source/include/esfs.h	/^    long current_read_pos;   \/\/ The byte position from the beginning of the data.$/;"	m	struct:__anon18
+current_size	utils/source/fcc_stats.c	/^    uint32_t current_size;      \/* Bytes allocated currently *\/$/;"	m	struct:__anon28	file:
+data	storage/source/include/storage_items_pelion_sst.h	/^        uint8_t *data;$/;"	m	struct:store_esfs_meta_data_
+data_size	mbed-client-esfs/source/include/esfs.h	/^    size_t data_size;   \/\/ The size of the data only in bytes.$/;"	m	struct:__anon18
+data_size	storage/source/include/storage_items_pelion_sst.h	/^        size_t data_size;$/;"	m	struct:store_esfs_meta_data_
+der_key_verify	crypto-service/source/cs_der_keys_and_csrs.c	/^static kcm_status_e der_key_verify(const uint8_t *der_key, size_t der_key_length, palKeyToCheck_t key_type)$/;"	f	file:
+destroy_ksa_tables	key-config-manager/source/key_slot_allocator.c	/^static void destroy_ksa_tables()$/;"	f	file:
+dummy	mbed-client-esfs/source/sotp/sotp_log.c	/^    uint32_t dummy;$/;"	m	struct:__anon22	file:
+encode_response_params	fcc-bundle-handler/source/fcc_bundle_handler.c	/^static bool encode_response_params(CborEncoder *tcbor_map_encoder, const char *session_id, size_t session_id_len, fcc_status_e fcc_status)$/;"	f	file:
+end_time	mbed-client-esfs/source/sotp/sotp_log.c	/^    uint64_t end_time;$/;"	m	struct:__anon22	file:
+entries	mbed-client-esfs/source/sotp/sotp_log.c	/^    sotp_log_entry_t entries[MAX_ENTRIES];$/;"	m	struct:__anon23	file:
+error_string_info	factory-configurator-client/factory-configurator-client/fcc_defs.h	/^    char *error_string_info; \/\/ pattern of the error string - error_string:failed_item_name. Only one error string is possible.$/;"	m	struct:fcc_output_info_
+esfs_EncodeBase64	mbed-client-esfs/source/esfs_file_name.c	/^esfs_result_e esfs_EncodeBase64(const void* buffer, uint32_t bufferSize, char* string, uint32_t stringSize)$/;"	f
+esfs_aes_enc_dec_by_file_pos	mbed-client-esfs/source/esfs.c	/^static esfs_result_e esfs_aes_enc_dec_by_file_pos( palAesHandle_t  aes_ctx,$/;"	f	file:
+esfs_calc_file_pos_for_aes	mbed-client-esfs/source/esfs.c	/^static esfs_result_e esfs_calc_file_pos_for_aes(esfs_file_t *file_handle, size_t *position)$/;"	f	file:
+esfs_check_file_validity	mbed-client-esfs/source/esfs.c	/^static esfs_result_e esfs_check_file_validity(const uint8_t* name, size_t name_length, esfs_file_t *file_handle)$/;"	f	file:
+esfs_close	mbed-client-esfs/source/esfs.c	/^esfs_result_e esfs_close(esfs_file_t *file_handle)$/;"	f
+esfs_cmac_check_and_restore	mbed-client-esfs/source/esfs.c	/^static esfs_result_e esfs_cmac_check_and_restore(esfs_file_t *file_handle, unsigned char *pcmac, int32_t position)$/;"	f	file:
+esfs_cmac_finish	mbed-client-esfs/source/esfs.c	/^static esfs_result_e esfs_cmac_finish(esfs_file_t *file_handle, unsigned char *pcmac)$/;"	f	file:
+esfs_cmac_read	mbed-client-esfs/source/esfs.c	/^static esfs_result_e esfs_cmac_read(esfs_file_t *file_handle, void *pbuf, size_t num_bytes, size_t *num_bytes_read)$/;"	f	file:
+esfs_cmac_skip_to	mbed-client-esfs/source/esfs.c	/^static esfs_result_e esfs_cmac_skip_to(esfs_file_t *file_handle, int32_t to)$/;"	f	file:
+esfs_cmac_start	mbed-client-esfs/source/esfs.c	/^static esfs_result_e esfs_cmac_start(esfs_file_t *file_handle)$/;"	f	file:
+esfs_copy_file	mbed-client-esfs/source/esfs.c	/^static esfs_result_e esfs_copy_file(const char *src_file, const char *dst_file)$/;"	f	file:
+esfs_create	mbed-client-esfs/source/esfs.c	/^esfs_result_e esfs_create(const uint8_t *name, size_t name_length, const esfs_tlv_item_t *meta_data, size_t meta_data_qty, uint16_t esfs_mode, esfs_file_t *file_handle)$/;"	f
+esfs_create_internal	mbed-client-esfs/source/esfs.c	/^static esfs_result_e esfs_create_internal( const uint8_t *name,$/;"	f	file:
+esfs_delete	mbed-client-esfs/source/esfs.c	/^esfs_result_e esfs_delete(const uint8_t *name, size_t name_length)$/;"	f
+esfs_encrypt_fwrite_and_calc_cmac	mbed-client-esfs/source/esfs.c	/^static esfs_result_e esfs_encrypt_fwrite_and_calc_cmac(const void *buffer, size_t bytes_to_write, esfs_file_t *file_handle)$/;"	f	file:
+esfs_factory_reset	mbed-client-esfs/source/esfs.c	/^esfs_result_e esfs_factory_reset(void) {$/;"	f
+esfs_file_flag_e	mbed-client-esfs/source/include/esfs.h	/^}esfs_file_flag_e;$/;"	t	typeref:enum:__anon14
+esfs_file_h	storage/source/include/storage_items_pelion_sst.h	/^        esfs_file_t esfs_file_h;$/;"	m	struct:store_esfs_file_ctx_
+esfs_file_header_size	mbed-client-esfs/source/esfs.c	/^static size_t esfs_file_header_size(esfs_file_t *file_handle)$/;"	f	file:
+esfs_file_size	mbed-client-esfs/source/esfs.c	/^esfs_result_e esfs_file_size(esfs_file_t *file_handle, size_t *size_in_bytes)$/;"	f
+esfs_file_t	mbed-client-esfs/source/include/esfs.h	/^}esfs_file_t;$/;"	t	typeref:struct:__anon18
+esfs_finalize	mbed-client-esfs/source/esfs.c	/^esfs_result_e esfs_finalize(void)$/;"	f
+esfs_fwrite_and_calc_cmac	mbed-client-esfs/source/esfs.c	/^static esfs_result_e esfs_fwrite_and_calc_cmac(const void *pbuf, size_t num_bytes, esfs_file_t *file_handle)$/;"	f	file:
+esfs_get_meta_data_properties	mbed-client-esfs/source/esfs.c	/^esfs_result_e esfs_get_meta_data_properties(esfs_file_t *file_handle, esfs_tlv_properties_t **meta_data_properties)$/;"	f
+esfs_get_name_from_blob	mbed-client-esfs/source/esfs_file_name.c	/^esfs_result_e esfs_get_name_from_blob(const uint8_t *blob, uint32_t blob_length,char *file_name, uint32_t size_of_file_name)$/;"	f
+esfs_get_physical_file_size	mbed-client-esfs/source/esfs.c	/^static palStatus_t esfs_get_physical_file_size(palFileDescriptor_t* fd, int32_t *file_size)$/;"	f	file:
+esfs_init	mbed-client-esfs/source/esfs.c	/^esfs_result_e esfs_init(void)$/;"	f
+esfs_initialize	mbed-client-esfs/source/esfs.c	/^static bool esfs_initialize = false;$/;"	v	file:
+esfs_memcpy_reverse	mbed-client-esfs/source/esfs.c	/^static void *esfs_memcpy_reverse(void *dest_ptr, const void *src_ptr, uint32_t len_bytes)$/;"	f	file:
+esfs_mode	mbed-client-esfs/source/include/esfs.h	/^    uint16_t esfs_mode;$/;"	m	struct:__anon18
+esfs_mode_e	mbed-client-esfs/source/include/esfs.h	/^}esfs_mode_e;$/;"	t	typeref:enum:__anon13
+esfs_not_encrypted_file_header_size	mbed-client-esfs/source/esfs.c	/^static size_t esfs_not_encrypted_file_header_size(esfs_file_t *file_handle)$/;"	f	file:
+esfs_open	mbed-client-esfs/source/esfs.c	/^esfs_result_e esfs_open(const uint8_t *name, size_t name_length, uint16_t *esfs_mode, esfs_file_t *file_handle)$/;"	f
+esfs_performance_type	mbed-client-esfs/source/include/esfs_performance.h	/^typedef enum esfs_performance_type$/;"	g
+esfs_performance_type_e	mbed-client-esfs/source/include/esfs_performance.h	/^}esfs_performance_type_e;$/;"	t	typeref:enum:esfs_performance_type
+esfs_read	mbed-client-esfs/source/esfs.c	/^esfs_result_e esfs_read(esfs_file_t *file_handle, void *buffer, size_t bytes_to_read, size_t *read_bytes)$/;"	f
+esfs_read_and_decrypt	mbed-client-esfs/source/esfs.c	/^static esfs_result_e esfs_read_and_decrypt(esfs_file_t *file_handle, void *buffer, size_t bytes_to_read, size_t *read_bytes_ptr)$/;"	f	file:
+esfs_read_meta_data	mbed-client-esfs/source/esfs.c	/^esfs_result_e esfs_read_meta_data(esfs_file_t *file_handle, uint32_t index, esfs_tlv_item_t *meta_data)$/;"	f
+esfs_reset	mbed-client-esfs/source/esfs.c	/^esfs_result_e esfs_reset(void)$/;"	f
+esfs_result_e	mbed-client-esfs/source/include/esfs.h	/^}esfs_result_e;$/;"	t	typeref:enum:__anon12
+esfs_seek	mbed-client-esfs/source/esfs.c	/^esfs_result_e esfs_seek(esfs_file_t *file_handle, int32_t offset, esfs_seek_origin_e whence, uint32_t *position)$/;"	f
+esfs_seek_origin_e	mbed-client-esfs/source/include/esfs.h	/^}esfs_seek_origin_e;$/;"	t	typeref:enum:__anon19
+esfs_set_counter_in_iv_by_file_pos	mbed-client-esfs/source/esfs.c	/^static void esfs_set_counter_in_iv_by_file_pos(size_t position, uint8_t *iv128_arr)$/;"	f	file:
+esfs_tlvItem_t	mbed-client-esfs/source/include/esfs.h	/^} esfs_tlvItem_t;$/;"	t	typeref:struct:__anon16
+esfs_tlv_item_t	mbed-client-esfs/source/include/esfs.h	/^} esfs_tlv_item_t;$/;"	t	typeref:struct:__anon15
+esfs_tlv_properties_t	mbed-client-esfs/source/include/esfs.h	/^}esfs_tlv_properties_t;$/;"	t	typeref:struct:__anon17
+esfs_to_kcm_error_translation	storage/source/storage_items_pelion_sst.c	/^static kcm_status_e esfs_to_kcm_error_translation(esfs_result_e esfs_status)$/;"	f	file:
+esfs_validate	mbed-client-esfs/source/esfs.c	/^static esfs_result_e esfs_validate(esfs_file_t *file_handle)$/;"	f	file:
+esfs_write	mbed-client-esfs/source/esfs.c	/^esfs_result_e esfs_write(esfs_file_t *file_handle, const void *buffer, size_t bytes_to_write)$/;"	f
+ext_key_usage	key-config-manager/key-config-manager/kcm_defs.h	/^        uint32_t ext_key_usage;$/;"	m	struct:kcm_csr_params_
+factory_item_id	key-config-manager/source/key_slot_allocator.c	/^    uint16_t  factory_item_id;   \/\/ Factory item ID - the factory item' ID, can be different from active ID. 0 - if the item is non factory item. $/;"	m	struct:_ksa_item_entry	file:
+fcc_bundle_factory_disable	fcc-bundle-handler/source/fcc_bundle_common_utils.c	/^fcc_status_e fcc_bundle_factory_disable( void )$/;"	f
+fcc_bundle_get_bool	fcc-bundle-handler/source/fcc_bundle_common_utils.c	/^bool fcc_bundle_get_bool(const CborValue *tcbor_val, bool *value_out, const char *err_field_name, size_t err_field_name_len)$/;"	f
+fcc_bundle_get_byte_string	fcc-bundle-handler/source/fcc_bundle_common_utils.c	/^bool fcc_bundle_get_byte_string(const CborValue *tcbor_val, const uint8_t **bytes, size_t *bytes_len, const char *err_field_name, size_t err_field_name_len)$/;"	f
+fcc_bundle_get_text_string	fcc-bundle-handler/source/fcc_bundle_common_utils.c	/^bool fcc_bundle_get_text_string(const CborValue *tcbor_val, const char **str, size_t *str_len, const char *err_field_name, size_t err_field_name_len)$/;"	f
+fcc_bundle_get_uint64	fcc-bundle-handler/source/fcc_bundle_common_utils.c	/^bool fcc_bundle_get_uint64(const CborValue *tcbor_val, uint64_t *value_out, const char *err_field_name, size_t err_field_name_len)$/;"	f
+fcc_bundle_get_variant	fcc-bundle-handler/source/fcc_bundle_common_utils.c	/^bool fcc_bundle_get_variant(CborValue *tcbor_val, const uint8_t **data_ptr, size_t *data_ptr_size, uint64_t *data64_val, const char *err_field_name, size_t err_field_name_len)$/;"	f
+fcc_bundle_handler	fcc-bundle-handler/source/fcc_bundle_handler.c	/^fcc_status_e fcc_bundle_handler(const uint8_t *encoded_blob, size_t encoded_blob_size, uint8_t **bundle_response_out, size_t *bundle_response_size_out)$/;"	f
+fcc_bundle_process_certificates_cb	fcc-bundle-handler/source/fcc_bundle_certificate_utils.c	/^fcc_status_e fcc_bundle_process_certificates_cb(CborValue *tcbor_val, void *extra_info)$/;"	f
+fcc_bundle_process_config_param_cb	fcc-bundle-handler/source/fcc_bundle_config_params_utils.c	/^fcc_status_e fcc_bundle_process_config_param_cb(CborValue *tcbor_val, void *extra_info)$/;"	f
+fcc_bundle_process_csr_reqs	fcc-bundle-handler/source/fcc_bundle_csr_utils.c	/^fcc_status_e fcc_bundle_process_csr_reqs(const CborValue *tcbor_csr_reqs_val, CborEncoder *tcbor_top_map_encoder)$/;"	f
+fcc_bundle_process_keys_cb	fcc-bundle-handler/source/fcc_bundle_key_utils.c	/^fcc_status_e fcc_bundle_process_keys_cb(CborValue *tcbor_val, void *extra_info)$/;"	f
+fcc_bundle_process_map_cb	fcc-bundle-handler/source/include/fcc_bundle_utils.h	/^typedef fcc_status_e (*fcc_bundle_process_map_cb)(CborValue *tcbor_map_val, void *extra_cb_info);$/;"	t
+fcc_bundle_process_maps_in_arr	fcc-bundle-handler/source/fcc_bundle_common_utils.c	/^fcc_status_e fcc_bundle_process_maps_in_arr(const CborValue *tcbor_arr_val ,fcc_bundle_process_map_cb process_map_cb, void *extra_cb_info)$/;"	f
+fcc_bundle_process_rbp_buffer	fcc-bundle-handler/source/fcc_bundle_common_utils.c	/^fcc_status_e fcc_bundle_process_rbp_buffer(CborValue *tcbor_top_map, const char *map_key_name, const char *rbp_item_name)$/;"	f
+fcc_bundle_store_kcm_error_info	fcc-output-info-handler/source/fcc_output_info_handler.c	/^fcc_status_e fcc_bundle_store_kcm_error_info(const uint8_t *failed_item_name, size_t failed_item_name_size, kcm_status_e kcm_status)$/;"	f
+fcc_bundle_timer	utils/source/fcc_time_profiling.c	/^uint64_t fcc_bundle_timer = 0;$/;"	v
+fcc_certificate_chain_timer	utils/source/fcc_time_profiling.c	/^uint64_t fcc_certificate_chain_timer = 0;$/;"	v
+fcc_certificate_timer	utils/source/fcc_time_profiling.c	/^uint64_t fcc_certificate_timer = 0;$/;"	v
+fcc_check_device_general_info	factory-configurator-client/source/fcc_verification.c	/^fcc_status_e fcc_check_device_general_info()$/;"	f
+fcc_check_device_meta_data	factory-configurator-client/source/fcc_verification.c	/^fcc_status_e fcc_check_device_meta_data(void)$/;"	f
+fcc_check_device_security_objects	factory-configurator-client/source/fcc_verification.c	/^fcc_status_e fcc_check_device_security_objects(bool use_bootstrap)$/;"	f
+fcc_check_firmware_update_integrity	factory-configurator-client/source/fcc_verification.c	/^fcc_status_e fcc_check_firmware_update_integrity(void)$/;"	f
+fcc_check_time_synchronization	factory-configurator-client/source/fcc_verification.c	/^fcc_status_e fcc_check_time_synchronization()$/;"	f
+fcc_check_uri_contents	factory-configurator-client/source/fcc_verification.c	/^static fcc_status_e fcc_check_uri_contents(bool use_bootstrap, uint8_t* uri_data_buffer, size_t size_of_uri_data_buffer)$/;"	f	file:
+fcc_clean_output_info_handler	fcc-output-info-handler/source/fcc_output_info_handler.c	/^void  fcc_clean_output_info_handler()$/;"	f
+fcc_config_param_lookup_record_	factory-configurator-client/source/include/fcc_verification.h	/^typedef struct fcc_config_param_lookup_record_ {$/;"	s
+fcc_config_param_lookup_record_s	factory-configurator-client/source/include/fcc_verification.h	/^} fcc_config_param_lookup_record_s;$/;"	t	typeref:struct:fcc_config_param_lookup_record_
+fcc_config_param_lookup_table	factory-configurator-client/source/fcc_verification.c	/^static const fcc_config_param_lookup_record_s fcc_config_param_lookup_table[FCC_MAX_CONFIG_PARAM_TYPE] = {$/;"	v	file:
+fcc_config_param_timer	utils/source/fcc_time_profiling.c	/^uint64_t fcc_config_param_timer = 0;$/;"	v
+fcc_config_param_type_e	factory-configurator-client/source/include/fcc_verification.h	/^} fcc_config_param_type_e;$/;"	t	typeref:enum:__anon5
+fcc_convert_kcm_to_fcc_status	factory-configurator-client/source/fcc_utils.c	/^fcc_status_e fcc_convert_kcm_to_fcc_status(kcm_status_e kcm_result)$/;"	f
+fcc_convert_pal_to_fcc_status	factory-configurator-client/source/fcc_utils.c	/^fcc_status_e fcc_convert_pal_to_fcc_status(palStatus_t pal_result)$/;"	f
+fcc_deloveper_mode_item_params	factory-configurator-client/source/fcc_dev_flow.c	/^typedef struct fcc_deloveper_mode_item_params {$/;"	s	file:
+fcc_deloveper_mode_item_params_s	factory-configurator-client/source/fcc_dev_flow.c	/^} fcc_deloveper_mode_item_params_s;$/;"	t	typeref:struct:fcc_deloveper_mode_item_params	file:
+fcc_developer_flow	factory-configurator-client/source/fcc_dev_flow.c	/^fcc_status_e fcc_developer_flow(void)$/;"	f
+fcc_entropy_set	factory-configurator-client/source/factory_configurator_client.c	/^fcc_status_e fcc_entropy_set(const uint8_t *buf, size_t buf_size)$/;"	f
+fcc_factory_disable	factory-configurator-client/source/factory_configurator_client.c	/^fcc_status_e fcc_factory_disable(void)$/;"	f
+fcc_finalize	factory-configurator-client/source/factory_configurator_client.c	/^fcc_status_e fcc_finalize(void)$/;"	f
+fcc_free	utils/source/fcc_stats.c	/^void fcc_free(void *ptr)$/;"	f
+fcc_free	utils/utils/fcc_malloc.h	51;"	d
+fcc_free_list_of_warnings	fcc-output-info-handler/source/fcc_output_info_handler.c	/^static void fcc_free_list_of_warnings(fcc_warning_info_s  *output_warning_info)$/;"	f	file:
+fcc_gen_timer	utils/source/fcc_time_profiling.c	/^uint64_t fcc_gen_timer = 0;$/;"	v
+fcc_generate_csr_timer	utils/source/fcc_time_profiling.c	/^uint64_t fcc_generate_csr_timer = 0;$/;"	v
+fcc_get_bootstrap_mode	factory-configurator-client/source/fcc_verification.c	/^fcc_status_e fcc_get_bootstrap_mode(bool *use_bootstrap)$/;"	f
+fcc_get_certificate_attribute	utils/source/common_utils.c	/^fcc_status_e fcc_get_certificate_attribute(palX509Handle_t x509_cert, cs_certificate_attribute_type_e attribute_type, uint8_t **attribute_data, size_t *attribute_act_data_size)$/;"	f
+fcc_get_certificate_attribute_by_name	utils/source/common_utils.c	/^fcc_status_e fcc_get_certificate_attribute_by_name(const uint8_t *cert_name, size_t size_of_cert_name, cs_certificate_attribute_type_e attribute_type, uint8_t *attribute_data,size_t attribute_data_size, size_t *attribute_act_data_size)$/;"	f
+fcc_get_error_and_warning_data	factory-configurator-client/source/factory_configurator_client.c	/^fcc_output_info_s* fcc_get_error_and_warning_data(void)$/;"	f
+fcc_get_fcc_error_string	fcc-output-info-handler/source/fcc_output_info_handler.c	/^char* fcc_get_fcc_error_string(fcc_status_e fcc_status)$/;"	f
+fcc_get_kcm_data	utils/source/common_utils.c	/^fcc_status_e fcc_get_kcm_data(const uint8_t *parameter_name, size_t size_of_parameter_name, kcm_item_type_e kcm_type, uint8_t **kcm_data, size_t *kcm_data_size)$/;"	f
+fcc_get_kcm_error_string	fcc-output-info-handler/source/fcc_output_info_handler.c	/^char* fcc_get_kcm_error_string(kcm_status_e kcm_status)$/;"	f
+fcc_get_output_error_info	fcc-output-info-handler/source/fcc_output_info_handler.c	/^char* fcc_get_output_error_info()$/;"	f
+fcc_get_output_warning_info	fcc-output-info-handler/source/fcc_output_info_handler.c	/^char*  fcc_get_output_warning_info()$/;"	f
+fcc_get_size_of_all_warning_strings	fcc-output-info-handler/source/fcc_output_info_handler.c	/^static size_t fcc_get_size_of_all_warning_strings()$/;"	f	file:
+fcc_get_warning_status	fcc-output-info-handler/source/fcc_output_info_handler.c	/^bool fcc_get_warning_status()$/;"	f
+fcc_init	factory-configurator-client/source/factory_configurator_client.c	/^fcc_status_e fcc_init(void)$/;"	f
+fcc_init_output_info_handler	fcc-output-info-handler/source/fcc_output_info_handler.c	/^void  fcc_init_output_info_handler()$/;"	f
+fcc_is_entropy_initialized	factory-configurator-client/source/fcc_verification.c	/^bool fcc_is_entropy_initialized(void)$/;"	f
+fcc_is_factory_disabled	factory-configurator-client/source/factory_configurator_client.c	/^fcc_status_e fcc_is_factory_disabled(bool *is_factory_disabled)$/;"	f
+fcc_is_initialized	factory-configurator-client/source/factory_configurator_client.c	/^bool fcc_is_initialized()$/;"	f
+fcc_is_session_finished	factory-configurator-client/source/factory_configurator_client.c	/^bool fcc_is_session_finished(void)$/;"	f
+fcc_key_timer	utils/source/fcc_time_profiling.c	/^uint64_t fcc_key_timer = 0;$/;"	v
+fcc_malloc	utils/source/fcc_stats.c	/^void *fcc_malloc(size_t size)$/;"	f
+fcc_malloc	utils/utils/fcc_malloc.h	50;"	d
+fcc_output_info_	factory-configurator-client/factory-configurator-client/fcc_defs.h	/^typedef struct fcc_output_info_ {$/;"	s
+fcc_output_info_s	factory-configurator-client/factory-configurator-client/fcc_defs.h	/^} fcc_output_info_s;$/;"	t	typeref:struct:fcc_output_info_
+fcc_rot_set	factory-configurator-client/source/factory_configurator_client.c	/^fcc_status_e fcc_rot_set(const uint8_t *buf, size_t buf_size)$/;"	f
+fcc_set_output_string_info	fcc-output-info-handler/source/fcc_output_info_handler.c	/^static fcc_status_e fcc_set_output_string_info(const char *message_string, const uint8_t *failed_item_name, size_t failed_item_name_size, char **out_string)$/;"	f	file:
+fcc_stats_print_summary	utils/source/fcc_stats.c	/^void fcc_stats_print_summary(void)$/;"	f
+fcc_stats_print_summary	utils/utils/fcc_stats.h	33;"	d
+fcc_status_e	factory-configurator-client/factory-configurator-client/fcc_status.h	/^} fcc_status_e;$/;"	t	typeref:enum:__anon4
+fcc_storage_delete	factory-configurator-client/source/factory_configurator_client.c	/^fcc_status_e fcc_storage_delete()$/;"	f
+fcc_store_error_info	fcc-output-info-handler/source/fcc_output_info_handler.c	/^fcc_status_e fcc_store_error_info(const uint8_t *failed_item_name, size_t failed_item_name_size, fcc_status_e fcc_status)$/;"	f
+fcc_store_warning_info	fcc-output-info-handler/source/fcc_output_info_handler.c	/^fcc_status_e fcc_store_warning_info(const uint8_t *failed_item_name, size_t failed_item_name_size, const char *warning_string)$/;"	f
+fcc_time_set	factory-configurator-client/source/factory_configurator_client.c	/^fcc_status_e fcc_time_set(uint64_t time)$/;"	f
+fcc_trust_ca_cert_id_set	factory-configurator-client/source/factory_configurator_client.c	/^fcc_status_e fcc_trust_ca_cert_id_set(void)$/;"	f
+fcc_verify_device_configured_4mbed_cloud	factory-configurator-client/source/factory_configurator_client.c	/^fcc_status_e fcc_verify_device_configured_4mbed_cloud(void)$/;"	f
+fcc_warning_info_	factory-configurator-client/factory-configurator-client/fcc_defs.h	/^struct fcc_warning_info_ {$/;"	s
+fcc_warning_info_s	factory-configurator-client/factory-configurator-client/fcc_defs.h	/^typedef struct fcc_warning_info_ fcc_warning_info_s;$/;"	t	typeref:struct:fcc_warning_info_
+file	mbed-client-esfs/source/include/esfs.h	/^    palFileDescriptor_t file;$/;"	m	struct:__anon18
+file_flag	mbed-client-esfs/source/include/esfs.h	/^    esfs_file_flag_e file_flag;$/;"	m	struct:__anon18
+file_invalid	mbed-client-esfs/source/include/esfs.h	/^    uint8_t file_invalid; \/\/ The file handle is invalid.$/;"	m	struct:__anon18
+file_size	mbed-client-esfs/source/include/esfs.h	/^    int32_t file_size;  \/\/ Cache the physical file size on open.$/;"	m	struct:__anon18
+file_size	storage/source/include/storage_items_pelion_sst.h	/^        size_t file_size;$/;"	m	struct:store_esfs_file_ctx_
+find_last_occuppied_slot	key-config-manager/source/key_slot_allocator.c	/^static ksa_item_entry_s* find_last_occuppied_slot(ksa_item_entry_s *table_start_entry, uint32_t num_of_entries)$/;"	f	file:
+finish	ftcd-comm-base/source/ftcd_comm_base.cpp	/^void FtcdCommBase::finish()$/;"	f	class:FtcdCommBase
+finish	ftcd-comm-socket/source/ftcd_comm_socket.cpp	/^void FtcdCommSocket::finish(void)$/;"	f	class:FtcdCommSocket
+flash_area_params	mbed-client-esfs/source/sotp/sotp.c	/^STATIC palSotpAreaData_t flash_area_params[SOTP_NUM_AREAS];$/;"	v
+format_rev	mbed-client-esfs/source/sotp/sotp_int.h	/^    uint16_t format_rev;$/;"	m	struct:__anon21
+free_cnt	utils/source/fcc_stats.c	/^    uint32_t free_cnt;          \/* Current number of frees. *\/$/;"	m	struct:__anon28	file:
+free_space_offset	mbed-client-esfs/source/sotp/sotp.c	/^STATIC uint32_t free_space_offset __attribute__((aligned(8)));$/;"	v
+ftcd_comm_network_endianness_e	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^} ftcd_comm_network_endianness_e;$/;"	t	typeref:enum:__anon2
+ftcd_comm_status_e	ftcd-comm-base/ftcd-comm-base/ftcd_comm_base.h	/^} ftcd_comm_status_e;$/;"	t	typeref:enum:__anon1
+ftcd_socket_domain_e	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	/^} ftcd_socket_domain_e;$/;"	t	typeref:enum:__anon3
+g_fcc_account_id_parameter_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_account_id_parameter_name[] = "mbed.AccountID";$/;"	v
+g_fcc_bootstrap_device_certificate_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_bootstrap_device_certificate_name[] = "mbed.BootstrapDeviceCert";$/;"	v
+g_fcc_bootstrap_device_private_key_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_bootstrap_device_private_key_name[] = "mbed.BootstrapDevicePrivateKey";$/;"	v
+g_fcc_bootstrap_mode_false_warning_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_bootstrap_mode_false_warning_str[] = "Bootstrap mode not activated:";$/;"	v
+g_fcc_bootstrap_server_ca_certificate_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_bootstrap_server_ca_certificate_name[] = "mbed.BootstrapServerCACert";$/;"	v
+g_fcc_bootstrap_server_crl_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_bootstrap_server_crl_name[] = "mbed.BootstrapServerCRL";$/;"	v
+g_fcc_bootstrap_server_uri_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_bootstrap_server_uri_name[] = "mbed.BootstrapServerURI";$/;"	v
+g_fcc_bundle_scheme_version	fcc-bundle-handler/source/fcc_bundle_handler.c	/^const char g_fcc_bundle_scheme_version[] = "0.0.1";$/;"	v
+g_fcc_ca_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_ca_error_str[] = "CA error:";$/;"	v
+g_fcc_ca_identifier_warning_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_ca_identifier_warning_str[] = "CA identifier wasn't set properly:";$/;"	v
+g_fcc_cert_time_validity_warning_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_cert_time_validity_warning_str[] = "Certificate validity cannot be checked:";$/;"	v
+g_fcc_cert_validity_less_10_years_warning_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_cert_validity_less_10_years_warning_str[] = "Certificate validity is less than 10 years:";$/;"	v
+g_fcc_class_id_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_class_id_name[] = "mbed.ClassId";$/;"	v
+g_fcc_crypto_cert_expired_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_cert_expired_error_str[] = "Certificate expired:";$/;"	v
+g_fcc_crypto_cert_future_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_cert_future_error_str[] = "Certificate will be valid in the future:";$/;"	v
+g_fcc_crypto_cert_md_alg_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_cert_md_alg_error_str[] = "Certificate MD algorithm error:";$/;"	v
+g_fcc_crypto_cert_not_trusted_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_cert_not_trusted_error_str[] = "Certificate not trusted:";$/;"	v
+g_fcc_crypto_cert_public_key_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_cert_public_key_error_str[] = "Certificate public key error:";$/;"	v
+g_fcc_crypto_cert_public_key_type_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_cert_public_key_type_error_str[] = "Certificate public key type error:";$/;"	v
+g_fcc_crypto_chain_validation_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_chain_validation_error_str[] = "Chain validation error:";$/;"	v
+g_fcc_crypto_ecp_invalid_key_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_ecp_invalid_key_error_str[] = "EC key invalid:";$/;"	v
+g_fcc_crypto_empty_item_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_empty_item_error_str[] = "Item data empty:";$/;"	v
+g_fcc_crypto_entropy_missing_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_entropy_missing_error_str[] = "Entropy missing error:";$/;"	v
+g_fcc_crypto_invalid_pk_key_format_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_invalid_pk_key_format_error_str[] = "Public key format invalid:";$/;"	v
+g_fcc_crypto_invalid_private_key_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_invalid_private_key_error_str[] = "Private key invalid:";$/;"	v
+g_fcc_crypto_invalid_public_key_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_invalid_public_key_error_str[] = "Public key invalid:";$/;"	v
+g_fcc_crypto_invalid_x509_attr_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_invalid_x509_attr_error_str[] = "X509 attribute invalid:";$/;"	v
+g_fcc_crypto_invalid_x509_extension_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_invalid_x509_extension_error_str[] = "X509 extension invalid:";$/;"	v
+g_fcc_crypto_kcm_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_kcm_error_str[] = "KCM crypto error:";$/;"	v
+g_fcc_crypto_parsing_der_cert_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_parsing_der_cert_error_str[] = "Certificate parse failed:";$/;"	v
+g_fcc_crypto_parsing_der_pivate_key_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_parsing_der_pivate_key_error_str[] = "Private key parse failed:";$/;"	v
+g_fcc_crypto_parsing_der_public_key_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_parsing_der_public_key_error_str[] = "Public key parse failed:";$/;"	v
+g_fcc_crypto_pk_key_invalid_version_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_pk_key_invalid_version_error_str[] = "Public key version invalid:";$/;"	v
+g_fcc_crypto_pk_password_requerd_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_pk_password_requerd_error_str[] = "Public key password required:";$/;"	v
+g_fcc_crypto_public_key_correlation_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_public_key_correlation_error_str[] = "Certificate public key validation failed:";$/;"	v
+g_fcc_crypto_unknown_pk_algorithm_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_unknown_pk_algorithm_error_str[] = "Public key algorithm unknown:";$/;"	v
+g_fcc_crypto_unsupported_curve_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_unsupported_curve_error_str[] = "Curve unsupported:";$/;"	v
+g_fcc_crypto_unsupported_hash_mode_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_unsupported_hash_mode_error_str[] = "Hash mode unsupported:";$/;"	v
+g_fcc_crypto_verify_private_key_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_verify_private_key_error_str[] = "Private key verification failed:";$/;"	v
+g_fcc_crypto_verify_public_key_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_crypto_verify_public_key_error_str[] = "Public key verification failed:";$/;"	v
+g_fcc_csr_requests_too_many	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_csr_requests_too_many[] = "Too many CSR requests. Maximum CSR requests supported is " xstr(CSR_MAX_NUMBER_OF_CSRS);$/;"	v
+g_fcc_current_time_parameter_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_current_time_parameter_name[] = "mbed.CurrentTime";$/;"	v
+g_fcc_device_serial_number_parameter_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_device_serial_number_parameter_name[] = "mbed.SerialNumber";$/;"	v
+g_fcc_device_time_zone_parameter_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_device_time_zone_parameter_name[] = "mbed.Timezone";$/;"	v
+g_fcc_device_type_parameter_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_device_type_parameter_name[] = "mbed.DeviceType";$/;"	v
+g_fcc_disabled_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_disabled_error_str[] = "Factory disabled error:";$/;"	v
+g_fcc_empty_item_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_empty_item_error_str[] = "Item empty:";$/;"	v
+g_fcc_endpoint_parameter_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_endpoint_parameter_name[] = "mbed.EndpointName";$/;"	v
+g_fcc_entropy_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_entropy_error_str[] = "Entropy error:";$/;"	v
+g_fcc_first_to_claim_not_allowed_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_first_to_claim_not_allowed_error_str[] = "first to claim not allowed:";$/;"	v
+g_fcc_first_to_claim_parameter_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_first_to_claim_parameter_name[] = "mbed.FirstToClaim";$/;"	v
+g_fcc_general_status_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_general_status_error_str[] = "General error:";$/;"	v
+g_fcc_hardware_version_parameter_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_hardware_version_parameter_name[] = "mbed.HardwareVersion";$/;"	v
+g_fcc_heap_stats	utils/source/fcc_stats.c	/^static stats_heap_t g_fcc_heap_stats = { 0, 0, 0, 0, 0, 0 };$/;"	v	file:
+g_fcc_internal_storage_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_internal_storage_error_str[] = "Internal storage error:";$/;"	v
+g_fcc_invalid_certificate_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_invalid_certificate_error_str[] = "Certificate invalid:";$/;"	v
+g_fcc_invalid_cn_certificate_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_invalid_cn_certificate_error_str[] = "Certificate CN attribute invalid:";$/;"	v
+g_fcc_item_is_empty_warning_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_item_is_empty_warning_str[] = "Item empty:";$/;"	v
+g_fcc_item_not_exists_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_item_not_exists_error_str[] = "Item does not exist:";$/;"	v
+g_fcc_item_not_set_warning_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_item_not_set_warning_str[] = "Item not set:";$/;"	v
+g_fcc_kcm_close_incomplete_chain_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_kcm_close_incomplete_chain_str[] = "Closing incomplete KCM chain:";$/;"	v
+g_fcc_kcm_file_data_corrupted_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_kcm_file_data_corrupted_str[] = "File data corrupted:";$/;"	v
+g_fcc_kcm_file_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_kcm_file_error_str[] = "File operation general error:";$/;"	v
+g_fcc_kcm_file_exist_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_kcm_file_exist_error_str[] = "Data already exists:";$/;"	v
+g_fcc_kcm_file_name_corrupted_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_kcm_file_name_corrupted_str[] = "File name corrupted:";$/;"	v
+g_fcc_kcm_file_name_invalid_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_kcm_file_name_invalid_str[] = "File name invalid:";$/;"	v
+g_fcc_kcm_file_name_too_long_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_kcm_file_name_too_long_error_str[] = "File name too long:";$/;"	v
+g_fcc_kcm_invalid_chain_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_kcm_invalid_chain_str[] = "Corrupted certificate chain file:";$/;"	v
+g_fcc_kcm_invalid_file_version_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_kcm_invalid_file_version_str[] = "File version invalid:";$/;"	v
+g_fcc_kcm_invalid_num_of_cert_in_chain_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_kcm_invalid_num_of_cert_in_chain_str[] = "Maximum chain length supported is " xstr(KCM_MAX_NUMBER_OF_CERTITICATES_IN_CHAIN) ". Chain length of the item is invalid:";$/;"	v
+g_fcc_kcm_key_exist_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_kcm_key_exist_error_str[] = "Desired generated key name already exists:";$/;"	v
+g_fcc_kcm_not_initialized_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_kcm_not_initialized_str[] = "KCM not initialized:";$/;"	v
+g_fcc_lwm2m_device_certificate_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_lwm2m_device_certificate_name[] = "mbed.LwM2MDeviceCert";$/;"	v
+g_fcc_lwm2m_device_private_key_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_lwm2m_device_private_key_name[] = "mbed.LwM2MDevicePrivateKey";$/;"	v
+g_fcc_lwm2m_server_ca_certificate_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_lwm2m_server_ca_certificate_name[] = "mbed.LwM2MServerCACert";$/;"	v
+g_fcc_lwm2m_server_crl_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_lwm2m_server_crl_name[] = "mbed.LwM2MServerCRL";$/;"	v
+g_fcc_lwm2m_server_uri_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_lwm2m_server_uri_name[] = "mbed.LwM2MServerURI";$/;"	v
+g_fcc_manufacturer_parameter_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_manufacturer_parameter_name[] = "mbed.Manufacturer";$/;"	v
+g_fcc_memory_size_parameter_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_memory_size_parameter_name[] = "mbed.MemoryTotalKB";$/;"	v
+g_fcc_meta_data_not_exists_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_meta_data_not_exists_error_str[] = "Meta data does not exist:";$/;"	v
+g_fcc_meta_data_size_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_meta_data_size_error_str[] = "Meta data does not exist:";$/;"	v
+g_fcc_model_number_parameter_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_model_number_parameter_name[] = "mbed.ModelNumber";$/;"	v
+g_fcc_not_permitted_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_not_permitted_error_str[] = "Operation not permitted:";$/;"	v
+g_fcc_offset_from_utc_parameter_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_offset_from_utc_parameter_name[] = "mbed.UTCOffset";$/;"	v
+g_fcc_redundant_item_warning_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_redundant_item_warning_str[] = "Item redundant:";$/;"	v
+g_fcc_rot_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_rot_error_str[] = "Root of trust error:";$/;"	v
+g_fcc_self_generated_certificate_validation_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_self_generated_certificate_validation_error_str[] = "Self-generated certificate validation failed:";$/;"	v
+g_fcc_self_signed_warning_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_self_signed_warning_str[] = "Certificate is self signed:";$/;"	v
+g_fcc_update_authentication_certificate_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_update_authentication_certificate_name[] = "mbed.UpdateAuthCert";$/;"	v
+g_fcc_uri_wrong_format_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_uri_wrong_format_error_str[] = "URI format incorrect:";$/;"	v
+g_fcc_use_bootstrap_parameter_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_use_bootstrap_parameter_name[] = "mbed.UseBootstrap";$/;"	v
+g_fcc_vendor_id_name	factory-configurator-client/source/factory_configurator_client.c	/^const char g_fcc_vendor_id_name[] = "mbed.VendorId";$/;"	v
+g_fcc_wrong_bootstrap_use_value_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_wrong_bootstrap_use_value_error_str[] = "Bootstrap mode value incorrect:";$/;"	v
+g_fcc_wrong_ca_certificate_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_wrong_ca_certificate_error_str[] = "Validation of CA certificate failed:";$/;"	v
+g_fcc_wrong_item_size_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_wrong_item_size_error_str[] = "Item size is wrong:";$/;"	v
+g_fcc_wrong_utc_offset_value_error_str	fcc-output-info-handler/source/fcc_output_info_handler.c	/^const char g_fcc_wrong_utc_offset_value_error_str[] = "UTC offset incorrect:";$/;"	v
+g_is_fcc_initialized	factory-configurator-client/source/factory_configurator_client.c	/^static bool g_is_fcc_initialized = false;$/;"	v	file:
+g_is_session_finished	factory-configurator-client/source/factory_configurator_client.c	/^bool g_is_session_finished = true;$/;"	v
+g_kcm_initialized	key-config-manager/source/key_config_manager.c	/^bool g_kcm_initialized = false;$/;"	v
+g_ksa_desc	key-config-manager/source/key_slot_allocator.c	/^static ksa_descriptor_s  g_ksa_desc[KSA_LAST_ITEM] = { {0} };$/;"	v	file:
+g_ksa_initialized	key-config-manager/source/key_slot_allocator.c	/^static bool g_ksa_initialized = false;$/;"	v	file:
+g_next_available_id	psa-driver/source/psa_driver_ps.c	/^static uint16_t g_next_available_id = PSA_PS_MIN_ID_VALUE;  \/\/next free id$/;"	v	file:
+g_output_info	fcc-output-info-handler/source/fcc_output_info_handler.c	/^fcc_output_info_s g_output_info;$/;"	v
+g_psa_drv_operation_functions	psa-driver/source/psa_driver_dispatcher.c	/^static void *g_psa_drv_operation_functions[PSA_DRV_FUNC_LAST][PSA_DRV_TYPE_LAST] = {$/;"	v	file:
+g_pv_is_error_occured	utils/source/pv_error_handling.c	/^static bool g_pv_is_error_occured = false;$/;"	v	file:
+g_pv_logger_mutex	mbed-trace-helper/source/mbed-trace-helper.c	/^palMutexID_t g_pv_logger_mutex = NULLPTR;$/;"	v
+generate_and_encode_csr_response	fcc-bundle-handler/source/fcc_bundle_csr_utils.c	/^static fcc_status_e generate_and_encode_csr_response(const uint8_t             *priv_key_name, size_t priv_key_name_len,$/;"	f	file:
+generated_priv_key_handle	crypto-service/crypto-service/cs_der_keys_and_csrs.h	/^    kcm_key_handle_t generated_priv_key_handle;$/;"	m	struct:_cs_key_pair_context
+generated_pub_key_handle	crypto-service/crypto-service/cs_der_keys_and_csrs.h	/^    kcm_key_handle_t generated_pub_key_handle;$/;"	m	struct:_cs_key_pair_context
+get_complete_prefix	storage/source/storage_common.c	/^static kcm_status_e get_complete_prefix($/;"	f	file:
+get_ksa_existing_entry	key-config-manager/source/key_slot_allocator.c	/^static kcm_status_e get_ksa_existing_entry(const uint8_t *item_name, size_t item_name_size, ksa_item_type_e item_type, ksa_item_entry_s **table_entry)$/;"	f	file:
+get_ksa_item_entry	key-config-manager/source/key_slot_allocator.c	/^static kcm_status_e get_ksa_item_entry(const uint8_t* item_name_hash, ksa_item_type_e item_type, ksa_item_entry_s **ksa_item_entry_out, bool *is_new_entry, bool perform_realloc)$/;"	f	file:
+get_ksa_type	key-config-manager/source/key_slot_allocator.c	/^static ksa_item_type_e get_ksa_type(uint32_t item_type)$/;"	f	file:
+get_meta_data_size_and_index	storage/source/storage_items_pelion_sst.c	/^static kcm_status_e get_meta_data_size_and_index(store_esfs_file_ctx_s *ctx, store_esfs_meta_data_type_e type, size_t *meta_data_size_out, uint32_t *meta_data_index_out)$/;"	f	file:
+get_next_x509_in_chain	factory-configurator-client/source/fcc_verification.c	/^static fcc_status_e get_next_x509_in_chain(kcm_cert_chain_handle chain_handle, palX509Handle_t *x509_cert_handle_out)$/;"	f	file:
+get_output_info	fcc-output-info-handler/source/fcc_output_info_handler.c	/^fcc_output_info_s* get_output_info(void)$/;"	f
+get_prefix_and_build_complete_item_name	storage/source/storage_items_pelion_sst.c	/^static kcm_status_e get_prefix_and_build_complete_item_name(kcm_item_type_e kcm_item_type,$/;"	f	file:
+get_sotp_type	storage/source/storage_items_pelion_sst.c	/^static bool get_sotp_type(const char *sotp_item, sotp_type_e *sotp_type)$/;"	f	file:
+head_of_warning_list	factory-configurator-client/factory-configurator-client/fcc_defs.h	/^    struct fcc_warning_info_ *head_of_warning_list; \/\/The head of warning list$/;"	m	struct:fcc_output_info_	typeref:struct:fcc_output_info_::fcc_warning_info_
+htbs	storage/storage/storage_items.h	/^        uint8_t htbs[KCM_SHA256_SIZE];                                      \/\/!< The hash of certificate's tbs.$/;"	m	struct:storage_chain_prev_cert_params_
+htbs_actual_size	storage/storage/storage_items.h	/^        size_t htbs_actual_size;                                           \/\/!< The size of hash digest.$/;"	m	struct:storage_chain_prev_cert_params_
+import_key_by_atrr	psa-driver/source/psa_driver_crypto.c	/^static kcm_status_e import_key_by_atrr( const void* raw_data, size_t raw_data_size, psa_key_attributes_t *psa_key_attr, uint16_t *ksa_id, psa_key_handle_t* psa_key_handle)$/;"	f	file:
+ind_stack	mbed-client-esfs/source/sotp/sotp_log.c	/^    uint32_t ind_stack[4];$/;"	m	struct:__anon23	file:
+ind_stack_ptr	mbed-client-esfs/source/sotp/sotp_log.c	/^    uint32_t ind_stack_ptr;$/;"	m	struct:__anon23	file:
+init	ftcd-comm-base/source/ftcd_comm_base.cpp	/^bool FtcdCommBase::init()$/;"	f	class:FtcdCommBase
+init	ftcd-comm-socket/source/ftcd_comm_socket.cpp	/^bool FtcdCommSocket::init()$/;"	f	class:FtcdCommSocket
+init_attempts	mbed-client-esfs/source/sotp/sotp.c	/^STATIC int32_t init_attempts = 0;$/;"	v
+init_done	mbed-client-esfs/source/sotp/sotp.c	/^STATIC bool init_done = false;$/;"	v
+init_done	mbed-client-esfs/source/sotp/sotp_no_sotp.c	/^STATIC bool init_done = false;$/;"	v
+init_ksa_tables	key-config-manager/source/key_slot_allocator.c	/^static kcm_status_e init_ksa_tables()$/;"	f	file:
+is_buf_aligned	mbed-client-esfs/source/sotp/sotp.c	/^static inline bool is_buf_aligned(const void *buf, uint32_t size)$/;"	f	file:
+is_factory	storage/source/include/storage_internal.h	/^    bool is_factory;                                        \/\/!< Is chain is a factory item, otherwise false.$/;"	m	struct:storage_cert_chain_context_
+is_file_accessible	storage/source/storage_items_pelion_sst.c	/^static bool is_file_accessible(const store_esfs_file_ctx_s *ctx)$/;"	f	file:
+is_file_size_checked	storage/source/include/storage_items_pelion_sst.h	/^        bool is_file_size_checked;$/;"	m	struct:store_esfs_file_ctx_
+is_last_certificate	storage/source/include/storage_internal.h	/^    bool is_last_certificate;$/;"	m	struct:kcm_chain_cert_name_info_
+is_memory_equal	utils/source/general_utils.c	/^bool is_memory_equal(const void *buf1, size_t size_of_buf1, const void *buf2, size_t size_of_buf2)$/;"	f
+is_meta_data	storage/source/include/storage_internal.h	/^    bool is_meta_data;                                      \/\/!< Is this a single certificate or chain with one certificate.$/;"	m	struct:storage_cert_chain_context_
+is_token_detected	ftcd-comm-serial/source/ftcd_comm_serial.cpp	/^ftcd_comm_status_e FtcdCommSerial::is_token_detected()$/;"	f	class:FtcdCommSerial
+is_token_detected	ftcd-comm-socket/source/ftcd_comm_socket.cpp	/^ftcd_comm_status_e FtcdCommSocket::is_token_detected()$/;"	f	class:FtcdCommSocket
+item_data	factory-configurator-client/source/fcc_dev_flow.c	/^    const uint8_t *item_data;$/;"	m	struct:fcc_deloveper_mode_item_params	file:
+item_data_size	factory-configurator-client/source/fcc_dev_flow.c	/^    const uint32_t item_data_size;$/;"	m	struct:fcc_deloveper_mode_item_params	file:
+item_extra_info	key-config-manager/source/key_slot_allocator.c	/^    uint8_t   item_extra_info;  \/\/ Item info - 2 LSB indicate item location:$/;"	m	struct:_ksa_item_entry	file:
+item_kcm_type	factory-configurator-client/source/fcc_dev_flow.c	/^    kcm_item_type_e item_kcm_type;$/;"	m	struct:fcc_deloveper_mode_item_params	file:
+item_name	factory-configurator-client/source/fcc_dev_flow.c	/^    const char *item_name;$/;"	m	struct:fcc_deloveper_mode_item_params	file:
+item_name_hash	key-config-manager/source/key_slot_allocator.c	/^    uint8_t   item_name_hash[KSA_ITEM_NAME_HASH_SIZE_IN_BYTES];   \/\/ the hash of item name to map against the psa id$/;"	m	struct:_ksa_item_entry	file:
+kcm_asymmetric_sign	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_asymmetric_sign(const uint8_t *private_key_name, size_t private_key_name_len, const uint8_t *hash_digest, size_t hash_digest_size,uint8_t *signature_data_out,$/;"	f
+kcm_asymmetric_verify	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_asymmetric_verify(const uint8_t *public_key_name, size_t public_key_name_len, const uint8_t *hash_digest, size_t hash_digest_size, const uint8_t *signature,$/;"	f
+kcm_cert_chain_add_next	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_cert_chain_add_next(kcm_cert_chain_handle kcm_chain_handle, const uint8_t *kcm_cert_data, size_t kcm_cert_data_size)$/;"	f
+kcm_cert_chain_close	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_cert_chain_close(kcm_cert_chain_handle kcm_chain_handle)$/;"	f
+kcm_cert_chain_create	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_cert_chain_create(kcm_cert_chain_handle *kcm_chain_handle, const uint8_t *kcm_chain_name, size_t kcm_chain_name_len, size_t kcm_chain_len, bool kcm_chain_is_factory)$/;"	f
+kcm_cert_chain_delete	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_cert_chain_delete(const uint8_t *kcm_chain_name, size_t kcm_chain_name_len)$/;"	f
+kcm_cert_chain_get_next_data	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_cert_chain_get_next_data(kcm_cert_chain_handle kcm_chain_handle, uint8_t *kcm_cert_data, size_t kcm_max_cert_data_size, size_t *kcm_actual_cert_data_size)$/;"	f
+kcm_cert_chain_get_next_size	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_cert_chain_get_next_size(kcm_cert_chain_handle kcm_chain_handle, size_t *kcm_cert_data_size)$/;"	f
+kcm_cert_chain_handle	key-config-manager/key-config-manager/kcm_defs.h	/^    typedef void* kcm_cert_chain_handle;$/;"	t
+kcm_cert_chain_open	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_cert_chain_open(kcm_cert_chain_handle *kcm_chain_handle, const uint8_t *kcm_chain_name, size_t kcm_chain_name_len, size_t *kcm_chain_len_out)$/;"	f
+kcm_certificate_verify_with_private_key	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_certificate_verify_with_private_key($/;"	f
+kcm_chain_cert_info_s	storage/source/include/storage_internal.h	/^} kcm_chain_cert_info_s;$/;"	t	typeref:struct:kcm_chain_cert_name_info_
+kcm_chain_cert_name_info_	storage/source/include/storage_internal.h	/^typedef struct kcm_chain_cert_name_info_ {$/;"	s
+kcm_crypto_key_scheme_e	key-config-manager/key-config-manager/kcm_defs.h	/^    } kcm_crypto_key_scheme_e;$/;"	t	typeref:enum:__anon35
+kcm_csr_ext_key_usage_e	key-config-manager/key-config-manager/kcm_defs.h	/^    } kcm_csr_ext_key_usage_e;$/;"	t	typeref:enum:__anon34
+kcm_csr_generate	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_csr_generate($/;"	f
+kcm_csr_key_usage_e	key-config-manager/key-config-manager/kcm_defs.h	/^    } kcm_csr_key_usage_e;$/;"	t	typeref:enum:__anon33
+kcm_csr_params_	key-config-manager/key-config-manager/kcm_defs.h	/^    typedef struct kcm_csr_params_ {$/;"	s
+kcm_csr_params_s	key-config-manager/key-config-manager/kcm_defs.h	/^    } kcm_csr_params_s;$/;"	t	typeref:struct:kcm_csr_params_
+kcm_ecdh_key_agreement	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_ecdh_key_agreement(const uint8_t *private_key_name, size_t private_key_name_len, const uint8_t *peer_public_key, size_t peer_public_key_size,$/;"	f
+kcm_factory_reset	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_factory_reset(void)$/;"	f
+kcm_finalize	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_finalize(void)$/;"	f
+kcm_generate_keys_and_csr	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_generate_keys_and_csr(kcm_crypto_key_scheme_e     key_scheme,$/;"	f
+kcm_generate_random	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_generate_random(uint8_t *buffer, size_t buffer_size)$/;"	f
+kcm_init	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_init(void)$/;"	f
+kcm_item_close_handle	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_item_close_handle(kcm_key_handle_t *key_handle)$/;"	f
+kcm_item_delete	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_item_delete(const uint8_t * kcm_item_name, size_t kcm_item_name_len, kcm_item_type_e kcm_item_type)$/;"	f
+kcm_item_extra_info	key-config-manager/key-config-manager/kcm_defs.h	/^    typedef struct kcm_item_extra_info {$/;"	s
+kcm_item_extra_info_init	key-config-manager/key-config-manager/key_config_manager.h	/^    static inline kcm_item_extra_info_s kcm_item_extra_info_init(void)$/;"	f
+kcm_item_extra_info_s	key-config-manager/key-config-manager/kcm_defs.h	/^    } kcm_item_extra_info_s;$/;"	t	typeref:struct:kcm_item_extra_info
+kcm_item_get_data	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_item_get_data(const uint8_t * kcm_item_name, size_t kcm_item_name_len, kcm_item_type_e kcm_item_type, uint8_t * kcm_item_data_out, size_t kcm_item_data_max_size, size_t * kcm_item_data_act_size_out)$/;"	f
+kcm_item_get_data_size	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_item_get_data_size(const uint8_t *kcm_item_name, size_t kcm_item_name_len, kcm_item_type_e kcm_item_type, size_t *kcm_item_data_size_out)$/;"	f
+kcm_item_get_handle	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_item_get_handle(const uint8_t *kcm_item_name, size_t kcm_item_name_len, kcm_item_type_e kcm_item_type, kcm_key_handle_t *key_handle_out)$/;"	f
+kcm_item_get_location	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_item_get_location(const uint8_t *item_name, size_t item_name_len, kcm_item_type_e kcm_item_type, kcm_item_location_e *item_location_out)$/;"	f
+kcm_item_get_size_and_data	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_item_get_size_and_data(const uint8_t * kcm_item_name, size_t kcm_item_name_len, kcm_item_type_e kcm_item_type, uint8_t ** kcm_item_data_out, size_t * kcm_item_data_size_out)$/;"	f
+kcm_item_location_e	key-config-manager/key-config-manager/kcm_defs.h	/^    } kcm_item_location_e;$/;"	t	typeref:enum:__anon36
+kcm_item_store	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_item_store(const uint8_t * kcm_item_name,$/;"	f
+kcm_item_type_e	key-config-manager/key-config-manager/kcm_defs.h	/^    } kcm_item_type_e;$/;"	t	typeref:enum:__anon31
+kcm_key_handle_t	key-config-manager/key-config-manager/kcm_defs.h	/^    typedef uintptr_t kcm_key_handle_t;$/;"	t
+kcm_key_pair_generate_and_store	key-config-manager/source/key_config_manager.c	/^kcm_status_e kcm_key_pair_generate_and_store(const kcm_crypto_key_scheme_e key_scheme,$/;"	f
+kcm_md_type_e	key-config-manager/key-config-manager/kcm_defs.h	/^    } kcm_md_type_e;$/;"	t	typeref:enum:__anon32
+kcm_security_desc_s	key-config-manager/key-config-manager/kcm_defs.h	/^    typedef void* kcm_security_desc_s;$/;"	t
+kcm_status_e	key-config-manager/key-config-manager/kcm_status.h	/^} kcm_status_e;$/;"	t	typeref:enum:__anon30
+key_pair_generate	crypto-service/source/cs_der_keys_and_csrs.c	/^static kcm_status_e key_pair_generate(palECKeyHandle_t ec_key_handle, kcm_crypto_key_scheme_e curve_name, cs_key_handle_t key_h)$/;"	f	file:
+key_usage	key-config-manager/key-config-manager/kcm_defs.h	/^        uint32_t key_usage;$/;"	m	struct:kcm_csr_params_
+ksa_activate_ce_key	key-config-manager/source/key_slot_allocator.c	/^kcm_status_e ksa_activate_ce_key(const uint8_t *key_name, size_t key_name_size)$/;"	f
+ksa_copy_entry	key-config-manager/source/key_slot_allocator.c	/^static void  ksa_copy_entry(const uint8_t* item_name_hash, const ksa_item_entry_s *source_entry, ksa_item_entry_s *destination_entry)$/;"	f	file:
+ksa_copy_item	key-config-manager/source/key_slot_allocator.c	/^kcm_status_e ksa_copy_item(const uint8_t *existing_item_name, size_t existing_item_name_size, uint32_t item_type, const uint8_t *new_item_name, size_t new_item_name_size)$/;"	f
+ksa_descriptor	key-config-manager/source/key_slot_allocator.c	/^typedef struct ksa_descriptor {$/;"	s	file:
+ksa_descriptor_s	key-config-manager/source/key_slot_allocator.c	/^} ksa_descriptor_s;$/;"	t	typeref:struct:ksa_descriptor	file:
+ksa_destroy_old_active_and_remove_backup_entry	key-config-manager/source/key_slot_allocator.c	/^kcm_status_e ksa_destroy_old_active_and_remove_backup_entry(const uint8_t *item_name, size_t item_name_size, uint32_t item_type)$/;"	f
+ksa_factory_reset	key-config-manager/source/key_slot_allocator.c	/^kcm_status_e ksa_factory_reset(void)$/;"	f
+ksa_fini	key-config-manager/source/key_slot_allocator.c	/^kcm_status_e ksa_fini(void)$/;"	f
+ksa_generate_ce_keys	key-config-manager/source/key_slot_allocator.c	/^kcm_status_e ksa_generate_ce_keys($/;"	f
+ksa_get_item_location	key-config-manager/source/key_slot_allocator.c	/^kcm_status_e ksa_get_item_location(const uint8_t *item_name, size_t item_name_size, uint32_t item_type, kcm_item_location_e *item_location_out)$/;"	f
+ksa_get_key_id	key-config-manager/source/key_slot_allocator.c	/^kcm_status_e ksa_get_key_id(const uint8_t *item_name, size_t item_name_size, uint32_t table_index, ksa_id_type_e ksa_id_type, uint16_t *item_id)$/;"	f
+ksa_id_type_	key-config-manager/source/include/key_slot_allocator.h	/^typedef enum ksa_id_type_ {$/;"	g
+ksa_id_type_e	key-config-manager/source/include/key_slot_allocator.h	/^} ksa_id_type_e;$/;"	t	typeref:enum:ksa_id_type_
+ksa_init	key-config-manager/source/key_slot_allocator.c	/^kcm_status_e ksa_init(void)$/;"	f
+ksa_item_check_existence	key-config-manager/source/key_slot_allocator.c	/^kcm_status_e ksa_item_check_existence(const uint8_t *item_name,$/;"	f
+ksa_item_delete	key-config-manager/source/key_slot_allocator.c	/^kcm_status_e ksa_item_delete(const uint8_t *item_name,$/;"	f
+ksa_item_entry_s	key-config-manager/source/key_slot_allocator.c	/^} ksa_item_entry_s;$/;"	t	typeref:struct:_ksa_item_entry	file:
+ksa_item_get_data	key-config-manager/source/key_slot_allocator.c	/^kcm_status_e ksa_item_get_data(const uint8_t *item_name,$/;"	f
+ksa_item_get_data_size	key-config-manager/source/key_slot_allocator.c	/^kcm_status_e ksa_item_get_data_size(const uint8_t *item_name,$/;"	f
+ksa_item_store	key-config-manager/source/key_slot_allocator.c	/^kcm_status_e ksa_item_store(const uint8_t *item_name,$/;"	f
+ksa_item_type_e	key-config-manager/source/include/key_slot_allocator.h	/^} ksa_item_type_e;$/;"	t	typeref:enum:__anon37
+ksa_key_close_handle	key-config-manager/source/key_slot_allocator.c	/^kcm_status_e ksa_key_close_handle(psa_key_handle_t key_handle)$/;"	f
+ksa_key_get_handle	key-config-manager/source/key_slot_allocator.c	/^kcm_status_e ksa_key_get_handle(const uint8_t *key_name, size_t key_name_size, psa_key_handle_t *key_handle_out)$/;"	f
+ksa_last_occupied_entry	key-config-manager/source/key_slot_allocator.c	/^    ksa_item_entry_s *ksa_last_occupied_entry;  \/\/ pointer to last slot that contains at least single valid psa_id (active, factory or renewal)$/;"	m	struct:ksa_descriptor	file:
+ksa_num_of_table_entries	key-config-manager/source/key_slot_allocator.c	/^    uint32_t ksa_num_of_table_entries;     \/\/ ksa buffer size $/;"	m	struct:ksa_descriptor	file:
+ksa_remove_entry	key-config-manager/source/key_slot_allocator.c	/^kcm_status_e  ksa_remove_entry(const uint8_t *item_name, size_t item_name_size, uint32_t item_type)$/;"	f
+ksa_reserved_id_type_e	key-config-manager/source/key_slot_allocator.c	/^}ksa_reserved_id_type_e;$/;"	t	typeref:enum:__anon39	file:
+ksa_reset	key-config-manager/source/key_slot_allocator.c	/^kcm_status_e ksa_reset(void)$/;"	f
+ksa_start_entry	key-config-manager/source/key_slot_allocator.c	/^    ksa_item_entry_s* ksa_start_entry;        \/\/start of KSA table$/;"	m	struct:ksa_descriptor	file:
+ksa_table_uid	key-config-manager/source/key_slot_allocator.c	/^    uint16_t ksa_table_uid;          \/\/ KSA table uid in PSA TS$/;"	m	struct:ksa_descriptor	file:
+ksa_type_location_e	key-config-manager/source/include/key_slot_allocator.h	/^} ksa_type_location_e;$/;"	t	typeref:enum:__anon38
+ksa_update_key_id	key-config-manager/source/key_slot_allocator.c	/^kcm_status_e ksa_update_key_id(const uint8_t *key_name, size_t key_name_size, ksa_id_type_e key_id_type, uint16_t id_value)$/;"	f
+length	mbed-client-esfs/source/sotp/sotp_int.h	/^    uint16_t length;$/;"	m	struct:__anon20
+length_in_bytes	mbed-client-esfs/source/include/esfs.h	/^    uint16_t length_in_bytes;$/;"	m	struct:__anon15
+length_in_bytes	mbed-client-esfs/source/include/esfs.h	/^    uint16_t length_in_bytes;$/;"	m	struct:__anon16
+line	mbed-client-esfs/source/sotp/sotp_log.c	/^    char line[LINE_SIZE];$/;"	m	struct:__anon22	file:
+mac	mbed-client-esfs/source/sotp/sotp_int.h	/^    uint32_t mac;$/;"	m	struct:__anon20
+mark	mbed-client-esfs/source/include/esfs_performance.h	/^    unsigned long mark;$/;"	m	struct:performance_record
+master_record_data_t	mbed-client-esfs/source/sotp/sotp_int.h	/^} master_record_data_t __attribute__((aligned(4)));$/;"	t	typeref:struct:__anon21
+max_peak_size	utils/source/fcc_stats.c	/^    uint32_t max_peak_size;     \/* Max peak allocated at a certain time (e.g.: getting worst case memory usage) *\/$/;"	m	struct:__anon28	file:
+mbed_trace_helper_check_activated_trace_level	mbed-trace-helper/source/mbed-trace-helper.c	/^uint8_t mbed_trace_helper_check_activated_trace_level()$/;"	f
+mbed_trace_helper_create_mutex	mbed-trace-helper/source/mbed-trace-helper.c	/^bool mbed_trace_helper_create_mutex(void)$/;"	f
+mbed_trace_helper_delete_mutex	mbed-trace-helper/source/mbed-trace-helper.c	/^void mbed_trace_helper_delete_mutex(void)$/;"	f
+mbed_trace_helper_finish	mbed-trace-helper/source/mbed-trace-helper.c	/^void mbed_trace_helper_finish()$/;"	f
+mbed_trace_helper_init	mbed-trace-helper/source/mbed-trace-helper.c	/^bool mbed_trace_helper_init(uint8_t config, bool is_mutex_used)$/;"	f
+mbed_trace_helper_mutex_release	mbed-trace-helper/source/mbed-trace-helper.c	/^void mbed_trace_helper_mutex_release()$/;"	f
+mbed_trace_helper_mutex_wait	mbed-trace-helper/source/mbed-trace-helper.c	/^void mbed_trace_helper_mutex_wait()$/;"	f
+mbed_trace_helper_print	mbed-trace-helper/source/mbed-trace-helper.c	/^void mbed_trace_helper_print(const char* format)$/;"	f
+md_type	key-config-manager/key-config-manager/kcm_defs.h	/^        kcm_md_type_e md_type;$/;"	m	struct:kcm_csr_params_
+meta_data	storage/source/include/storage_items_pelion_sst.h	/^        store_esfs_meta_data_s meta_data[STORE_ESFS_MD_TYPE_MAX];$/;"	m	struct:store_esfs_meta_data_list_
+meta_data_count	storage/source/include/storage_items_pelion_sst.h	/^        size_t meta_data_count;$/;"	m	struct:store_esfs_meta_data_list_
+min_prog_size	mbed-client-esfs/source/sotp/sotp.c	/^STATIC uint32_t min_prog_size;$/;"	v
+next	factory-configurator-client/factory-configurator-client/fcc_defs.h	/^    struct fcc_warning_info_ *next;$/;"	m	struct:fcc_warning_info_	typeref:struct:fcc_warning_info_::fcc_warning_info_
+nonce	mbed-client-esfs/source/include/esfs.h	/^    uint8_t nonce[ESFS_AES_NONCE_SIZE_BYTES];$/;"	m	struct:__anon18
+num_entries	mbed-client-esfs/source/sotp/sotp_log.c	/^    uint32_t num_entries;$/;"	m	struct:__anon23	file:
+num_of_certificates_in_chain	storage/source/include/storage_internal.h	/^    size_t num_of_certificates_in_chain;                    \/\/!< The number of certificate in the chain.$/;"	m	struct:storage_cert_chain_context_
+number_of_items	mbed-client-esfs/source/include/esfs.h	/^    uint16_t number_of_items;$/;"	m	struct:__anon17
+offset_by_type	mbed-client-esfs/source/sotp/sotp.c	/^STATIC uint32_t offset_by_type[SOTP_MAX_TYPES];$/;"	v
+operation_type	storage/source/include/storage_internal.h	/^    storage_chain_operation_type_e operation_type;          \/\/!< Type of Current operation.$/;"	m	struct:storage_cert_chain_context_
+otp_types	mbed-client-esfs/source/sotp/sotp_no_sotp.c	/^static const sotp_type_e otp_types[] = {SOTP_TYPE_TRUSTED_TIME_SRV_ID};$/;"	v	file:
+pad	utils/source/fcc_stats.c	/^    uint32_t pad;$/;"	m	struct:__anon29	file:
+pad_addr	mbed-client-esfs/source/sotp/sotp.c	/^static inline uint32_t pad_addr(uint32_t address, uint32_t size)$/;"	f	file:
+page_buf	mbed-client-esfs/source/sotp/sotp.c	/^STATIC uint8_t *page_buf = NULL;$/;"	v
+palSocket_t	ftcd-comm-socket/ftcd-comm-socket/ftcd_comm_socket.h	/^typedef void* palSocket_t;$/;"	t
+pal_to_kcm_error_translation	storage/source/storage_common.c	/^kcm_status_e pal_to_kcm_error_translation(palStatus_t pal_status)$/;"	f
+parse_csr_extensions	fcc-bundle-handler/source/fcc_bundle_csr_utils.c	/^static bool parse_csr_extensions(const CborValue *tcbor_map_val, kcm_csr_params_s *csr_params)$/;"	f	file:
+parse_csr_storage_medium	fcc-bundle-handler/source/fcc_bundle_csr_utils.c	/^static fcc_status_e parse_csr_storage_medium(const CborValue *tcbor_map_val, void *kcm_item_ctx_out, bool *is_gen_public_key_out)$/;"	f	file:
+performance_array	mbed-client-esfs/source/esfs_performance.c	/^static performance_record_t performance_array[PERFORMANCE_ARRAY_SIZE]={{{0}, 0}};$/;"	v	file:
+performance_index	mbed-client-esfs/source/esfs_performance.c	/^static unsigned long performance_index = 0;$/;"	v	file:
+performance_record	mbed-client-esfs/source/include/esfs_performance.h	/^typedef struct performance_record$/;"	s
+performance_record_t	mbed-client-esfs/source/include/esfs_performance.h	/^}performance_record_t;$/;"	t	typeref:struct:performance_record
+position	mbed-client-esfs/source/include/esfs.h	/^    uint16_t position;$/;"	m	struct:__anon16
+prev_cert_params	storage/source/include/storage_internal.h	/^    storage_chain_prev_cert_params_s prev_cert_params;      \/\/!< Saved params of previous parsed certificate. used only in create operation$/;"	m	struct:storage_cert_chain_context_
+print_mbed_stats	utils/utils/mbed_stats_helper.c	/^void print_mbed_stats(void)$/;"	f
+print_performance	mbed-client-esfs/source/esfs_performance.c	/^void print_performance()$/;"	f
+print_performance	mbed-client-esfs/source/include/esfs_performance.h	50;"	d
+priv_key_location	key-config-manager/key-config-manager/kcm_defs.h	/^        kcm_item_location_e priv_key_location;$/;"	m	struct:kcm_item_extra_info
+process_csr_request_cb	fcc-bundle-handler/source/fcc_bundle_csr_utils.c	/^static fcc_status_e process_csr_request_cb(CborValue *tcbor_val, void *extra_info)$/;"	f	file:
+psa_drv_crypto_close_handle	psa-driver/source/psa_driver_crypto.c	/^kcm_status_e psa_drv_crypto_close_handle(psa_key_handle_t key_handle)$/;"	f
+psa_drv_crypto_destroy	psa-driver/source/psa_driver_crypto.c	/^kcm_status_e psa_drv_crypto_destroy(const uint16_t ksa_id)$/;"	f
+psa_drv_crypto_export_data	psa-driver/source/psa_driver_crypto.c	/^kcm_status_e psa_drv_crypto_export_data(const uint16_t ksa_id, void* data, size_t data_size, size_t* actual_data_size)$/;"	f
+psa_drv_crypto_export_data_size	psa-driver/source/psa_driver_crypto.c	/^kcm_status_e psa_drv_crypto_export_data_size(const uint16_t ksa_id, size_t* actual_data_size)$/;"	f
+psa_drv_crypto_fini	psa-driver/source/psa_driver_crypto.c	/^void psa_drv_crypto_fini(void)$/;"	f
+psa_drv_crypto_generate_keys_from_existing_ids	psa-driver/source/psa_driver_crypto.c	/^kcm_status_e psa_drv_crypto_generate_keys_from_existing_ids(const uint16_t exist_prv_ksa_id,$/;"	f
+psa_drv_crypto_get_handle	psa-driver/source/psa_driver_crypto.c	/^kcm_status_e psa_drv_crypto_get_handle(uint16_t key_id, psa_key_handle_t *key_handle_out)$/;"	f
+psa_drv_crypto_import	psa-driver/source/psa_driver_crypto.c	/^kcm_status_e psa_drv_crypto_import( const void* data, size_t data_size, uint32_t extra_flags, uint16_t *ksa_id)$/;"	f
+psa_drv_crypto_init	psa-driver/source/psa_driver_crypto.c	/^kcm_status_e psa_drv_crypto_init(void)$/;"	f
+psa_drv_delete_f	psa-driver/psa-driver/psa_driver_dispatcher.h	/^    typedef kcm_status_e(*psa_drv_delete_f)(const uint16_t ksa_id);$/;"	t
+psa_drv_element_type_e	psa-driver/psa-driver/psa_driver_dispatcher.h	/^    }psa_drv_element_type_e;$/;"	t	typeref:enum:__anon41
+psa_drv_func_dispatch_operation	psa-driver/source/psa_driver_dispatcher.c	/^void *psa_drv_func_dispatch_operation(psa_drv_func_e caller, ksa_item_type_e item_type, ksa_type_location_e item_location)$/;"	f
+psa_drv_func_e	psa-driver/psa-driver/psa_driver_dispatcher.h	/^    }psa_drv_func_e;$/;"	t	typeref:enum:__anon40
+psa_drv_get_data_f	psa-driver/psa-driver/psa_driver_dispatcher.h	/^    typedef kcm_status_e(*psa_drv_get_data_f)(const uint16_t ksa_id, const void* data_buffer_size, size_t data_length, size_t* actual_data_size);$/;"	t
+psa_drv_get_data_size_f	psa-driver/psa-driver/psa_driver_dispatcher.h	/^    typedef kcm_status_e(*psa_drv_get_data_size_f)(const uint16_t ksa_id, size_t* actual_data_size);$/;"	t
+psa_drv_ps_get_data	psa-driver/source/psa_driver_ps.c	/^kcm_status_e psa_drv_ps_get_data(const uint16_t ksa_id, void* data, size_t data_buffer_size, size_t* actual_data_size)$/;"	f
+psa_drv_ps_get_data_size	psa-driver/source/psa_driver_ps.c	/^kcm_status_e psa_drv_ps_get_data_size(const uint16_t ksa_id, size_t* actual_data_size)$/;"	f
+psa_drv_ps_get_free_id	psa-driver/source/psa_driver_ps.c	/^static kcm_status_e psa_drv_ps_get_free_id(uint16_t* ksa_id_out)$/;"	f	file:
+psa_drv_ps_init_reserved_data	psa-driver/source/psa_driver_ps.c	/^kcm_status_e psa_drv_ps_init_reserved_data(const uint16_t ksa_id, const void *data, size_t data_size)$/;"	f
+psa_drv_ps_remove	psa-driver/source/psa_driver_ps.c	/^kcm_status_e psa_drv_ps_remove(const uint16_t ksa_id)$/;"	f
+psa_drv_ps_set	psa-driver/source/psa_driver_ps.c	/^kcm_status_e psa_drv_ps_set(void* data, size_t data_size, uint32_t extra_flags, uint16_t *ksa_id)$/;"	f
+psa_drv_ps_set_data_direct	psa-driver/source/psa_driver_ps.c	/^kcm_status_e psa_drv_ps_set_data_direct(const uint16_t ksa_id, const void *data, size_t data_size, uint32_t extra_flags)$/;"	f
+psa_drv_store_f	psa-driver/psa-driver/psa_driver_dispatcher.h	/^    typedef kcm_status_e(*psa_drv_store_f)( const void* data, size_t data_size, uint32_t extra_flags, uint16_t *ksa_id);$/;"	t
+psa_drv_translate_to_kcm_error	psa-driver/source/psa_driver_common.c	/^kcm_status_e psa_drv_translate_to_kcm_error(psa_status_t psa_status)$/;"	f
+pub_key_location	key-config-manager/key-config-manager/kcm_defs.h	/^        kcm_item_location_e pub_key_location;$/;"	m	struct:kcm_item_extra_info
+pv_be32_to_h	utils/utils/pv_endian.h	/^static inline uint32_t pv_be32_to_h(uint32_t be32)$/;"	f
+pv_error_is_error_occured	utils/source/pv_error_handling.c	/^bool pv_error_is_error_occured(void)$/;"	f
+pv_error_occured	utils/source/pv_error_handling.c	/^void pv_error_occured(void)$/;"	f
+pv_h_to_be32	utils/utils/pv_endian.h	/^static inline uint32_t pv_h_to_be32(uint32_t host32)$/;"	f
+pv_h_to_le32	utils/utils/pv_endian.h	/^static inline uint32_t pv_h_to_le32(uint32_t host32)$/;"	f
+pv_le32_to_h	utils/utils/pv_endian.h	/^static inline uint32_t pv_le32_to_h(uint32_t le32)$/;"	f
+pv_read_uint32	utils/utils/pv_macros.h	/^static inline uint32_t pv_read_uint32(const uint8_t *buf)$/;"	f
+pv_read_uint64	utils/utils/pv_macros.h	/^static inline uint64_t pv_read_uint64(const uint8_t *buf)$/;"	f
+pv_str_equals	utils/utils/pv_macros.h	/^static inline bool pv_str_equals(const char* str1, const char* str2, uint32_t a_max_size)$/;"	f
+pv_str_n_len	utils/utils/pv_macros.h	/^static inline uint32_t pv_str_n_len(const char* str, uint32_t max_size)$/;"	f
+pv_write_uint32	utils/utils/pv_macros.h	/^static inline void pv_write_uint32(uint8_t *buf, uint32_t number)$/;"	f
+read_message	ftcd-comm-serial/source/ftcd_comm_serial.cpp	/^bool FtcdCommSerial::read_message(uint8_t *message_out, size_t message_size)$/;"	f	class:FtcdCommSerial
+read_message	ftcd-comm-socket/source/ftcd_comm_socket.cpp	/^bool FtcdCommSocket::read_message(uint8_t *message_out, size_t message_size)$/;"	f	class:FtcdCommSocket
+read_message_signature	ftcd-comm-serial/source/ftcd_comm_serial.cpp	/^bool FtcdCommSerial::read_message_signature(uint8_t *sig, size_t sig_size)$/;"	f	class:FtcdCommSerial
+read_message_signature	ftcd-comm-socket/source/ftcd_comm_socket.cpp	/^bool FtcdCommSocket::read_message_signature(uint8_t *sig, size_t sig_size)$/;"	f	class:FtcdCommSocket
+read_message_size	ftcd-comm-serial/source/ftcd_comm_serial.cpp	/^uint32_t FtcdCommSerial::read_message_size()$/;"	f	class:FtcdCommSerial
+read_message_size	ftcd-comm-socket/source/ftcd_comm_socket.cpp	/^uint32_t FtcdCommSocket::read_message_size(void)$/;"	f	class:FtcdCommSocket
+read_record	mbed-client-esfs/source/sotp/sotp.c	/^STATIC sotp_result_e read_record(uint8_t area, uint32_t offset, uint16_t buf_len_bytes, uint32_t *buf,$/;"	f
+record_header_t	mbed-client-esfs/source/sotp/sotp_int.h	/^} record_header_t __attribute__((aligned(4)));$/;"	t	typeref:struct:__anon20
+remove_item_from_entry	key-config-manager/source/key_slot_allocator.c	/^static kcm_status_e remove_item_from_entry(ksa_item_entry_s *ksa_item_entry, ksa_item_type_e ksa_type)$/;"	f	file:
+renewal_item_id	key-config-manager/source/key_slot_allocator.c	/^    uint16_t  renewal_item_id;   \/\/ Renewal item ID  - updated during renewal certificate process by ID of device generated items$/;"	m	struct:_ksa_item_entry	file:
+reserved	mbed-client-esfs/source/sotp/sotp_int.h	/^    uint32_t reserved;$/;"	m	struct:__anon21
+reserved1	key-config-manager/source/key_slot_allocator.c	/^    uint16_t  reserved1;        \/\/reserved for future use$/;"	m	struct:_ksa_item_entry	file:
+reserved2	key-config-manager/source/key_slot_allocator.c	/^    uint16_t  reserved2;        \/\/reserved for future use$/;"	m	struct:_ksa_item_entry	file:
+run_basic_validation	fcc-bundle-handler/source/fcc_bundle_handler.c	/^static bool run_basic_validation(const uint8_t *encoded_blob, size_t encoded_blob_size)$/;"	f	file:
+safe_increment	mbed-client-esfs/source/sotp/sotp.c	/^int32_t safe_increment(int32_t* value, int32_t increment)$/;"	f
+sem	mbed-client-esfs/source/sotp/sotp_shared_lock.c	/^    palSemaphoreID_t sem;$/;"	m	struct:__anon26	file:
+send	ftcd-comm-serial/source/ftcd_comm_serial.cpp	/^bool FtcdCommSerial::send(const uint8_t *data, uint32_t data_size)$/;"	f	class:FtcdCommSerial
+send	ftcd-comm-socket/source/ftcd_comm_socket.cpp	/^bool FtcdCommSocket::send(const uint8_t *data, uint32_t data_size)$/;"	f	class:FtcdCommSocket
+send_response	ftcd-comm-base/source/ftcd_comm_base.cpp	/^ftcd_comm_status_e FtcdCommBase::send_response(const uint8_t *response_message, uint32_t response_message_size)$/;"	f	class:FtcdCommBase
+send_response	ftcd-comm-base/source/ftcd_comm_base.cpp	/^ftcd_comm_status_e FtcdCommBase::send_response(const uint8_t *response_message, uint32_t response_message_size, ftcd_comm_status_e status_code)$/;"	f	class:FtcdCommBase
+set_certificates_info	storage/source/storage_items_pal_sst.c	/^kcm_status_e set_certificates_info(storage_cert_chain_context_s *chain_context, storage_item_prefix_type_e item_prefix_type)$/;"	f
+set_certificates_info	storage/source/storage_psa.c	/^kcm_status_e set_certificates_info(storage_cert_chain_context_s *chain_context, storage_item_prefix_type_e item_prefix_type)$/;"	f
+set_entry_id	key-config-manager/source/key_slot_allocator.c	/^static kcm_status_e set_entry_id(ksa_item_entry_s *item_entry, ksa_id_type_e item_id_type, uint16_t id_value)$/;"	f	file:
+set_item_location	storage/source/storage_psa.c	/^static void set_item_location(const kcm_security_desc_s kcm_item_info, kcm_item_extra_info_s *item_extra_info_out)$/;"	f	file:
+set_psa_driver_flags	key-config-manager/source/key_slot_allocator.c	/^static kcm_status_e set_psa_driver_flags(uint32_t item_type, uint32_t storage_flags, uint32_t *psa_flags)$/;"	f	file:
+shared_lock_priv_t	mbed-client-esfs/source/sotp/sotp_shared_lock.c	/^} shared_lock_priv_t;$/;"	t	typeref:struct:__anon26	file:
+short_file_name	mbed-client-esfs/source/include/esfs.h	/^    char short_file_name[ESFS_QUALIFIED_FILE_NAME_LENGTH];$/;"	m	struct:__anon18
+signature	storage/storage/storage_items.h	/^        uint8_t signature[KCM_ECDSA_SECP256R1_MAX_SIGNATURE_DER_SIZE_IN_BYTES]; \/\/!< The signature of certificate.$/;"	m	struct:storage_chain_prev_cert_params_
+signature_actual_size	storage/storage/storage_items.h	/^        size_t signature_actual_size;                                      \/\/!< The size of signature.$/;"	m	struct:storage_chain_prev_cert_params_
+signature_ctx	mbed-client-esfs/source/include/esfs.h	/^    palCMACHandle_t signature_ctx;  \/\/ NULL indicates no context.$/;"	m	struct:__anon18
+size	utils/source/fcc_stats.c	/^    uint32_t size;$/;"	m	struct:__anon29	file:
+size_of_warning_info_list	factory-configurator-client/factory-configurator-client/fcc_defs.h	/^    size_t size_of_warning_info_list; \/\/ size of warning_info_list$/;"	m	struct:fcc_output_info_
+sotp_deinit	mbed-client-esfs/source/sotp/sotp.c	/^sotp_result_e sotp_deinit(void)$/;"	f
+sotp_deinit	mbed-client-esfs/source/sotp/sotp_no_sotp.c	/^sotp_result_e sotp_deinit(void)$/;"	f
+sotp_delete	mbed-client-esfs/source/sotp/sotp.c	/^sotp_result_e sotp_delete(uint32_t type)$/;"	f
+sotp_delete	mbed-client-esfs/source/sotp/sotp_no_sotp.c	/^sotp_result_e sotp_delete(uint32_t type)$/;"	f
+sotp_do_get	mbed-client-esfs/source/sotp/sotp.c	/^STATIC sotp_result_e sotp_do_get(uint8_t type, uint16_t buf_len_bytes, uint32_t *buf, uint16_t *actual_len_bytes,$/;"	f
+sotp_do_set	mbed-client-esfs/source/sotp/sotp.c	/^STATIC sotp_result_e sotp_do_set(uint32_t type, uint16_t buf_len_bytes, const uint32_t *buf,$/;"	f
+sotp_flash_erase_area	mbed-client-esfs/source/sotp/sotp.c	/^palStatus_t sotp_flash_erase_area(uint8_t area)$/;"	f
+sotp_flash_read_area	mbed-client-esfs/source/sotp/sotp.c	/^palStatus_t sotp_flash_read_area(uint8_t area, uint32_t offset, uint32_t len_bytes, uint32_t *buf)$/;"	f
+sotp_flash_write_area	mbed-client-esfs/source/sotp/sotp.c	/^palStatus_t sotp_flash_write_area(uint8_t area, uint32_t offset, uint32_t len_bytes, const uint32_t *buf)$/;"	f
+sotp_force_garbage_collection	mbed-client-esfs/source/sotp/sotp.c	/^sotp_result_e sotp_force_garbage_collection(void)$/;"	f
+sotp_force_garbage_collection	mbed-client-esfs/source/sotp/sotp_no_sotp.c	/^sotp_result_e sotp_force_garbage_collection(void)$/;"	f
+sotp_garbage_collection	mbed-client-esfs/source/sotp/sotp.c	/^sotp_result_e sotp_garbage_collection(uint16_t type, uint16_t buf_len_bytes, const uint32_t *buf)$/;"	f
+sotp_get	mbed-client-esfs/source/sotp/sotp.c	/^sotp_result_e sotp_get(uint32_t type, uint16_t buf_len_bytes, uint32_t *buf, uint16_t *actual_len_bytes)$/;"	f
+sotp_get	mbed-client-esfs/source/sotp/sotp_no_sotp.c	/^sotp_result_e sotp_get(uint32_t type, uint16_t buf_len_bytes, uint32_t *buf, uint16_t *actual_len_bytes)$/;"	f
+sotp_get_item_size	mbed-client-esfs/source/sotp/sotp.c	/^sotp_result_e sotp_get_item_size(uint32_t type, uint16_t *actual_len_bytes)$/;"	f
+sotp_get_item_size	mbed-client-esfs/source/sotp/sotp_no_sotp.c	/^sotp_result_e sotp_get_item_size(uint32_t type, uint16_t *actual_len_bytes)$/;"	f
+sotp_init	mbed-client-esfs/source/sotp/sotp.c	/^sotp_result_e sotp_init(void)$/;"	f
+sotp_init	mbed-client-esfs/source/sotp/sotp_no_sotp.c	/^sotp_result_e sotp_init(void)$/;"	f
+sotp_is_otp_type	mbed-client-esfs/source/sotp/sotp.c	/^bool sotp_is_otp_type(uint32_t type)$/;"	f
+sotp_is_otp_type	mbed-client-esfs/source/sotp/sotp_no_sotp.c	/^bool sotp_is_otp_type(uint32_t type)$/;"	f
+sotp_log_append	mbed-client-esfs/source/sotp/sotp_log.c	/^void sotp_log_append(char *fmt, ...)$/;"	f
+sotp_log_create	mbed-client-esfs/source/sotp/sotp_log.c	/^void sotp_log_create(char *fmt, ...)$/;"	f
+sotp_log_entry_t	mbed-client-esfs/source/sotp/sotp_log.c	/^} sotp_log_entry_t;$/;"	t	typeref:struct:__anon22	file:
+sotp_log_finalize	mbed-client-esfs/source/sotp/sotp_log.c	/^void sotp_log_finalize(void)$/;"	f
+sotp_log_init	mbed-client-esfs/source/sotp/sotp_log.c	/^void sotp_log_init(void)$/;"	f
+sotp_log_print_log	mbed-client-esfs/source/sotp/sotp_log.c	/^void sotp_log_print_log(void)$/;"	f
+sotp_probe	mbed-client-esfs/source/sotp/sotp.c	/^sotp_result_e sotp_probe(uint32_t type, uint16_t buf_len_bytes, uint32_t *buf, uint16_t *actual_len_bytes)$/;"	f
+sotp_reset	mbed-client-esfs/source/sotp/sotp.c	/^sotp_result_e sotp_reset(void)$/;"	f
+sotp_reset	mbed-client-esfs/source/sotp/sotp_no_sotp.c	/^sotp_result_e sotp_reset(void)$/;"	f
+sotp_result_e	mbed-client-esfs/source/include/sotp.h	/^} sotp_result_e;$/;"	t	typeref:enum:__anon10
+sotp_set	mbed-client-esfs/source/sotp/sotp.c	/^sotp_result_e sotp_set(uint32_t type, uint16_t buf_len_bytes, const uint32_t *buf)$/;"	f
+sotp_set	mbed-client-esfs/source/sotp/sotp_no_sotp.c	/^sotp_result_e sotp_set(uint32_t type, uint16_t buf_len_bytes, const uint32_t *buf)$/;"	f
+sotp_set_for_testing	mbed-client-esfs/source/sotp/sotp.c	/^sotp_result_e sotp_set_for_testing(uint32_t type, uint16_t buf_len_bytes, const uint32_t *buf)$/;"	f
+sotp_set_for_testing	mbed-client-esfs/source/sotp/sotp_no_sotp.c	/^sotp_result_e sotp_set_for_testing(uint32_t type, uint16_t buf_len_bytes, const uint32_t *buf)$/;"	f
+sotp_sh_lock_create	mbed-client-esfs/source/sotp/sotp_shared_lock.c	/^sotp_sh_lock_result_e sotp_sh_lock_create(sotp_shared_lock_t *sh_lock)$/;"	f
+sotp_sh_lock_destroy	mbed-client-esfs/source/sotp/sotp_shared_lock.c	/^sotp_sh_lock_result_e sotp_sh_lock_destroy(sotp_shared_lock_t sh_lock)$/;"	f
+sotp_sh_lock_exclusive_lock	mbed-client-esfs/source/sotp/sotp_shared_lock.c	/^sotp_sh_lock_result_e sotp_sh_lock_exclusive_lock(sotp_shared_lock_t sh_lock)$/;"	f
+sotp_sh_lock_exclusive_release	mbed-client-esfs/source/sotp/sotp_shared_lock.c	/^sotp_sh_lock_result_e sotp_sh_lock_exclusive_release(sotp_shared_lock_t sh_lock)$/;"	f
+sotp_sh_lock_promote	mbed-client-esfs/source/sotp/sotp_shared_lock.c	/^sotp_sh_lock_result_e sotp_sh_lock_promote(sotp_shared_lock_t sh_lock)$/;"	f
+sotp_sh_lock_result_e	mbed-client-esfs/source/sotp/sotp_shared_lock.h	/^} sotp_sh_lock_result_e;$/;"	t	typeref:enum:__anon24
+sotp_sh_lock_shared_lock	mbed-client-esfs/source/sotp/sotp_shared_lock.c	/^sotp_sh_lock_result_e sotp_sh_lock_shared_lock(sotp_shared_lock_t sh_lock)$/;"	f
+sotp_sh_lock_shared_release	mbed-client-esfs/source/sotp/sotp_shared_lock.c	/^sotp_sh_lock_result_e sotp_sh_lock_shared_release(sotp_shared_lock_t sh_lock)$/;"	f
+sotp_shared_lock_t	mbed-client-esfs/source/sotp/sotp_shared_lock.h	/^typedef uintptr_t sotp_shared_lock_t;$/;"	t
+sotp_thr_log_t	mbed-client-esfs/source/sotp/sotp_log.c	/^} sotp_thr_log_t;$/;"	t	typeref:struct:__anon23	file:
+sotp_type	storage/source/storage_items_pelion_sst.c	/^    sotp_type_e sotp_type;$/;"	m	struct:sotp_type_lookup_record_	file:
+sotp_type_e	mbed-client-esfs/source/include/sotp.h	/^} sotp_type_e;$/;"	t	typeref:enum:__anon11
+sotp_type_lookup_record_	storage/source/storage_items_pelion_sst.c	/^typedef struct sotp_type_lookup_record_ {$/;"	s	file:
+sotp_type_lookup_record_s	storage/source/storage_items_pelion_sst.c	/^} sotp_type_lookup_record_s;$/;"	t	typeref:struct:sotp_type_lookup_record_	file:
+sotp_type_lookup_table	storage/source/storage_items_pelion_sst.c	/^static const sotp_type_lookup_record_s sotp_type_lookup_table[] = {$/;"	v	file:
+squeeze_item_entries	key-config-manager/source/key_slot_allocator.c	/^static void squeeze_item_entries(ksa_item_entry_s *item_entry, ksa_item_type_e ksa_item_type)$/;"	f	file:
+start_time	mbed-client-esfs/source/sotp/sotp_log.c	/^    uint64_t start_time;$/;"	m	struct:__anon22	file:
+stats_heap_t	utils/source/fcc_stats.c	/^} stats_heap_t;$/;"	t	typeref:struct:__anon28	file:
+storage_build_complete_working_item_name	storage/source/storage_common.c	/^kcm_status_e storage_build_complete_working_item_name(kcm_item_type_e kcm_item_type,$/;"	f
+storage_build_complete_working_item_name	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_build_complete_working_item_name($/;"	f
+storage_cert_chain_add_next	storage/source/storage_common.c	/^kcm_status_e storage_cert_chain_add_next(kcm_cert_chain_handle kcm_chain_handle,$/;"	f
+storage_cert_chain_add_next_impl	storage/source/storage_common.c	/^kcm_status_e storage_cert_chain_add_next_impl(kcm_cert_chain_handle kcm_chain_handle, const uint8_t *kcm_cert_data, size_t kcm_cert_data_size, storage_item_prefix_type_e item_prefix_type)$/;"	f
+storage_cert_chain_add_next_impl	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_cert_chain_add_next_impl(kcm_cert_chain_handle kcm_chain_handle,$/;"	f
+storage_cert_chain_close	storage/source/storage_common.c	/^kcm_status_e storage_cert_chain_close(kcm_cert_chain_handle kcm_chain_handle, storage_item_prefix_type_e item_prefix_type)$/;"	f
+storage_cert_chain_close	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_cert_chain_close(kcm_cert_chain_handle kcm_chain_handle, storage_item_prefix_type_e item_prefix_type)$/;"	f
+storage_cert_chain_context_	storage/source/include/storage_internal.h	/^typedef struct storage_cert_chain_context_ {$/;"	s
+storage_cert_chain_context_s	storage/source/include/storage_internal.h	/^} storage_cert_chain_context_s;$/;"	t	typeref:struct:storage_cert_chain_context_
+storage_cert_chain_create	storage/source/storage_common.c	/^kcm_status_e storage_cert_chain_create($/;"	f
+storage_cert_chain_create	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_cert_chain_create(kcm_cert_chain_handle *kcm_chain_handle,$/;"	f
+storage_cert_chain_delete	storage/source/storage_common.c	/^kcm_status_e storage_cert_chain_delete(const uint8_t *kcm_chain_name, size_t kcm_chain_name_len, storage_item_prefix_type_e item_prefix_type)$/;"	f
+storage_cert_chain_delete	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_cert_chain_delete(const uint8_t *kcm_chain_name, size_t kcm_chain_name_len, storage_item_prefix_type_e item_prefix_type)$/;"	f
+storage_cert_chain_get_next_data	storage/source/storage_common.c	/^kcm_status_e storage_cert_chain_get_next_data(kcm_cert_chain_handle *kcm_chain_handle,$/;"	f
+storage_cert_chain_get_next_data	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_cert_chain_get_next_data(kcm_cert_chain_handle *kcm_chain_handle,$/;"	f
+storage_cert_chain_get_next_size	storage/source/storage_common.c	/^kcm_status_e storage_cert_chain_get_next_size(kcm_cert_chain_handle *kcm_chain_handle, storage_item_prefix_type_e item_prefix_type, size_t *kcm_out_cert_data_size)$/;"	f
+storage_cert_chain_get_next_size	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_cert_chain_get_next_size(kcm_cert_chain_handle *kcm_chain_handle, storage_item_prefix_type_e item_prefix_type, size_t *kcm_out_cert_data_size)$/;"	f
+storage_cert_chain_open	storage/source/storage_common.c	/^kcm_status_e storage_cert_chain_open(kcm_cert_chain_handle *kcm_chain_handle,$/;"	f
+storage_cert_chain_open	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_cert_chain_open(kcm_cert_chain_handle *kcm_chain_handle,$/;"	f
+storage_cert_chain_prefix_update	storage/source/storage_items_pelion_sst.c	/^void storage_cert_chain_prefix_update(uint8_t *complete_file_name, uint32_t index, storage_item_prefix_type_e item_prefix_type)$/;"	f
+storage_chain_operation_type_e	storage/source/include/storage_internal.h	/^} storage_chain_operation_type_e;$/;"	t	typeref:enum:__anon8
+storage_chain_prev_cert_params_	storage/storage/storage_items.h	/^    typedef struct storage_chain_prev_cert_params_ {$/;"	s
+storage_chain_prev_cert_params_s	storage/storage/storage_items.h	/^    } storage_chain_prev_cert_params_s;$/;"	t	typeref:struct:storage_chain_prev_cert_params_
+storage_check_name_validity	storage/source/storage_common.c	/^kcm_status_e storage_check_name_validity(const uint8_t *kcm_item_name, size_t kcm_item_name_len)$/;"	f
+storage_destory_old_active_and_remove_backup_entries	storage/source/storage_psa.c	/^kcm_status_e storage_destory_old_active_and_remove_backup_entries($/;"	f
+storage_entry_remove	storage/source/storage_psa.c	/^kcm_status_e storage_entry_remove($/;"	f
+storage_factory_reset	storage/source/storage_items_pal_sst.c	/^kcm_status_e storage_factory_reset()$/;"	f
+storage_factory_reset	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_factory_reset()$/;"	f
+storage_factory_reset	storage/source/storage_psa.c	/^kcm_status_e storage_factory_reset()$/;"	f
+storage_file_close	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_file_close(store_esfs_file_ctx_s *ctx)$/;"	f
+storage_file_create	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_file_create(store_esfs_file_ctx_s *ctx,$/;"	f
+storage_file_delete	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_file_delete(store_esfs_file_ctx_s *ctx, const uint8_t *file_name, size_t file_name_length)$/;"	f
+storage_file_get_meta_data_size	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_file_get_meta_data_size(store_esfs_file_ctx_s *ctx, store_esfs_meta_data_type_e type, size_t *meta_data_size_out)$/;"	f
+storage_file_open	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_file_open(store_esfs_file_ctx_s *ctx, const uint8_t *file_name, size_t file_name_length)$/;"	f
+storage_file_read	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_file_read(store_esfs_file_ctx_s *ctx, const uint8_t *file_name, size_t file_name_length, uint8_t *buffer_out, size_t buffer_size, size_t *buffer_actual_size_out)$/;"	f
+storage_file_read_meta_data_by_type	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_file_read_meta_data_by_type(store_esfs_file_ctx_s *ctx, store_esfs_meta_data_type_e type, uint8_t *buffer_out, size_t buffer_size, size_t *buffer_actual_size_out)$/;"	f
+storage_file_read_with_ctx	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_file_read_with_ctx(store_esfs_file_ctx_s *ctx, uint8_t *buffer_out, size_t buffer_size, size_t *buffer_actual_size_out)$/;"	f
+storage_file_size_get	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_file_size_get(store_esfs_file_ctx_s *ctx, const uint8_t *file_name, size_t file_name_length, size_t *file_size_out)$/;"	f
+storage_file_size_get_with_ctx	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_file_size_get_with_ctx(store_esfs_file_ctx_s *ctx, size_t *file_size_out)$/;"	f
+storage_file_write	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_file_write(store_esfs_file_ctx_s *ctx,$/;"	f
+storage_file_write_with_ctx	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_file_write_with_ctx(store_esfs_file_ctx_s *ctx, const uint8_t *data, size_t data_length)$/;"	f
+storage_finalize	storage/source/storage_non_psa.c	/^kcm_status_e storage_finalize(void)$/;"	f
+storage_finalize	storage/source/storage_psa.c	/^kcm_status_e storage_finalize(void)$/;"	f
+storage_generate_ce_keys	storage/source/storage_psa.c	/^kcm_status_e storage_generate_ce_keys($/;"	f
+storage_get_first_cert_in_chain_name_and_info	storage/source/storage_items_pal_sst.c	/^static kcm_status_e storage_get_first_cert_in_chain_name_and_info(storage_item_prefix_type_e item_prefix_type,$/;"	f	file:
+storage_get_first_cert_in_chain_name_and_info	storage/source/storage_psa.c	/^static kcm_status_e storage_get_first_cert_in_chain_name_and_info(storage_item_prefix_type_e item_prefix_type,$/;"	f	file:
+storage_get_prefix_from_type	storage/source/storage_common.c	/^kcm_status_e storage_get_prefix_from_type(kcm_item_type_e kcm_item_type, storage_item_prefix_type_e item_prefix_type, const char** prefix)$/;"	f
+storage_init	storage/source/storage_non_psa.c	/^kcm_status_e storage_init(void)$/;"	f
+storage_init	storage/source/storage_psa.c	/^kcm_status_e storage_init(void)$/;"	f
+storage_is_cert_chain	storage/source/storage_common.c	/^bool storage_is_cert_chain(kcm_cert_chain_handle kcm_chain_handle)$/;"	f
+storage_item_copy	storage/source/storage_psa.c	/^kcm_status_e storage_item_copy($/;"	f
+storage_item_delete	storage/source/storage_items_pal_sst.c	/^kcm_status_e storage_item_delete($/;"	f
+storage_item_delete	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_item_delete($/;"	f
+storage_item_delete	storage/source/storage_psa.c	/^kcm_status_e storage_item_delete($/;"	f
+storage_item_get_data	storage/source/storage_items_pal_sst.c	/^kcm_status_e storage_item_get_data($/;"	f
+storage_item_get_data	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_item_get_data($/;"	f
+storage_item_get_data	storage/source/storage_psa.c	/^kcm_status_e storage_item_get_data($/;"	f
+storage_item_get_data_size	storage/source/storage_items_pal_sst.c	/^kcm_status_e storage_item_get_data_size($/;"	f
+storage_item_get_data_size	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_item_get_data_size($/;"	f
+storage_item_get_data_size	storage/source/storage_psa.c	/^kcm_status_e storage_item_get_data_size($/;"	f
+storage_item_get_location	storage/source/storage_psa.c	/^kcm_status_e storage_item_get_location(const uint8_t *kcm_item_name,$/;"	f
+storage_item_prefix_type_e	storage/storage/storage_items.h	/^    } storage_item_prefix_type_e;$/;"	t	typeref:enum:__anon6
+storage_item_store	storage/source/storage_common.c	/^kcm_status_e storage_item_store(const uint8_t * kcm_item_name,$/;"	f
+storage_item_store_impl	storage/source/storage_items_pal_sst.c	/^kcm_status_e storage_item_store_impl(const uint8_t * kcm_item_name,$/;"	f
+storage_item_store_impl	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_item_store_impl(const uint8_t * kcm_item_name,$/;"	f
+storage_item_store_impl	storage/source/storage_psa.c	/^kcm_status_e storage_item_store_impl($/;"	f
+storage_item_type_e	storage/storage/storage_items.h	/^    } storage_item_type_e;$/;"	t	typeref:enum:__anon7
+storage_key_activate_ce	storage/source/storage_psa.c	/^kcm_status_e storage_key_activate_ce($/;"	f
+storage_key_close_handle	storage/source/storage_non_psa.c	/^kcm_status_e storage_key_close_handle(kcm_key_handle_t *key_handle)$/;"	f
+storage_key_close_handle	storage/source/storage_psa.c	/^kcm_status_e storage_key_close_handle(kcm_key_handle_t *key_handle)$/;"	f
+storage_key_get_handle	storage/source/storage_non_psa.c	/^kcm_status_e storage_key_get_handle($/;"	f
+storage_key_get_handle	storage/source/storage_psa.c	/^kcm_status_e storage_key_get_handle($/;"	f
+storage_key_pair_generate_and_store	storage/source/storage_non_psa.c	/^kcm_status_e storage_key_pair_generate_and_store($/;"	f
+storage_key_pair_generate_and_store	storage/source/storage_psa.c	/^kcm_status_e storage_key_pair_generate_and_store($/;"	f
+storage_rbp_read	storage/source/storage_items_pal_sst.c	/^palStatus_t storage_rbp_read($/;"	f
+storage_rbp_read	storage/source/storage_items_pelion_sst.c	/^palStatus_t storage_rbp_read($/;"	f
+storage_rbp_read	storage/source/storage_psa.c	/^palStatus_t storage_rbp_read($/;"	f
+storage_rbp_write	storage/source/storage_items_pal_sst.c	/^palStatus_t storage_rbp_write($/;"	f
+storage_rbp_write	storage/source/storage_items_pelion_sst.c	/^palStatus_t storage_rbp_write($/;"	f
+storage_rbp_write	storage/source/storage_psa.c	/^palStatus_t storage_rbp_write($/;"	f
+storage_reset	storage/source/storage_non_psa.c	/^kcm_status_e storage_reset(void)$/;"	f
+storage_reset	storage/source/storage_psa.c	/^kcm_status_e storage_reset(void)$/;"	f
+storage_reset_to_factory_state	storage/source/storage_non_psa.c	/^kcm_status_e storage_reset_to_factory_state(void)$/;"	f
+storage_reset_to_factory_state	storage/source/storage_psa.c	/^kcm_status_e storage_reset_to_factory_state(void)$/;"	f
+storage_specific_finalize	storage/source/storage_items_pal_sst.c	/^kcm_status_e storage_specific_finalize()$/;"	f
+storage_specific_finalize	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_specific_finalize()$/;"	f
+storage_specific_init	storage/source/storage_items_pal_sst.c	/^kcm_status_e storage_specific_init()$/;"	f
+storage_specific_init	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_specific_init()$/;"	f
+storage_specific_init	storage/source/storage_psa.c	/^kcm_status_e storage_specific_init()$/;"	f
+storage_specific_reset	storage/source/storage_items_pal_sst.c	/^kcm_status_e storage_specific_reset()$/;"	f
+storage_specific_reset	storage/source/storage_items_pelion_sst.c	/^kcm_status_e storage_specific_reset()$/;"	f
+storage_specific_reset	storage/source/storage_psa.c	/^kcm_status_e storage_specific_reset(void)$/;"	f
+store_esfs_file_ctx_	storage/source/include/storage_items_pelion_sst.h	/^    typedef struct store_esfs_file_ctx_ {$/;"	s
+store_esfs_file_ctx_s	storage/source/include/storage_items_pelion_sst.h	/^    } store_esfs_file_ctx_s;$/;"	t	typeref:struct:store_esfs_file_ctx_
+store_esfs_meta_data_	storage/source/include/storage_items_pelion_sst.h	/^    typedef struct store_esfs_meta_data_ {$/;"	s
+store_esfs_meta_data_list_	storage/source/include/storage_items_pelion_sst.h	/^    typedef struct store_esfs_meta_data_list_ {$/;"	s
+store_esfs_meta_data_list_s	storage/source/include/storage_items_pelion_sst.h	/^    } store_esfs_meta_data_list_s;$/;"	t	typeref:struct:store_esfs_meta_data_list_
+store_esfs_meta_data_s	storage/source/include/storage_items_pelion_sst.h	/^    } store_esfs_meta_data_s;$/;"	t	typeref:struct:store_esfs_meta_data_
+store_esfs_meta_data_type_e	storage/source/include/storage_items_pelion_sst.h	/^    } store_esfs_meta_data_type_e;$/;"	t	typeref:enum:__anon9
+store_item_to_entry	key-config-manager/source/key_slot_allocator.c	/^static kcm_status_e store_item_to_entry(ksa_item_entry_s *item_entry, ksa_item_type_e ksa_item_type, bool is_new_entry, const uint8_t *item_name_hash, const uint16_t  psa_item_id, bool is_factory, ksa_type_location_e item_location)$/;"	f	file:
+store_table	key-config-manager/source/key_slot_allocator.c	/^static kcm_status_e store_table(ksa_descriptor_s *table_descriptor)$/;"	f	file:
+str	fcc-output-info-handler/source/fcc_output_info_handler.c	26;"	d	file:
+subject	key-config-manager/key-config-manager/kcm_defs.h	/^        char *subject;$/;"	m	struct:kcm_csr_params_
+tail_of_warning_list	factory-configurator-client/factory-configurator-client/fcc_defs.h	/^    struct fcc_warning_info_ *tail_of_warning_list; \/\/The tail of warning list$/;"	m	struct:fcc_output_info_	typeref:struct:fcc_output_info_::fcc_warning_info_
+thr_logs	mbed-client-esfs/source/sotp/sotp_log.c	/^static sotp_thr_log_t thr_logs[MAX_NUMBER_OF_THREADS];$/;"	v	file:
+title	mbed-client-esfs/source/include/esfs_performance.h	/^    char title[TITLE_MAX+1];$/;"	m	struct:performance_record
+tlv_items	mbed-client-esfs/source/include/esfs.h	/^    esfs_tlvItem_t tlv_items[ESFS_MAX_TYPE_LENGTH_VALUES];$/;"	m	struct:__anon17
+tlv_properties	mbed-client-esfs/source/include/esfs.h	/^    esfs_tlv_properties_t tlv_properties;$/;"	m	struct:__anon18
+total	mbed-client-esfs/source/include/esfs_performance.h	/^    unsigned long total;$/;"	m	struct:performance_record
+total_size	utils/source/fcc_stats.c	/^    uint32_t total_size;        \/* Cumulative sum of bytes ever allocated. *\/$/;"	m	struct:__anon28	file:
+type	mbed-client-esfs/source/include/esfs.h	/^    uint16_t type;$/;"	m	struct:__anon15
+type	mbed-client-esfs/source/include/esfs.h	/^    uint16_t type;$/;"	m	struct:__anon16
+type	mbed-client-esfs/source/include/esfs_performance.h	/^    esfs_performance_type_e type;$/;"	m	struct:performance_record
+type	storage/source/include/storage_items_pelion_sst.h	/^        store_esfs_meta_data_type_e type;$/;"	m	struct:store_esfs_meta_data_
+type_and_flags	mbed-client-esfs/source/sotp/sotp_int.h	/^    uint16_t type_and_flags;$/;"	m	struct:__anon20
+type_name	storage/source/storage_items_pelion_sst.c	/^    const char *type_name;$/;"	m	struct:sotp_type_lookup_record_	file:
+value	mbed-client-esfs/source/include/esfs.h	/^    void *value;$/;"	m	struct:__anon15
+verify_certificate_expiration	factory-configurator-client/source/fcc_verification.c	/^static fcc_status_e verify_certificate_expiration(palX509Handle_t x509_cert, const uint8_t *certificate_name, size_t size_of_certificate_name)$/;"	f	file:
+verify_device_certificate_and_private_key	factory-configurator-client/source/fcc_verification.c	/^static fcc_status_e verify_device_certificate_and_private_key(bool use_bootstrap)$/;"	f	file:
+verify_existence_and_set_warning	factory-configurator-client/source/fcc_verification.c	/^static fcc_status_e verify_existence_and_set_warning(const uint8_t *parameter_name, size_t size_of_parameter_name, kcm_item_type_e parameter_type, bool is_should_be_present)$/;"	f	file:
+verify_firmware_update_certificate	factory-configurator-client/source/fcc_verification.c	/^static fcc_status_e verify_firmware_update_certificate(void)$/;"	f	file:
+verify_firmware_uuid	factory-configurator-client/source/fcc_verification.c	/^static fcc_status_e verify_firmware_uuid(const char *fcc_firmware_id_name)$/;"	f	file:
+verify_root_ca_certificate	factory-configurator-client/source/fcc_verification.c	/^static fcc_status_e verify_root_ca_certificate(bool use_bootstrap)$/;"	f	file:
+verify_server_uri	factory-configurator-client/source/fcc_verification.c	/^static fcc_status_e verify_server_uri(bool use_bootstrap)$/;"	f	file:
+version	mbed-client-esfs/source/sotp/sotp_int.h	/^    uint16_t version;$/;"	m	struct:__anon21
+wait_for_message	ftcd-comm-base/source/ftcd_comm_base.cpp	/^ftcd_comm_status_e FtcdCommBase::wait_for_message(uint8_t **message_out, uint32_t *message_size_out)$/;"	f	class:FtcdCommBase
+wait_for_message	ftcd-comm-socket/source/ftcd_comm_socket.cpp	/^ftcd_comm_status_e FtcdCommSocket::wait_for_message(uint8_t **message_out, uint32_t *message_size_out)$/;"	f	class:FtcdCommSocket
+warning_info_string	factory-configurator-client/factory-configurator-client/fcc_defs.h	/^    char *warning_info_string;\/\/ pattern of the warning string - warning_string:item_name$/;"	m	struct:fcc_warning_info_
+write_lock	mbed-client-esfs/source/sotp/sotp.c	/^STATIC sotp_shared_lock_t write_lock;$/;"	v
+write_master_record	mbed-client-esfs/source/sotp/sotp.c	/^STATIC sotp_result_e write_master_record(uint8_t area, uint16_t version, uint32_t *next_offset)$/;"	f
+write_record	mbed-client-esfs/source/sotp/sotp.c	/^STATIC sotp_result_e write_record(uint8_t area, uint32_t offset, uint16_t type, uint16_t flags,$/;"	f
+xstr	fcc-output-info-handler/source/fcc_output_info_handler.c	25;"	d	file:
+~FtcdCommBase	ftcd-comm-base/source/ftcd_comm_base.cpp	/^FtcdCommBase::~FtcdCommBase()$/;"	f	class:FtcdCommBase
+~FtcdCommSerial	ftcd-comm-serial/source/ftcd_comm_serial.cpp	/^FtcdCommSerial::~FtcdCommSerial()$/;"	f	class:FtcdCommSerial
+~FtcdCommSocket	ftcd-comm-socket/source/ftcd_comm_socket.cpp	/^FtcdCommSocket::~FtcdCommSocket()$/;"	f	class:FtcdCommSocket
